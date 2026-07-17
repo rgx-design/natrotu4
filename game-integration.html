@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>火影单词速记 - 游戏积分系统</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            min-height: 100vh;
+            background: linear-gradient(180deg, #fff8e1 0%, #ffe0b2 50%, #ffcc80 100%);
+        }
+
+        .header {
+            background: linear-gradient(90deg, #e65100 0%, #ff7043 50%, #e65100 100%);
+            padding: 15px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 4px 20px rgba(230,81,0,0.3);
+        }
+        .header-logo { font-size: 28px; font-weight: bold; color: #fff; }
+        .header-user { color: white; font-weight: 500; }
+        .header-points { 
+            background: rgba(255,255,255,0.2); 
+            padding: 8px 16px; 
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+        }
+
+        .card-title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #e65100;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-item {
+            background: linear-gradient(135deg, #fff8e1 0%, #ffe0b2 100%);
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 36px;
+            font-weight: bold;
+            color: #e65100;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: #666;
+            margin-top: 5px;
+        }
+
+        .btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #e65100 0%, #ff7043 100%);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(230,81,0,0.3);
+        }
+
+        .auth-forms {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-label {
+            display: block;
+            font-size: 14px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 8px;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 12px 16px;
+            border: 2px solid #eee;
+            border-radius: 10px;
+            font-size: 15px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .form-input:focus {
+            border-color: #e65100;
+        }
+
+        .game-area {
+            text-align: center;
+            padding: 40px;
+        }
+
+        .game-word {
+            font-size: 48px;
+            font-weight: bold;
+            color: #333;
+            margin: 30px 0;
+        }
+
+        .game-options {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            max-width: 600px;
+            margin: 0 auto 30px;
+        }
+
+        .game-option {
+            padding: 20px;
+            border: 2px solid #eee;
+            border-radius: 15px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .game-option:hover {
+            border-color: #e65100;
+            background: #fff8e1;
+        }
+
+        .game-option.correct {
+            background: #c8e6c9;
+            border-color: #4caf50;
+        }
+
+        .game-option.wrong {
+            background: #ffcdd2;
+            border-color: #f44336;
+        }
+
+        .game-stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 30px;
+        }
+
+        .game-stat {
+            text-align: center;
+        }
+
+        .game-stat-value {
+            font-size: 32px;
+            font-weight: bold;
+            color: #e65100;
+        }
+
+        .game-stat-label {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .leaderboard-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .leaderboard-table th,
+        .leaderboard-table td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        .leaderboard-table th {
+            background: #fff8e1;
+            color: #e65100;
+            font-weight: 600;
+        }
+
+        .leaderboard-table tr:hover {
+            background: #fff8e1;
+        }
+
+        .rank-badge {
+            display: inline-block;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .rank-1 { background: #ffc107; color: white; }
+        .rank-2 { background: #9e9e9e; color: white; }
+        .rank-3 { background: #ff9800; color: white; }
+
+        .auth-section {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .auth-section .btn {
+            flex: 1;
+        }
+
+        .message {
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: none;
+        }
+
+        .message.success {
+            background: #c8e6c9;
+            color: #2e7d32;
+            display: block;
+        }
+
+        .message.error {
+            background: #ffcdd2;
+            color: #c62828;
+            display: block;
+        }
+
+        @media (max-width: 768px) {
+            .auth-forms {
+                grid-template-columns: 1fr;
+            }
+            .game-options {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-logo">火影单词速记</div>
+        <div class="header-user" id="userInfo">
+            <span id="username">未登录</span>
+            <span class="header-points" id="pointsDisplay">0 积分</span>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- 用户认证区域 -->
+        <div class="card" id="authCard">
+            <div class="card-title">用户中心</div>
+            
+            <div id="authMessage" class="message"></div>
+            
+            <div id="authForms" class="auth-forms">
+                <!-- 登录表单 -->
+                <div>
+                    <h3 style="margin-bottom: 20px; color: #333;">登录</h3>
+                    <div class="form-group">
+                        <label class="form-label">用户名</label>
+                        <input type="text" class="form-input" id="loginUsername" placeholder="请输入用户名">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">密码</label>
+                        <input type="password" class="form-input" id="loginPassword" placeholder="请输入密码">
+                    </div>
+                    <button class="btn btn-primary" onclick="doLogin()" style="width: 100%;">登录</button>
+                </div>
+
+                <!-- 注册表单 -->
+                <div>
+                    <h3 style="margin-bottom: 20px; color: #333;">注册</h3>
+                    <div class="form-group">
+                        <label class="form-label">用户名</label>
+                        <input type="text" class="form-input" id="regUsername" placeholder="请输入用户名">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">邮箱</label>
+                        <input type="email" class="form-input" id="regEmail" placeholder="请输入邮箱">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">密码</label>
+                        <input type="password" class="form-input" id="regPassword" placeholder="请输入密码">
+                    </div>
+                    <button class="btn btn-primary" onclick="doRegister()" style="width: 100%;">注册</button>
+                </div>
+            </div>
+
+            <div id="userDashboard" style="display: none;">
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-value" id="totalPoints">0</div>
+                        <div class="stat-label">总积分</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="dailyPoints">0</div>
+                        <div class="stat-label">今日积分</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="streakDays">0</div>
+                        <div class="stat-label">连续登录</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="gamesPlayed">0</div>
+                        <div class="stat-label">游戏次数</div>
+                    </div>
+                </div>
+                <button class="btn btn-primary" onclick="logout()">退出登录</button>
+            </div>
+        </div>
+
+        <!-- 游戏区域 -->
+        <div class="card" id="gameCard">
+            <div class="card-title">火影单词挑战</div>
+            
+            <div class="game-area" id="gameArea">
+                <div class="game-word" id="gameWord">点击开始游戏</div>
+                <div class="game-options" id="gameOptions">
+                    <button class="game-option" onclick="selectOption(0)">选项 A</button>
+                    <button class="game-option" onclick="selectOption(1)">选项 B</button>
+                    <button class="game-option" onclick="selectOption(2)">选项 C</button>
+                    <button class="game-option" onclick="selectOption(3)">选项 D</button>
+                </div>
+                <button class="btn btn-primary" id="startGameBtn" onclick="startGame()">开始游戏</button>
+            </div>
+
+            <div class="game-stats">
+                <div class="game-stat">
+                    <div class="game-stat-value" id="correctCount">0</div>
+                    <div class="game-stat-label">答对</div>
+                </div>
+                <div class="game-stat">
+                    <div class="game-stat-value" id="wrongCount">0</div>
+                    <div class="game-stat-label">答错</div>
+                </div>
+                <div class="game-stat">
+                    <div class="game-stat-value" id="currentStreak">0</div>
+                    <div class="game-stat-label">连续答对</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 排行榜 -->
+        <div class="card">
+            <div class="card-title">积分排行榜</div>
+            <div style="display: flex; gap: 10px; margin-bottom: 20px;">
+                <button class="btn btn-primary" onclick="showLeaderboard('total')">总积分榜</button>
+                <button class="btn btn-primary" onclick="showLeaderboard('daily')" style="background: #666;">今日积分榜</button>
+            </div>
+            <table class="leaderboard-table">
+                <thead>
+                    <tr>
+                        <th>排名</th>
+                        <th>用户名</th>
+                        <th>积分</th>
+                        <th>连续登录</th>
+                    </tr>
+                </thead>
+                <tbody id="leaderboardBody">
+                    <tr><td colspan="4" style="text-align: center; color: #999;">加载中...</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // API基础URL
+        const API_BASE = 'http://localhost:3000';
+        
+        // 游戏状态
+        let currentUser = null;
+        let token = null;
+        let gameActive = false;
+        let correctCount = 0;
+        let wrongCount = 0;
+        let currentStreak = 0;
+        let maxStreak = 0;
+        let currentWord = null;
+        let options = [];
+        let correctIndex = -1;
+
+        // 示例单词数据
+        const words = [
+            { word: 'NARUTO', meaning: '鸣人', options: ['鸣人', '佐助', '小樱', '卡卡西'] },
+            { word: 'SASUKE', meaning: '佐助', options: ['鸣人', '佐助', '小樱', '卡卡西'] },
+            { word: 'SAKURA', meaning: '小樱', options: ['鸣人', '佐助', '小樱', '雏田'] },
+            { word: 'KAKASHI', meaning: '卡卡西', options: ['凯', '卡卡西', '阿斯玛', '自来也'] },
+            { word: 'NEJI', meaning: '宁次', options: ['鹿丸', '宁次', '丁次', '牙'] },
+            { word: 'LEE', meaning: '李', options: ['凯', '李', '天天', '手鞠'] },
+            { word: 'TENTEN', meaning: '天天', options: ['井野', '天天', '雏田', '手鞠'] },
+            { word: 'GAARA', meaning: '我爱罗', options: ['我爱罗', '迪达拉', '蝎', '鼬'] }
+        ];
+
+        // 检查登录状态
+        function checkAuth() {
+            const savedToken = localStorage.getItem('natrotu_token');
+            const savedUser = localStorage.getItem('natrotu_user');
+            
+            if (savedToken && savedUser) {
+                token = savedToken;
+                currentUser = JSON.parse(savedUser);
+                showDashboard();
+                loadUserProgress();
+            }
+        }
+
+        // 显示消息
+        function showMessage(message, type = 'success') {
+            const msgEl = document.getElementById('authMessage');
+            msgEl.textContent = message;
+            msgEl.className = 'message ' + type;
+            setTimeout(() => {
+                msgEl.style.display = 'none';
+            }, 3000);
+        }
+
+        // 登录
+        async function doLogin() {
+            const username = document.getElementById('loginUsername').value.trim();
+            const password = document.getElementById('loginPassword').value.trim();
+            
+            if (!username || !password) {
+                showMessage('请输入用户名和密码', 'error');
+                return;
+            }
+
+            try {
+                const response = await fetch(`${API_BASE}/login`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, password })
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    token = data.token;
+                    currentUser = data.user;
+                    localStorage.setItem('natrotu_token', token);
+                    localStorage.setItem('natrotu_user', JSON.stringify(currentUser));
+                    showDashboard();
+                    loadUserProgress();
+                    showMessage('登录成功！');
+                } else {
+                    showMessage(data.message || '登录失败', 'error');
+                }
+            } catch (error) {
+                showMessage('服务器连接失败，请确保服务器正在运行', 'error');
+            }
+        }
+
+        // 注册
+        async function doRegister() {
+            const username = document.getElementById('regUsername').value.trim();
+            const email = document.getElementById('regEmail').value.trim();
+            const password = document.getElementById('regPassword').value.trim();
+            
+            if (!username || !email || !password) {
+                showMessage('请填写所有字段', 'error');
+                return;
+            }
+
+            try {
+                const response = await fetch(`${API_BASE}/register`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, email, password })
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    showMessage(`注册成功！获得初始积分 ${data.initialPoints}`);
+                    // 自动登录
+                    document.getElementById('loginUsername').value = username;
+                    document.getElementById('loginPassword').value = password;
+                    doLogin();
+                } else {
+                    showMessage(data.message || '注册失败', 'error');
+                }
+            } catch (error) {
+                showMessage('服务器连接失败，请确保服务器正在运行', 'error');
+            }
+        }
+
+        // 显示用户面板
+        function showDashboard() {
+            document.getElementById('authForms').style.display = 'none';
+            document.getElementById('userDashboard').style.display = 'block';
+            document.getElementById('username').textContent = currentUser.username;
+        }
+
+        // 加载用户进度
+        async function loadUserProgress() {
+            if (!token) return;
+
+            try {
+                const response = await fetch(`${API_BASE}/profile`, {
+                    headers: { 'Authorization': `Bearer ${token}` }
+                });
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    updateProgressDisplay(data.progress);
+                }
+            } catch (error) {
+                console.error('加载用户进度失败:', error);
+            }
+        }
+
+        // 更新进度显示
+        function updateProgressDisplay(progress) {
+            if (progress) {
+                document.getElementById('totalPoints').textContent = progress.totalPoints;
+                document.getElementById('dailyPoints').textContent = progress.dailyPoints;
+                document.getElementById('streakDays').textContent = progress.streakDays;
+                document.getElementById('gamesPlayed').textContent = progress.gamesPlayed;
+                document.getElementById('pointsDisplay').textContent = `${progress.totalPoints} 积分`;
+            }
+        }
+
+        // 退出登录
+        function logout() {
+            localStorage.removeItem('natrotu_token');
+            localStorage.removeItem('natrotu_user');
+            currentUser = null;
+            token = null;
+            document.getElementById('authForms').style.display = 'grid';
+            document.getElementById('userDashboard').style.display = 'none';
+            document.getElementById('username').textContent = '未登录';
+            document.getElementById('pointsDisplay').textContent = '0 积分';
+            showMessage('已退出登录');
+        }
+
+        // 开始游戏
+        function startGame() {
+            if (!token) {
+                showMessage('请先登录', 'error');
+                return;
+            }
+
+            gameActive = true;
+            correctCount = 0;
+            wrongCount = 0;
+            currentStreak = 0;
+            maxStreak = 0;
+            
+            document.getElementById('correctCount').textContent = '0';
+            document.getElementById('wrongCount').textContent = '0';
+            document.getElementById('currentStreak').textContent = '0';
+            document.getElementById('startGameBtn').textContent = '游戏中...';
+            document.getElementById('startGameBtn').disabled = true;
+            
+            nextQuestion();
+        }
+
+        // 下一题
+        function nextQuestion() {
+            if (!gameActive) return;
+
+            // 随机选择单词
+            currentWord = words[Math.floor(Math.random() * words.length)];
+            correctIndex = 0; // 第一个选项是正确的
+            
+            // 打乱选项
+            options = [...currentWord.options];
+            options = options.sort(() => Math.random() - 0.5);
+            correctIndex = options.indexOf(currentWord.meaning);
+            
+            // 更新UI
+            document.getElementById('gameWord').textContent = currentWord.word;
+            
+            const optionBtns = document.querySelectorAll('.game-option');
+            optionBtns.forEach((btn, index) => {
+                btn.textContent = options[index];
+                btn.className = 'game-option';
+                btn.disabled = false;
+            });
+        }
+
+        // 选择选项
+        async function selectOption(index) {
+            if (!gameActive || index === correctIndex) return;
+
+            const optionBtns = document.querySelectorAll('.game-option');
+            optionBtns.forEach((btn, i) => {
+                btn.disabled = true;
+                if (i === correctIndex) {
+                    btn.classList.add('correct');
+                } else if (i === index) {
+                    btn.classList.add('wrong');
+                }
+            });
+
+            // 更新计数
+            if (index === correctIndex) {
+                correctCount++;
+                currentStreak++;
+                if (currentStreak > maxStreak) maxStreak = currentStreak;
+            } else {
+                wrongCount++;
+                currentStreak = 0;
+            }
+
+            document.getElementById('correctCount').textContent = correctCount;
+            document.getElementById('wrongCount').textContent = wrongCount;
+            document.getElementById('currentStreak').textContent = currentStreak;
+
+            // 延迟后下一题
+            setTimeout(() => {
+                nextQuestion();
+            }, 1000);
+        }
+
+        // 结束游戏
+        async function endGame() {
+            if (!token) return;
+
+            gameActive = false;
+            document.getElementById('startGameBtn').textContent = '开始游戏';
+            document.getElementById('startGameBtn').disabled = false;
+
+            try {
+                const response = await fetch(`${API_BASE}/game/complete`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${token}`
+                    },
+                    body: JSON.stringify({
+                        correct: correctCount,
+                        wrong: wrongCount,
+                        streak: maxStreak
+                    })
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    showMessage(`游戏完成！获得 ${data.pointsEarned} 积分！`);
+                    loadUserProgress();
+                }
+            } catch (error) {
+                console.error('提交游戏结果失败:', error);
+            }
+        }
+
+        // 显示排行榜
+        async function showLeaderboard(type = 'total') {
+            try {
+                const response = await fetch(`${API_BASE}/leaderboard?type=${type}`);
+                if (response.ok) {
+                    const leaders = await response.json();
+                    renderLeaderboard(leaders);
+                }
+            } catch (error) {
+                console.error('加载排行榜失败:', error);
+            }
+        }
+
+        // 渲染排行榜
+        function renderLeaderboard(leaders) {
+            const tbody = document.getElementById('leaderboardBody');
+            
+            if (leaders.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="4" style="text-align: center; color: #999;">暂无数据</td></tr>';
+                return;
+            }
+
+            tbody.innerHTML = leaders.map((leader, index) => {
+                const rankClass = index === 0 ? 'rank-1' : index === 1 ? 'rank-2' : index === 2 ? 'rank-3' : '';
+                return `
+                    <tr>
+                        <td><span class="rank-badge ${rankClass}">${leader.rank}</span></td>
+                        <td>${leader.username}</td>
+                        <td>${leader.points}</td>
+                        <td>${leader.streakDays} 天</td>
+                    </tr>
+                `;
+            }).join('');
+        }
+
+        // 初始化
+        document.addEventListener('DOMContentLoaded', () => {
+            checkAuth();
+            showLeaderboard('total');
+            
+            // 每30秒刷新排行榜
+            setInterval(() => showLeaderboard('total'), 30000);
+        });
+    </script>
+</body>
+</html>

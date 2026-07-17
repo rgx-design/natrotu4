@@ -1,0 +1,15 @@
+{
+  "name": "natrotu4",
+  "version": "1.0.0",
+  "description": "火影背单词 - 游戏化英语学习应用",
+  "main": "server-test.js",
+  "scripts": {
+    "start": "node server-test.js",
+    "dev": "node server-test.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

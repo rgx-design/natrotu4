@@ -1,0 +1,22 @@
+[
+    {"word": "apple", "chinese": "苹果", "emoji": "🍎"},
+    {"word": "book", "chinese": "书", "emoji": "📖"},
+    {"word": "cat", "chinese": "猫", "emoji": "🐱"},
+    {"word": "dog", "chinese": "狗", "emoji": "🐶"},
+    {"word": "egg", "chinese": "鸡蛋", "emoji": "🥚"},
+    {"word": "fish", "chinese": "鱼", "emoji": "🐟"},
+    {"word": "girl", "chinese": "女孩", "emoji": "👧"},
+    {"word": "hand", "chinese": "手", "emoji": "✋"},
+    {"word": "ice", "chinese": "冰", "emoji": "🧊"},
+    {"word": "jump", "chinese": "跳", "emoji": "🦘"},
+    {"word": "king", "chinese": "国王", "emoji": "👑"},
+    {"word": "love", "chinese": "爱", "emoji": "❤️"},
+    {"word": "milk", "chinese": "牛奶", "emoji": "🥛"},
+    {"word": "name", "chinese": "名字", "emoji": "✍️"},
+    {"word": "orange", "chinese": "橙子", "emoji": "🍊"},
+    {"word": "pig", "chinese": "猪", "emoji": "🐷"},
+    {"word": "queen", "chinese": "女王", "emoji": "👸"},
+    {"word": "rain", "chinese": "雨", "emoji": "🌧️"},
+    {"word": "sun", "chinese": "太阳", "emoji": "☀️"},
+    {"word": "tree", "chinese": "树", "emoji": "🌳"}
+]

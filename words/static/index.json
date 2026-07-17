@@ -1,0 +1,40 @@
+{
+  "wordbooks": [
+    {
+      "name": "primary800",
+      "label": "小学800",
+      "file": "primary800.json",
+      "isDefault": true
+    },
+    {
+      "name": "cet4000_1",
+      "label": "CET-4000 (1/4)",
+      "file": "cet4000_1.json",
+      "isDefault": true
+    },
+    {
+      "name": "cet4000_2",
+      "label": "CET-4000 (2/4)",
+      "file": "cet4000_2.json",
+      "isDefault": true
+    },
+    {
+      "name": "cet4000_3",
+      "label": "CET-4000 (3/4)",
+      "file": "cet4000_3.json",
+      "isDefault": true
+    },
+    {
+      "name": "cet4000_4",
+      "label": "CET-4000 (4/4)",
+      "file": "cet4000_4.json",
+      "isDefault": true
+    },
+    {
+      "name": "mybook",
+      "label": "动词167词库",
+      "file": "mybook.json",
+      "isDefault": false
+    }
+  ]
+}

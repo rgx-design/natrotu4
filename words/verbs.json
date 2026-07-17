@@ -1,0 +1,22 @@
+[
+    {"word": "run", "chinese": "跑", "emoji": "🏃"},
+    {"word": "jump", "chinese": "跳", "emoji": "🦘"},
+    {"word": "swim", "chinese": "游泳", "emoji": "🏊"},
+    {"word": "fly", "chinese": "飞", "emoji": "✈️"},
+    {"word": "eat", "chinese": "吃", "emoji": "🍽️"},
+    {"word": "drink", "chinese": "喝", "emoji": "🥤"},
+    {"word": "sleep", "chinese": "睡觉", "emoji": "😴"},
+    {"word": "read", "chinese": "阅读", "emoji": "📖"},
+    {"word": "write", "chinese": "写", "emoji": "✍️"},
+    {"word": "sing", "chinese": "唱歌", "emoji": "🎤"},
+    {"word": "dance", "chinese": "跳舞", "emoji": "💃"},
+    {"word": "talk", "chinese": "说话", "emoji": "🗣️"},
+    {"word": "think", "chinese": "思考", "emoji": "🤔"},
+    {"word": "laugh", "chinese": "笑", "emoji": "😄"},
+    {"word": "cry", "chinese": "哭", "emoji": "😭"},
+    {"word": "walk", "chinese": "走路", "emoji": "🚶"},
+    {"word": "climb", "chinese": "爬", "emoji": "🧗"},
+    {"word": "fight", "chinese": "战斗", "emoji": "⚔️"},
+    {"word": "learn", "chinese": "学习", "emoji": "📚"},
+    {"word": "teach", "chinese": "教", "emoji": "👨‍🏫"}
+]

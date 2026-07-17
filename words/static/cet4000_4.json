@@ -1,0 +1,7198 @@
+[
+  {
+    "word": "pulse",
+    "chinese": "脉搏",
+    "emoji": "💓",
+    "audio": "words/audio/pulse.mp3",
+    "image": ""
+  },
+  {
+    "word": "pump",
+    "chinese": "泵",
+    "emoji": "💧",
+    "audio": "words/audio/pump.mp3",
+    "image": ""
+  },
+  {
+    "word": "punctual",
+    "chinese": "准时的",
+    "emoji": "⏰",
+    "audio": "words/audio/punctual.mp3",
+    "image": ""
+  },
+  {
+    "word": "punish",
+    "chinese": "惩罚",
+    "emoji": "📌",
+    "audio": "words/audio/punish.mp3",
+    "image": ""
+  },
+  {
+    "word": "punishment",
+    "chinese": "惩罚",
+    "emoji": "📌",
+    "audio": "words/audio/punishment.mp3",
+    "image": ""
+  },
+  {
+    "word": "pupil",
+    "chinese": "学生",
+    "emoji": "🎓",
+    "audio": "words/audio/pupil.mp3",
+    "image": ""
+  },
+  {
+    "word": "puppet",
+    "chinese": "木偶",
+    "emoji": "🧟",
+    "audio": "words/audio/puppet.mp3",
+    "image": ""
+  },
+  {
+    "word": "purchase",
+    "chinese": "购买",
+    "emoji": "🛒",
+    "audio": "words/audio/purchase.mp3",
+    "image": ""
+  },
+  {
+    "word": "pure",
+    "chinese": "纯的",
+    "emoji": "💧",
+    "audio": "words/audio/pure.mp3",
+    "image": ""
+  },
+  {
+    "word": "purple",
+    "chinese": "紫色的",
+    "emoji": "🟣",
+    "audio": "words/audio/purple.mp3",
+    "image": ""
+  },
+  {
+    "word": "purpose",
+    "chinese": "目的",
+    "emoji": "🎯",
+    "audio": "words/audio/purpose.mp3",
+    "image": ""
+  },
+  {
+    "word": "purse",
+    "chinese": "钱包",
+    "emoji": "👛",
+    "audio": "words/audio/purse.mp3",
+    "image": ""
+  },
+  {
+    "word": "push",
+    "chinese": "推",
+    "emoji": "🚀",
+    "audio": "words/audio/push.mp3",
+    "image": ""
+  },
+  {
+    "word": "put",
+    "chinese": "放",
+    "emoji": "📍",
+    "audio": "words/audio/put.mp3",
+    "image": ""
+  },
+  {
+    "word": "puzzle",
+    "chinese": "谜",
+    "emoji": "🧩",
+    "audio": "words/audio/puzzle.mp3",
+    "image": ""
+  },
+  {
+    "word": "qualification",
+    "chinese": "资格",
+    "emoji": "🥇",
+    "audio": "words/audio/qualification.mp3",
+    "image": ""
+  },
+  {
+    "word": "qualify",
+    "chinese": "使合格",
+    "emoji": "🥇",
+    "audio": "words/audio/qualify.mp3",
+    "image": ""
+  },
+  {
+    "word": "quality",
+    "chinese": "质量",
+    "emoji": "🌟",
+    "audio": "words/audio/quality.mp3",
+    "image": ""
+  },
+  {
+    "word": "quantity",
+    "chinese": "数量",
+    "emoji": "🔢",
+    "audio": "words/audio/quantity.mp3",
+    "image": ""
+  },
+  {
+    "word": "quarrel",
+    "chinese": "争吵",
+    "emoji": "📚",
+    "audio": "words/audio/quarrel.mp3",
+    "image": ""
+  },
+  {
+    "word": "quarter",
+    "chinese": "四分之一",
+    "emoji": "¼",
+    "audio": "words/audio/quarter.mp3",
+    "image": ""
+  },
+  {
+    "word": "queen",
+    "chinese": "女王",
+    "emoji": "👑",
+    "audio": "words/audio/queen.mp3",
+    "image": ""
+  },
+  {
+    "word": "quest",
+    "chinese": "探索",
+    "emoji": "🔍",
+    "audio": "words/audio/quest.mp3",
+    "image": ""
+  },
+  {
+    "word": "question",
+    "chinese": "问题",
+    "emoji": "❓",
+    "audio": "words/audio/question.mp3",
+    "image": ""
+  },
+  {
+    "word": "queue",
+    "chinese": "队列",
+    "emoji": "💬",
+    "audio": "words/audio/queue.mp3",
+    "image": ""
+  },
+  {
+    "word": "quick",
+    "chinese": "快的",
+    "emoji": "⚡",
+    "audio": "words/audio/quick.mp3",
+    "image": ""
+  },
+  {
+    "word": "quiet",
+    "chinese": "安静的",
+    "emoji": "🤫",
+    "audio": "words/audio/quiet.mp3",
+    "image": ""
+  },
+  {
+    "word": "quit",
+    "chinese": "放弃",
+    "emoji": "👋",
+    "audio": "words/audio/quit.mp3",
+    "image": ""
+  },
+  {
+    "word": "quite",
+    "chinese": "完全",
+    "emoji": "✅",
+    "audio": "words/audio/quite.mp3",
+    "image": ""
+  },
+  {
+    "word": "quiz",
+    "chinese": "测验",
+    "emoji": "📝",
+    "audio": "words/audio/quiz.mp3",
+    "image": ""
+  },
+  {
+    "word": "quotation",
+    "chinese": "引用",
+    "emoji": "🔖",
+    "audio": "words/audio/quotation.mp3",
+    "image": ""
+  },
+  {
+    "word": "quote",
+    "chinese": "引用",
+    "emoji": "🗣",
+    "audio": "words/audio/quote.mp3",
+    "image": ""
+  },
+  {
+    "word": "rabbit",
+    "chinese": "兔子",
+    "emoji": "🐰",
+    "audio": "words/audio/rabbit.mp3",
+    "image": ""
+  },
+  {
+    "word": "race",
+    "chinese": "比赛",
+    "emoji": "🏃",
+    "audio": "words/audio/race.mp3",
+    "image": ""
+  },
+  {
+    "word": "racial",
+    "chinese": "种族的",
+    "emoji": "🌟",
+    "audio": "words/audio/racial.mp3",
+    "image": ""
+  },
+  {
+    "word": "rack",
+    "chinese": "架子",
+    "emoji": "📦",
+    "audio": "words/audio/rack.mp3",
+    "image": ""
+  },
+  {
+    "word": "radar",
+    "chinese": "雷达",
+    "emoji": "🔎",
+    "audio": "words/audio/radar.mp3",
+    "image": ""
+  },
+  {
+    "word": "radiation",
+    "chinese": "辐射",
+    "emoji": "💡",
+    "audio": "words/audio/radiation.mp3",
+    "image": ""
+  },
+  {
+    "word": "radio",
+    "chinese": "收音机",
+    "emoji": "📻",
+    "audio": "words/audio/radio.mp3",
+    "image": ""
+  },
+  {
+    "word": "rail",
+    "chinese": "铁轨",
+    "emoji": "🛤",
+    "audio": "words/audio/rail.mp3",
+    "image": ""
+  },
+  {
+    "word": "railway",
+    "chinese": "铁路",
+    "emoji": "🚂",
+    "audio": "words/audio/railway.mp3",
+    "image": ""
+  },
+  {
+    "word": "rain",
+    "chinese": "雨",
+    "emoji": "🌧️",
+    "audio": "words/audio/rain.mp3",
+    "image": ""
+  },
+  {
+    "word": "rainbow",
+    "chinese": "彩虹",
+    "emoji": "🌈",
+    "audio": "words/audio/rainbow.mp3",
+    "image": ""
+  },
+  {
+    "word": "rainy",
+    "chinese": "下雨的",
+    "emoji": "🌧️",
+    "audio": "words/audio/rainy.mp3",
+    "image": ""
+  },
+  {
+    "word": "raise",
+    "chinese": "举起",
+    "emoji": "🙏",
+    "audio": "words/audio/raise.mp3",
+    "image": ""
+  },
+  {
+    "word": "range",
+    "chinese": "范围",
+    "emoji": "🌈",
+    "audio": "words/audio/range.mp3",
+    "image": ""
+  },
+  {
+    "word": "rank",
+    "chinese": "等级",
+    "emoji": "🥇",
+    "audio": "words/audio/rank.mp3",
+    "image": ""
+  },
+  {
+    "word": "rapid",
+    "chinese": "迅速的",
+    "emoji": "🚀",
+    "audio": "words/audio/rapid.mp3",
+    "image": ""
+  },
+  {
+    "word": "rare",
+    "chinese": "稀有的",
+    "emoji": "💎",
+    "audio": "words/audio/rare.mp3",
+    "image": ""
+  },
+  {
+    "word": "rat",
+    "chinese": "老鼠",
+    "emoji": "🐀",
+    "audio": "words/audio/rat.mp3",
+    "image": ""
+  },
+  {
+    "word": "rate",
+    "chinese": "比率",
+    "emoji": "📊",
+    "audio": "words/audio/rate.mp3",
+    "image": ""
+  },
+  {
+    "word": "rather",
+    "chinese": "宁可",
+    "emoji": "✅",
+    "audio": "words/audio/rather.mp3",
+    "image": ""
+  },
+  {
+    "word": "raw",
+    "chinese": "生的",
+    "emoji": "🍎",
+    "audio": "words/audio/raw.mp3",
+    "image": ""
+  },
+  {
+    "word": "ray",
+    "chinese": "光线",
+    "emoji": "☀",
+    "audio": "words/audio/ray.mp3",
+    "image": ""
+  },
+  {
+    "word": "razor",
+    "chinese": "剃刀",
+    "emoji": "🌟",
+    "audio": "words/audio/razor.mp3",
+    "image": ""
+  },
+  {
+    "word": "reach",
+    "chinese": "到达",
+    "emoji": "🏃",
+    "audio": "words/audio/reach.mp3",
+    "image": ""
+  },
+  {
+    "word": "react",
+    "chinese": "反应",
+    "emoji": "💥",
+    "audio": "words/audio/react.mp3",
+    "image": ""
+  },
+  {
+    "word": "read",
+    "chinese": "读",
+    "emoji": "📖",
+    "audio": "words/audio/read.mp3",
+    "image": ""
+  },
+  {
+    "word": "reader",
+    "chinese": "读者",
+    "emoji": "📚",
+    "audio": "words/audio/reader.mp3",
+    "image": ""
+  },
+  {
+    "word": "ready",
+    "chinese": "准备好的",
+    "emoji": "✅",
+    "audio": "words/audio/ready.mp3",
+    "image": ""
+  },
+  {
+    "word": "real",
+    "chinese": "真实的",
+    "emoji": "💎",
+    "audio": "words/audio/real.mp3",
+    "image": ""
+  },
+  {
+    "word": "reality",
+    "chinese": "现实",
+    "emoji": "💫",
+    "audio": "words/audio/reality.mp3",
+    "image": ""
+  },
+  {
+    "word": "realize",
+    "chinese": "意识到",
+    "emoji": "💡",
+    "audio": "words/audio/realize.mp3",
+    "image": ""
+  },
+  {
+    "word": "really",
+    "chinese": "真正地",
+    "emoji": "✅",
+    "audio": "words/audio/really.mp3",
+    "image": ""
+  },
+  {
+    "word": "reason",
+    "chinese": "原因",
+    "emoji": "🤔",
+    "audio": "words/audio/reason.mp3",
+    "image": ""
+  },
+  {
+    "word": "reasonable",
+    "chinese": "合理的",
+    "emoji": "💰",
+    "audio": "words/audio/reasonable.mp3",
+    "image": ""
+  },
+  {
+    "word": "recall",
+    "chinese": "回想",
+    "emoji": "🤔",
+    "audio": "words/audio/recall.mp3",
+    "image": ""
+  },
+  {
+    "word": "receipt",
+    "chinese": "收据",
+    "emoji": "📝",
+    "audio": "words/audio/receipt.mp3",
+    "image": ""
+  },
+  {
+    "word": "receive",
+    "chinese": "收到",
+    "emoji": "📥",
+    "audio": "words/audio/receive.mp3",
+    "image": ""
+  },
+  {
+    "word": "recent",
+    "chinese": "最近的",
+    "emoji": "📝",
+    "audio": "words/audio/recent.mp3",
+    "image": ""
+  },
+  {
+    "word": "recently",
+    "chinese": "最近",
+    "emoji": "📅",
+    "audio": "words/audio/recently.mp3",
+    "image": ""
+  },
+  {
+    "word": "reception",
+    "chinese": "接待",
+    "emoji": "👋",
+    "audio": "words/audio/reception.mp3",
+    "image": ""
+  },
+  {
+    "word": "recipe",
+    "chinese": "食谱",
+    "emoji": "🍳",
+    "audio": "words/audio/recipe.mp3",
+    "image": ""
+  },
+  {
+    "word": "recite",
+    "chinese": "背诵",
+    "emoji": "📖",
+    "audio": "words/audio/recite.mp3",
+    "image": ""
+  },
+  {
+    "word": "recognize",
+    "chinese": "认出",
+    "emoji": "👀",
+    "audio": "words/audio/recognize.mp3",
+    "image": ""
+  },
+  {
+    "word": "recommend",
+    "chinese": "推荐",
+    "emoji": "💡",
+    "audio": "words/audio/recommend.mp3",
+    "image": ""
+  },
+  {
+    "word": "record",
+    "chinese": "记录",
+    "emoji": "🎙️",
+    "audio": "words/audio/record.mp3",
+    "image": ""
+  },
+  {
+    "word": "recover",
+    "chinese": "恢复",
+    "emoji": "🌱",
+    "audio": "words/audio/recover.mp3",
+    "image": ""
+  },
+  {
+    "word": "recovery",
+    "chinese": "恢复",
+    "emoji": "🌱",
+    "audio": "words/audio/recovery.mp3",
+    "image": ""
+  },
+  {
+    "word": "recreation",
+    "chinese": "娱乐",
+    "emoji": "🎮",
+    "audio": "words/audio/recreation.mp3",
+    "image": ""
+  },
+  {
+    "word": "recycle",
+    "chinese": "回收",
+    "emoji": "♻",
+    "audio": "words/audio/recycle.mp3",
+    "image": ""
+  },
+  {
+    "word": "red",
+    "chinese": "红色的",
+    "emoji": "🔴",
+    "audio": "words/audio/red.mp3",
+    "image": ""
+  },
+  {
+    "word": "reduce",
+    "chinese": "减少",
+    "emoji": "📉",
+    "audio": "words/audio/reduce.mp3",
+    "image": ""
+  },
+  {
+    "word": "refer",
+    "chinese": "提到",
+    "emoji": "📖",
+    "audio": "words/audio/refer.mp3",
+    "image": ""
+  },
+  {
+    "word": "reference",
+    "chinese": "参考",
+    "emoji": "📚",
+    "audio": "words/audio/reference.mp3",
+    "image": ""
+  },
+  {
+    "word": "reflect",
+    "chinese": "反映",
+    "emoji": "💡",
+    "audio": "words/audio/reflect.mp3",
+    "image": ""
+  },
+  {
+    "word": "reform",
+    "chinese": "改革",
+    "emoji": "🌟",
+    "audio": "words/audio/reform.mp3",
+    "image": ""
+  },
+  {
+    "word": "refresh",
+    "chinese": "使恢复",
+    "emoji": "🥤",
+    "audio": "words/audio/refresh.mp3",
+    "image": ""
+  },
+  {
+    "word": "refrigerator",
+    "chinese": "冰箱",
+    "emoji": "❄️",
+    "audio": "words/audio/refrigerator.mp3",
+    "image": ""
+  },
+  {
+    "word": "refuge",
+    "chinese": "避难",
+    "emoji": "🏠",
+    "audio": "words/audio/refuge.mp3",
+    "image": ""
+  },
+  {
+    "word": "refugee",
+    "chinese": "难民",
+    "emoji": "🌟",
+    "audio": "words/audio/refugee.mp3",
+    "image": ""
+  },
+  {
+    "word": "refuse",
+    "chinese": "拒绝",
+    "emoji": "❌",
+    "audio": "words/audio/refuse.mp3",
+    "image": ""
+  },
+  {
+    "word": "regard",
+    "chinese": "看作",
+    "emoji": "👀",
+    "audio": "words/audio/regard.mp3",
+    "image": ""
+  },
+  {
+    "word": "regardless",
+    "chinese": "不管",
+    "emoji": "❌",
+    "audio": "words/audio/regardless.mp3",
+    "image": ""
+  },
+  {
+    "word": "region",
+    "chinese": "地区",
+    "emoji": "🌍",
+    "audio": "words/audio/region.mp3",
+    "image": ""
+  },
+  {
+    "word": "register",
+    "chinese": "登记",
+    "emoji": "📝",
+    "audio": "words/audio/register.mp3",
+    "image": ""
+  },
+  {
+    "word": "regret",
+    "chinese": "后悔",
+    "emoji": "😢",
+    "audio": "words/audio/regret.mp3",
+    "image": ""
+  },
+  {
+    "word": "regular",
+    "chinese": "规则的",
+    "emoji": "🔄",
+    "audio": "words/audio/regular.mp3",
+    "image": ""
+  },
+  {
+    "word": "regulate",
+    "chinese": "管理",
+    "emoji": "📍",
+    "audio": "words/audio/regulate.mp3",
+    "image": ""
+  },
+  {
+    "word": "reject",
+    "chinese": "拒绝",
+    "emoji": "🚫",
+    "audio": "words/audio/reject.mp3",
+    "image": ""
+  },
+  {
+    "word": "relate",
+    "chinese": "有关",
+    "emoji": "🔗",
+    "audio": "words/audio/relate.mp3",
+    "image": ""
+  },
+  {
+    "word": "relation",
+    "chinese": "关系",
+    "emoji": "👨",
+    "audio": "words/audio/relation.mp3",
+    "image": ""
+  },
+  {
+    "word": "relative",
+    "chinese": "亲戚",
+    "emoji": "👥",
+    "audio": "words/audio/relative.mp3",
+    "image": ""
+  },
+  {
+    "word": "relax",
+    "chinese": "放松",
+    "emoji": "🧘",
+    "audio": "words/audio/relax.mp3",
+    "image": ""
+  },
+  {
+    "word": "relief",
+    "chinese": "缓解",
+    "emoji": "😀",
+    "audio": "words/audio/relief.mp3",
+    "image": ""
+  },
+  {
+    "word": "relieve",
+    "chinese": "减轻",
+    "emoji": "😀",
+    "audio": "words/audio/relieve.mp3",
+    "image": ""
+  },
+  {
+    "word": "rely",
+    "chinese": "依赖",
+    "emoji": "🌱",
+    "audio": "words/audio/rely.mp3",
+    "image": ""
+  },
+  {
+    "word": "remain",
+    "chinese": "保持",
+    "emoji": "📍",
+    "audio": "words/audio/remain.mp3",
+    "image": ""
+  },
+  {
+    "word": "remark",
+    "chinese": "评论",
+    "emoji": "💬",
+    "audio": "words/audio/remark.mp3",
+    "image": ""
+  },
+  {
+    "word": "remarkable",
+    "chinese": "显著的",
+    "emoji": "🌟",
+    "audio": "words/audio/remarkable.mp3",
+    "image": ""
+  },
+  {
+    "word": "remedy",
+    "chinese": "治疗",
+    "emoji": "💊",
+    "audio": "words/audio/remedy.mp3",
+    "image": ""
+  },
+  {
+    "word": "remember",
+    "chinese": "记得",
+    "emoji": "🧠",
+    "audio": "words/audio/remember.mp3",
+    "image": ""
+  },
+  {
+    "word": "remind",
+    "chinese": "提醒",
+    "emoji": "🔔",
+    "audio": "words/audio/remind.mp3",
+    "image": ""
+  },
+  {
+    "word": "remote",
+    "chinese": "遥远的",
+    "emoji": "🌍",
+    "audio": "words/audio/remote.mp3",
+    "image": ""
+  },
+  {
+    "word": "remove",
+    "chinese": "移除",
+    "emoji": "➖",
+    "audio": "words/audio/remove.mp3",
+    "image": ""
+  },
+  {
+    "word": "rent",
+    "chinese": "租",
+    "emoji": "🏠",
+    "audio": "words/audio/rent.mp3",
+    "image": ""
+  },
+  {
+    "word": "repair",
+    "chinese": "修理",
+    "emoji": "🔧",
+    "audio": "words/audio/repair.mp3",
+    "image": ""
+  },
+  {
+    "word": "repeat",
+    "chinese": "重复",
+    "emoji": "🔄",
+    "audio": "words/audio/repeat.mp3",
+    "image": ""
+  },
+  {
+    "word": "replace",
+    "chinese": "替换",
+    "emoji": "🔄",
+    "audio": "words/audio/replace.mp3",
+    "image": ""
+  },
+  {
+    "word": "reply",
+    "chinese": "回答",
+    "emoji": "💬",
+    "audio": "words/audio/reply.mp3",
+    "image": ""
+  },
+  {
+    "word": "report",
+    "chinese": "报告",
+    "emoji": "📄",
+    "audio": "words/audio/report.mp3",
+    "image": ""
+  },
+  {
+    "word": "reporter",
+    "chinese": "记者",
+    "emoji": "📰",
+    "audio": "words/audio/reporter.mp3",
+    "image": ""
+  },
+  {
+    "word": "represent",
+    "chinese": "代表",
+    "emoji": "🤔",
+    "audio": "words/audio/represent.mp3",
+    "image": ""
+  },
+  {
+    "word": "representative",
+    "chinese": "代表",
+    "emoji": "👨",
+    "audio": "words/audio/representative.mp3",
+    "image": ""
+  },
+  {
+    "word": "republic",
+    "chinese": "共和国",
+    "emoji": "🏛️",
+    "audio": "words/audio/republic.mp3",
+    "image": ""
+  },
+  {
+    "word": "reputation",
+    "chinese": "名声",
+    "emoji": "🌟",
+    "audio": "words/audio/reputation.mp3",
+    "image": ""
+  },
+  {
+    "word": "request",
+    "chinese": "要求",
+    "emoji": "📋",
+    "audio": "words/audio/request.mp3",
+    "image": ""
+  },
+  {
+    "word": "require",
+    "chinese": "要求",
+    "emoji": "📌",
+    "audio": "words/audio/require.mp3",
+    "image": ""
+  },
+  {
+    "word": "requirement",
+    "chinese": "要求",
+    "emoji": "📌",
+    "audio": "words/audio/requirement.mp3",
+    "image": ""
+  },
+  {
+    "word": "rescue",
+    "chinese": "营救",
+    "emoji": "🚀",
+    "audio": "words/audio/rescue.mp3",
+    "image": ""
+  },
+  {
+    "word": "research",
+    "chinese": "研究",
+    "emoji": "🔬",
+    "audio": "words/audio/research.mp3",
+    "image": ""
+  },
+  {
+    "word": "resemble",
+    "chinese": "相似",
+    "emoji": "👥",
+    "audio": "words/audio/resemble.mp3",
+    "image": ""
+  },
+  {
+    "word": "reserve",
+    "chinese": "储备",
+    "emoji": "📦",
+    "audio": "words/audio/reserve.mp3",
+    "image": ""
+  },
+  {
+    "word": "residence",
+    "chinese": "住宅",
+    "emoji": "🏠",
+    "audio": "words/audio/residence.mp3",
+    "image": ""
+  },
+  {
+    "word": "resident",
+    "chinese": "居民",
+    "emoji": "🏠",
+    "audio": "words/audio/resident.mp3",
+    "image": ""
+  },
+  {
+    "word": "resign",
+    "chinese": "辞职",
+    "emoji": "🗑",
+    "audio": "words/audio/resign.mp3",
+    "image": ""
+  },
+  {
+    "word": "resist",
+    "chinese": "抵抗",
+    "emoji": "💪",
+    "audio": "words/audio/resist.mp3",
+    "image": ""
+  },
+  {
+    "word": "resistance",
+    "chinese": "抵抗",
+    "emoji": "🚫",
+    "audio": "words/audio/resistance.mp3",
+    "image": ""
+  },
+  {
+    "word": "resistant",
+    "chinese": "抵抗的",
+    "emoji": "🛡",
+    "audio": "words/audio/resistant.mp3",
+    "image": ""
+  },
+  {
+    "word": "resolve",
+    "chinese": "解决",
+    "emoji": "🤔",
+    "audio": "words/audio/resolve.mp3",
+    "image": ""
+  },
+  {
+    "word": "resource",
+    "chinese": "资源",
+    "emoji": "🌱",
+    "audio": "words/audio/resource.mp3",
+    "image": ""
+  },
+  {
+    "word": "respect",
+    "chinese": "尊重",
+    "emoji": "🙏",
+    "audio": "words/audio/respect.mp3",
+    "image": ""
+  },
+  {
+    "word": "respond",
+    "chinese": "回应",
+    "emoji": "💬",
+    "audio": "words/audio/respond.mp3",
+    "image": ""
+  },
+  {
+    "word": "response",
+    "chinese": "回应",
+    "emoji": "💬",
+    "audio": "words/audio/response.mp3",
+    "image": ""
+  },
+  {
+    "word": "responsibility",
+    "chinese": "责任",
+    "emoji": "💼",
+    "audio": "words/audio/responsibility.mp3",
+    "image": ""
+  },
+  {
+    "word": "responsible",
+    "chinese": "负责任的",
+    "emoji": "🤝",
+    "audio": "words/audio/responsible.mp3",
+    "image": ""
+  },
+  {
+    "word": "rest",
+    "chinese": "休息",
+    "emoji": "😴",
+    "audio": "words/audio/rest.mp3",
+    "image": ""
+  },
+  {
+    "word": "restaurant",
+    "chinese": "饭店",
+    "emoji": "🍽️",
+    "audio": "words/audio/restaurant.mp3",
+    "image": ""
+  },
+  {
+    "word": "restore",
+    "chinese": "恢复",
+    "emoji": "🔄",
+    "audio": "words/audio/restore.mp3",
+    "image": ""
+  },
+  {
+    "word": "restrict",
+    "chinese": "限制",
+    "emoji": "🚫",
+    "audio": "words/audio/restrict.mp3",
+    "image": ""
+  },
+  {
+    "word": "result",
+    "chinese": "结果",
+    "emoji": "📊",
+    "audio": "words/audio/result.mp3",
+    "image": ""
+  },
+  {
+    "word": "retail",
+    "chinese": "零售",
+    "emoji": "📦",
+    "audio": "words/audio/retail.mp3",
+    "image": ""
+  },
+  {
+    "word": "retain",
+    "chinese": "保留",
+    "emoji": "📚",
+    "audio": "words/audio/retain.mp3",
+    "image": ""
+  },
+  {
+    "word": "retire",
+    "chinese": "退休",
+    "emoji": "🏡",
+    "audio": "words/audio/retire.mp3",
+    "image": ""
+  },
+  {
+    "word": "return",
+    "chinese": "返回",
+    "emoji": "🔙",
+    "audio": "words/audio/return.mp3",
+    "image": ""
+  },
+  {
+    "word": "reveal",
+    "chinese": "揭露",
+    "emoji": "👁️",
+    "audio": "words/audio/reveal.mp3",
+    "image": ""
+  },
+  {
+    "word": "revenge",
+    "chinese": "报复",
+    "emoji": "💥",
+    "audio": "words/audio/revenge.mp3",
+    "image": ""
+  },
+  {
+    "word": "review",
+    "chinese": "复习",
+    "emoji": "📖",
+    "audio": "words/audio/review.mp3",
+    "image": ""
+  },
+  {
+    "word": "revolution",
+    "chinese": "革命",
+    "emoji": "🌟",
+    "audio": "words/audio/revolution.mp3",
+    "image": ""
+  },
+  {
+    "word": "reward",
+    "chinese": "奖赏",
+    "emoji": "🎁",
+    "audio": "words/audio/reward.mp3",
+    "image": ""
+  },
+  {
+    "word": "rhythm",
+    "chinese": "节奏",
+    "emoji": "🎵",
+    "audio": "words/audio/rhythm.mp3",
+    "image": ""
+  },
+  {
+    "word": "rib",
+    "chinese": "肋骨",
+    "emoji": "🦴",
+    "audio": "words/audio/rib.mp3",
+    "image": ""
+  },
+  {
+    "word": "ribbon",
+    "chinese": "丝带",
+    "emoji": "🎀",
+    "audio": "words/audio/ribbon.mp3",
+    "image": ""
+  },
+  {
+    "word": "rice",
+    "chinese": "米饭",
+    "emoji": "🍚",
+    "audio": "words/audio/rice.mp3",
+    "image": ""
+  },
+  {
+    "word": "rich",
+    "chinese": "富有的",
+    "emoji": "💰",
+    "audio": "words/audio/rich.mp3",
+    "image": ""
+  },
+  {
+    "word": "rid",
+    "chinese": "摆脱",
+    "emoji": "🚀",
+    "audio": "words/audio/rid.mp3",
+    "image": ""
+  },
+  {
+    "word": "ride",
+    "chinese": "骑",
+    "emoji": "🚴",
+    "audio": "words/audio/ride.mp3",
+    "image": ""
+  },
+  {
+    "word": "ridge",
+    "chinese": "山脊",
+    "emoji": "📌",
+    "audio": "words/audio/ridge.mp3",
+    "image": ""
+  },
+  {
+    "word": "ridiculous",
+    "chinese": "可笑的",
+    "emoji": "😂",
+    "audio": "words/audio/ridiculous.mp3",
+    "image": ""
+  },
+  {
+    "word": "rifle",
+    "chinese": "步枪",
+    "emoji": "🔫",
+    "audio": "words/audio/rifle.mp3",
+    "image": ""
+  },
+  {
+    "word": "right",
+    "chinese": "右边；正确的",
+    "emoji": "➡️",
+    "audio": "words/audio/right.mp3",
+    "image": ""
+  },
+  {
+    "word": "ring",
+    "chinese": "环",
+    "emoji": "💍",
+    "audio": "words/audio/ring.mp3",
+    "image": ""
+  },
+  {
+    "word": "rise",
+    "chinese": "上升",
+    "emoji": "📈",
+    "audio": "words/audio/rise.mp3",
+    "image": ""
+  },
+  {
+    "word": "risk",
+    "chinese": "风险",
+    "emoji": "⚠️",
+    "audio": "words/audio/risk.mp3",
+    "image": ""
+  },
+  {
+    "word": "rival",
+    "chinese": "对手",
+    "emoji": "⚔️",
+    "audio": "words/audio/rival.mp3",
+    "image": ""
+  },
+  {
+    "word": "river",
+    "chinese": "河流",
+    "emoji": "🌊",
+    "audio": "words/audio/river.mp3",
+    "image": ""
+  },
+  {
+    "word": "road",
+    "chinese": "道路",
+    "emoji": "🛣️",
+    "audio": "words/audio/road.mp3",
+    "image": ""
+  },
+  {
+    "word": "roast",
+    "chinese": "烤",
+    "emoji": "🔥",
+    "audio": "words/audio/roast.mp3",
+    "image": ""
+  },
+  {
+    "word": "rob",
+    "chinese": "抢劫",
+    "emoji": "💰",
+    "audio": "words/audio/rob.mp3",
+    "image": ""
+  },
+  {
+    "word": "robot",
+    "chinese": "机器人",
+    "emoji": "🤖",
+    "audio": "words/audio/robot.mp3",
+    "image": ""
+  },
+  {
+    "word": "rock",
+    "chinese": "岩石",
+    "emoji": "🪨",
+    "audio": "words/audio/rock.mp3",
+    "image": ""
+  },
+  {
+    "word": "rocket",
+    "chinese": "火箭",
+    "emoji": "🚀",
+    "audio": "words/audio/rocket.mp3",
+    "image": ""
+  },
+  {
+    "word": "role",
+    "chinese": "角色",
+    "emoji": "🎭",
+    "audio": "words/audio/role.mp3",
+    "image": ""
+  },
+  {
+    "word": "roll",
+    "chinese": "滚动",
+    "emoji": "🔁",
+    "audio": "words/audio/roll.mp3",
+    "image": ""
+  },
+  {
+    "word": "roman",
+    "chinese": "罗马的",
+    "emoji": "️",
+    "audio": "words/audio/roman.mp3",
+    "image": ""
+  },
+  {
+    "word": "romance",
+    "chinese": "浪漫",
+    "emoji": "❤️",
+    "audio": "words/audio/romance.mp3",
+    "image": ""
+  },
+  {
+    "word": "romantic",
+    "chinese": "浪漫的",
+    "emoji": "❤",
+    "audio": "words/audio/romantic.mp3",
+    "image": ""
+  },
+  {
+    "word": "roof",
+    "chinese": "屋顶",
+    "emoji": "🏠",
+    "audio": "words/audio/roof.mp3",
+    "image": ""
+  },
+  {
+    "word": "room",
+    "chinese": "房间",
+    "emoji": "🏠",
+    "audio": "words/audio/room.mp3",
+    "image": ""
+  },
+  {
+    "word": "root",
+    "chinese": "根",
+    "emoji": "🌱",
+    "audio": "words/audio/root.mp3",
+    "image": ""
+  },
+  {
+    "word": "rope",
+    "chinese": "绳子",
+    "emoji": "🧶",
+    "audio": "words/audio/rope.mp3",
+    "image": ""
+  },
+  {
+    "word": "rose",
+    "chinese": "玫瑰",
+    "emoji": "🌹",
+    "audio": "words/audio/rose.mp3",
+    "image": ""
+  },
+  {
+    "word": "rough",
+    "chinese": "粗糙的",
+    "emoji": "🪨",
+    "audio": "words/audio/rough.mp3",
+    "image": ""
+  },
+  {
+    "word": "round",
+    "chinese": "圆的",
+    "emoji": "📍",
+    "audio": "words/audio/round.mp3",
+    "image": ""
+  },
+  {
+    "word": "route",
+    "chinese": "路线",
+    "emoji": "🔖",
+    "audio": "words/audio/route.mp3",
+    "image": ""
+  },
+  {
+    "word": "routine",
+    "chinese": "例行公事",
+    "emoji": "📅",
+    "audio": "words/audio/routine.mp3",
+    "image": ""
+  },
+  {
+    "word": "row",
+    "chinese": "排",
+    "emoji": "🚣",
+    "audio": "words/audio/row.mp3",
+    "image": ""
+  },
+  {
+    "word": "royal",
+    "chinese": "皇家的",
+    "emoji": "👑",
+    "audio": "words/audio/royal.mp3",
+    "image": ""
+  },
+  {
+    "word": "rubber",
+    "chinese": "橡胶",
+    "emoji": "🩻",
+    "audio": "words/audio/rubber.mp3",
+    "image": ""
+  },
+  {
+    "word": "rubbish",
+    "chinese": "垃圾",
+    "emoji": "🗑",
+    "audio": "words/audio/rubbish.mp3",
+    "image": ""
+  },
+  {
+    "word": "rude",
+    "chinese": "粗鲁的",
+    "emoji": "😠",
+    "audio": "words/audio/rude.mp3",
+    "image": ""
+  },
+  {
+    "word": "rug",
+    "chinese": "小地毯",
+    "emoji": "🧒",
+    "audio": "words/audio/rug.mp3",
+    "image": ""
+  },
+  {
+    "word": "ruin",
+    "chinese": "毁灭",
+    "emoji": "💥",
+    "audio": "words/audio/ruin.mp3",
+    "image": ""
+  },
+  {
+    "word": "rule",
+    "chinese": "规则",
+    "emoji": "📜",
+    "audio": "words/audio/rule.mp3",
+    "image": ""
+  },
+  {
+    "word": "ruler",
+    "chinese": "统治者",
+    "emoji": "📏",
+    "audio": "words/audio/ruler.mp3",
+    "image": ""
+  },
+  {
+    "word": "run",
+    "chinese": "跑",
+    "emoji": "🏃",
+    "audio": "words/audio/run.mp3",
+    "image": ""
+  },
+  {
+    "word": "runner",
+    "chinese": "跑步者",
+    "emoji": "🏃",
+    "audio": "words/audio/runner.mp3",
+    "image": ""
+  },
+  {
+    "word": "rural",
+    "chinese": "农村的",
+    "emoji": "🏡",
+    "audio": "words/audio/rural.mp3",
+    "image": ""
+  },
+  {
+    "word": "rush",
+    "chinese": "冲",
+    "emoji": "🏃",
+    "audio": "words/audio/rush.mp3",
+    "image": ""
+  },
+  {
+    "word": "sacred",
+    "chinese": "神圣的",
+    "emoji": "⚡",
+    "audio": "words/audio/sacred.mp3",
+    "image": ""
+  },
+  {
+    "word": "sad",
+    "chinese": "悲伤的",
+    "emoji": "😢",
+    "audio": "words/audio/sad.mp3",
+    "image": ""
+  },
+  {
+    "word": "safe",
+    "chinese": "安全的",
+    "emoji": "🔒",
+    "audio": "words/audio/safe.mp3",
+    "image": ""
+  },
+  {
+    "word": "safety",
+    "chinese": "安全",
+    "emoji": "🛡️",
+    "audio": "words/audio/safety.mp3",
+    "image": ""
+  },
+  {
+    "word": "sail",
+    "chinese": "航行",
+    "emoji": "⛵",
+    "audio": "words/audio/sail.mp3",
+    "image": ""
+  },
+  {
+    "word": "sailor",
+    "chinese": "水手",
+    "emoji": "🚢",
+    "audio": "words/audio/sailor.mp3",
+    "image": ""
+  },
+  {
+    "word": "salad",
+    "chinese": "沙拉",
+    "emoji": "🥗",
+    "audio": "words/audio/salad.mp3",
+    "image": ""
+  },
+  {
+    "word": "salary",
+    "chinese": "薪水",
+    "emoji": "💰",
+    "audio": "words/audio/salary.mp3",
+    "image": ""
+  },
+  {
+    "word": "sale",
+    "chinese": "出售",
+    "emoji": "🏷️",
+    "audio": "words/audio/sale.mp3",
+    "image": ""
+  },
+  {
+    "word": "salesman",
+    "chinese": "售货员",
+    "emoji": "👨",
+    "audio": "words/audio/salesman.mp3",
+    "image": ""
+  },
+  {
+    "word": "salt",
+    "chinese": "盐",
+    "emoji": "🧂",
+    "audio": "words/audio/salt.mp3",
+    "image": ""
+  },
+  {
+    "word": "same",
+    "chinese": "相同的",
+    "emoji": "🤝",
+    "audio": "words/audio/same.mp3",
+    "image": ""
+  },
+  {
+    "word": "sample",
+    "chinese": "样品",
+    "emoji": "💡",
+    "audio": "words/audio/sample.mp3",
+    "image": ""
+  },
+  {
+    "word": "sand",
+    "chinese": "沙",
+    "emoji": "🌿",
+    "audio": "words/audio/sand.mp3",
+    "image": ""
+  },
+  {
+    "word": "sandwich",
+    "chinese": "三明治",
+    "emoji": "🥪",
+    "audio": "words/audio/sandwich.mp3",
+    "image": ""
+  },
+  {
+    "word": "satellite",
+    "chinese": "卫星",
+    "emoji": "🛰️",
+    "audio": "words/audio/satellite.mp3",
+    "image": ""
+  },
+  {
+    "word": "satisfaction",
+    "chinese": "满意",
+    "emoji": "🎉",
+    "audio": "words/audio/satisfaction.mp3",
+    "image": ""
+  },
+  {
+    "word": "satisfy",
+    "chinese": "满足",
+    "emoji": "🎉",
+    "audio": "words/audio/satisfy.mp3",
+    "image": ""
+  },
+  {
+    "word": "saturday",
+    "chinese": "星期六",
+    "emoji": "🎉",
+    "audio": "words/audio/saturday.mp3",
+    "image": ""
+  },
+  {
+    "word": "sauce",
+    "chinese": "酱汁",
+    "emoji": "🧆",
+    "audio": "words/audio/sauce.mp3",
+    "image": ""
+  },
+  {
+    "word": "saucer",
+    "chinese": "茶碟",
+    "emoji": "☕",
+    "audio": "words/audio/saucer.mp3",
+    "image": ""
+  },
+  {
+    "word": "sausage",
+    "chinese": "香肠",
+    "emoji": "🌭",
+    "audio": "words/audio/sausage.mp3",
+    "image": ""
+  },
+  {
+    "word": "save",
+    "chinese": "拯救",
+    "emoji": "💾",
+    "audio": "words/audio/save.mp3",
+    "image": ""
+  },
+  {
+    "word": "saving",
+    "chinese": "储蓄",
+    "emoji": "💰",
+    "audio": "words/audio/saving.mp3",
+    "image": ""
+  },
+  {
+    "word": "say",
+    "chinese": "说",
+    "emoji": "🗣️",
+    "audio": "words/audio/say.mp3",
+    "image": ""
+  },
+  {
+    "word": "scale",
+    "chinese": "规模",
+    "emoji": "📊",
+    "audio": "words/audio/scale.mp3",
+    "image": ""
+  },
+  {
+    "word": "scan",
+    "chinese": "浏览",
+    "emoji": "📷",
+    "audio": "words/audio/scan.mp3",
+    "image": ""
+  },
+  {
+    "word": "scar",
+    "chinese": "疤",
+    "emoji": "🩹",
+    "audio": "words/audio/scar.mp3",
+    "image": ""
+  },
+  {
+    "word": "scarf",
+    "chinese": "围巾",
+    "emoji": "🧣",
+    "audio": "words/audio/scarf.mp3",
+    "image": ""
+  },
+  {
+    "word": "scene",
+    "chinese": "场景",
+    "emoji": "🎥",
+    "audio": "words/audio/scene.mp3",
+    "image": ""
+  },
+  {
+    "word": "scenery",
+    "chinese": "风景",
+    "emoji": "🏞",
+    "audio": "words/audio/scenery.mp3",
+    "image": ""
+  },
+  {
+    "word": "schedule",
+    "chinese": "时间表",
+    "emoji": "📅",
+    "audio": "words/audio/schedule.mp3",
+    "image": ""
+  },
+  {
+    "word": "scheme",
+    "chinese": "计划",
+    "emoji": "📝",
+    "audio": "words/audio/scheme.mp3",
+    "image": ""
+  },
+  {
+    "word": "scholar",
+    "chinese": "学者",
+    "emoji": "📚",
+    "audio": "words/audio/scholar.mp3",
+    "image": ""
+  },
+  {
+    "word": "scholarship",
+    "chinese": "奖学金",
+    "emoji": "📚",
+    "audio": "words/audio/scholarship.mp3",
+    "image": ""
+  },
+  {
+    "word": "school",
+    "chinese": "学校",
+    "emoji": "🏫",
+    "audio": "words/audio/school.mp3",
+    "image": ""
+  },
+  {
+    "word": "science",
+    "chinese": "科学",
+    "emoji": "📚",
+    "audio": "words/audio/science.mp3",
+    "image": ""
+  },
+  {
+    "word": "scientific",
+    "chinese": "科学的",
+    "emoji": "🔬",
+    "audio": "words/audio/scientific.mp3",
+    "image": ""
+  },
+  {
+    "word": "scientist",
+    "chinese": "科学家",
+    "emoji": "👨‍🔬",
+    "audio": "words/audio/scientist.mp3",
+    "image": ""
+  },
+  {
+    "word": "scissors",
+    "chinese": "剪刀",
+    "emoji": "✂️",
+    "audio": "words/audio/scissors.mp3",
+    "image": ""
+  },
+  {
+    "word": "scold",
+    "chinese": "责骂",
+    "emoji": "🤔",
+    "audio": "words/audio/scold.mp3",
+    "image": ""
+  },
+  {
+    "word": "scoop",
+    "chinese": "勺",
+    "emoji": "🔋",
+    "audio": "words/audio/scoop.mp3",
+    "image": ""
+  },
+  {
+    "word": "scope",
+    "chinese": "范围",
+    "emoji": "🔍",
+    "audio": "words/audio/scope.mp3",
+    "image": ""
+  },
+  {
+    "word": "score",
+    "chinese": "得分",
+    "emoji": "📊",
+    "audio": "words/audio/score.mp3",
+    "image": ""
+  },
+  {
+    "word": "scorn",
+    "chinese": "轻蔑",
+    "emoji": "🌱",
+    "audio": "words/audio/scorn.mp3",
+    "image": ""
+  },
+  {
+    "word": "scout",
+    "chinese": "侦察员",
+    "emoji": "🔍",
+    "audio": "words/audio/scout.mp3",
+    "image": ""
+  },
+  {
+    "word": "scratch",
+    "chinese": "抓",
+    "emoji": "✍",
+    "audio": "words/audio/scratch.mp3",
+    "image": ""
+  },
+  {
+    "word": "scream",
+    "chinese": "尖叫",
+    "emoji": "🚨",
+    "audio": "words/audio/scream.mp3",
+    "image": ""
+  },
+  {
+    "word": "screen",
+    "chinese": "屏幕",
+    "emoji": "📱",
+    "audio": "words/audio/screen.mp3",
+    "image": ""
+  },
+  {
+    "word": "screw",
+    "chinese": "螺丝",
+    "emoji": "📍",
+    "audio": "words/audio/screw.mp3",
+    "image": ""
+  },
+  {
+    "word": "script",
+    "chinese": "脚本",
+    "emoji": "📝",
+    "audio": "words/audio/script.mp3",
+    "image": ""
+  },
+  {
+    "word": "sea",
+    "chinese": "海",
+    "emoji": "🌊",
+    "audio": "words/audio/sea.mp3",
+    "image": ""
+  },
+  {
+    "word": "seal",
+    "chinese": "封印",
+    "emoji": "🦭",
+    "audio": "words/audio/seal.mp3",
+    "image": ""
+  },
+  {
+    "word": "search",
+    "chinese": "搜索",
+    "emoji": "🔍",
+    "audio": "words/audio/search.mp3",
+    "image": ""
+  },
+  {
+    "word": "season",
+    "chinese": "季节",
+    "emoji": "🍂",
+    "audio": "words/audio/season.mp3",
+    "image": ""
+  },
+  {
+    "word": "seat",
+    "chinese": "座位",
+    "emoji": "💵",
+    "audio": "words/audio/seat.mp3",
+    "image": ""
+  },
+  {
+    "word": "second",
+    "chinese": "第二",
+    "emoji": "⏱️",
+    "audio": "words/audio/second.mp3",
+    "image": ""
+  },
+  {
+    "word": "secondary",
+    "chinese": "次要的",
+    "emoji": "🌟",
+    "audio": "words/audio/secondary.mp3",
+    "image": ""
+  },
+  {
+    "word": "secret",
+    "chinese": "秘密",
+    "emoji": "🔒",
+    "audio": "words/audio/secret.mp3",
+    "image": ""
+  },
+  {
+    "word": "secretary",
+    "chinese": "秘书",
+    "emoji": "📝",
+    "audio": "words/audio/secretary.mp3",
+    "image": ""
+  },
+  {
+    "word": "section",
+    "chinese": "部分",
+    "emoji": "📚",
+    "audio": "words/audio/section.mp3",
+    "image": ""
+  },
+  {
+    "word": "secure",
+    "chinese": "安全的",
+    "emoji": "🔒",
+    "audio": "words/audio/secure.mp3",
+    "image": ""
+  },
+  {
+    "word": "security",
+    "chinese": "安全",
+    "emoji": "🔒",
+    "audio": "words/audio/security.mp3",
+    "image": ""
+  },
+  {
+    "word": "see",
+    "chinese": "看见",
+    "emoji": "👀",
+    "audio": "words/audio/see.mp3",
+    "image": ""
+  },
+  {
+    "word": "seed",
+    "chinese": "种子",
+    "emoji": "🌱",
+    "audio": "words/audio/seed.mp3",
+    "image": ""
+  },
+  {
+    "word": "seek",
+    "chinese": "寻找",
+    "emoji": "🔍",
+    "audio": "words/audio/seek.mp3",
+    "image": ""
+  },
+  {
+    "word": "seem",
+    "chinese": "似乎",
+    "emoji": "🤔",
+    "audio": "words/audio/seem.mp3",
+    "image": ""
+  },
+  {
+    "word": "seize",
+    "chinese": "抓住",
+    "emoji": "🤐",
+    "audio": "words/audio/seize.mp3",
+    "image": ""
+  },
+  {
+    "word": "seldom",
+    "chinese": "很少",
+    "emoji": "❌",
+    "audio": "words/audio/seldom.mp3",
+    "image": ""
+  },
+  {
+    "word": "select",
+    "chinese": "挑选",
+    "emoji": "✅",
+    "audio": "words/audio/select.mp3",
+    "image": ""
+  },
+  {
+    "word": "self",
+    "chinese": "自己",
+    "emoji": "🔑",
+    "audio": "words/audio/self.mp3",
+    "image": ""
+  },
+  {
+    "word": "sell",
+    "chinese": "卖",
+    "emoji": "💰",
+    "audio": "words/audio/sell.mp3",
+    "image": ""
+  },
+  {
+    "word": "semester",
+    "chinese": "学期",
+    "emoji": "📚",
+    "audio": "words/audio/semester.mp3",
+    "image": ""
+  },
+  {
+    "word": "send",
+    "chinese": "发送",
+    "emoji": "📤",
+    "audio": "words/audio/send.mp3",
+    "image": ""
+  },
+  {
+    "word": "senior",
+    "chinese": "年长的",
+    "emoji": "🧓",
+    "audio": "words/audio/senior.mp3",
+    "image": ""
+  },
+  {
+    "word": "sense",
+    "chinese": "感觉",
+    "emoji": "👂",
+    "audio": "words/audio/sense.mp3",
+    "image": ""
+  },
+  {
+    "word": "sensible",
+    "chinese": "明智的",
+    "emoji": "💡",
+    "audio": "words/audio/sensible.mp3",
+    "image": ""
+  },
+  {
+    "word": "sensitive",
+    "chinese": "敏感的",
+    "emoji": "🌱",
+    "audio": "words/audio/sensitive.mp3",
+    "image": ""
+  },
+  {
+    "word": "sentence",
+    "chinese": "句子",
+    "emoji": "✍",
+    "audio": "words/audio/sentence.mp3",
+    "image": ""
+  },
+  {
+    "word": "separate",
+    "chinese": "分开",
+    "emoji": "🔌",
+    "audio": "words/audio/separate.mp3",
+    "image": ""
+  },
+  {
+    "word": "september",
+    "chinese": "九月",
+    "emoji": "📅",
+    "audio": "words/audio/september.mp3",
+    "image": ""
+  },
+  {
+    "word": "series",
+    "chinese": "系列",
+    "emoji": "🔗",
+    "audio": "words/audio/series.mp3",
+    "image": ""
+  },
+  {
+    "word": "serious",
+    "chinese": "严肃的",
+    "emoji": "😐",
+    "audio": "words/audio/serious.mp3",
+    "image": ""
+  },
+  {
+    "word": "servant",
+    "chinese": "仆人",
+    "emoji": "🧐",
+    "audio": "words/audio/servant.mp3",
+    "image": ""
+  },
+  {
+    "word": "serve",
+    "chinese": "服务",
+    "emoji": "👩",
+    "audio": "words/audio/serve.mp3",
+    "image": ""
+  },
+  {
+    "word": "service",
+    "chinese": "服务",
+    "emoji": "💼",
+    "audio": "words/audio/service.mp3",
+    "image": ""
+  },
+  {
+    "word": "session",
+    "chinese": "会议",
+    "emoji": "💬",
+    "audio": "words/audio/session.mp3",
+    "image": ""
+  },
+  {
+    "word": "set",
+    "chinese": "设置",
+    "emoji": "📍",
+    "audio": "words/audio/set.mp3",
+    "image": ""
+  },
+  {
+    "word": "settle",
+    "chinese": "解决",
+    "emoji": "✅",
+    "audio": "words/audio/settle.mp3",
+    "image": ""
+  },
+  {
+    "word": "settlement",
+    "chinese": "解决",
+    "emoji": "🤝",
+    "audio": "words/audio/settlement.mp3",
+    "image": ""
+  },
+  {
+    "word": "seven",
+    "chinese": "七",
+    "emoji": "7️⃣",
+    "audio": "words/audio/seven.mp3",
+    "image": ""
+  },
+  {
+    "word": "several",
+    "chinese": "几个",
+    "emoji": "📊",
+    "audio": "words/audio/several.mp3",
+    "image": ""
+  },
+  {
+    "word": "severe",
+    "chinese": "严重的",
+    "emoji": "🚨",
+    "audio": "words/audio/severe.mp3",
+    "image": ""
+  },
+  {
+    "word": "sew",
+    "chinese": "缝纫",
+    "emoji": "🧵",
+    "audio": "words/audio/sew.mp3",
+    "image": ""
+  },
+  {
+    "word": "sex",
+    "chinese": "性别",
+    "emoji": "🌟",
+    "audio": "words/audio/sex.mp3",
+    "image": ""
+  },
+  {
+    "word": "shabby",
+    "chinese": "破旧的",
+    "emoji": "🏠",
+    "audio": "words/audio/shabby.mp3",
+    "image": ""
+  },
+  {
+    "word": "shade",
+    "chinese": "阴影",
+    "emoji": "👁",
+    "audio": "words/audio/shade.mp3",
+    "image": ""
+  },
+  {
+    "word": "shadow",
+    "chinese": "影子",
+    "emoji": "🌑",
+    "audio": "words/audio/shadow.mp3",
+    "image": ""
+  },
+  {
+    "word": "shake",
+    "chinese": "摇动",
+    "emoji": "👋",
+    "audio": "words/audio/shake.mp3",
+    "image": ""
+  },
+  {
+    "word": "shall",
+    "chinese": "将要",
+    "emoji": "✅",
+    "audio": "words/audio/shall.mp3",
+    "image": ""
+  },
+  {
+    "word": "shallow",
+    "chinese": "浅的",
+    "emoji": "📏",
+    "audio": "words/audio/shallow.mp3",
+    "image": ""
+  },
+  {
+    "word": "shame",
+    "chinese": "羞耻",
+    "emoji": "😔",
+    "audio": "words/audio/shame.mp3",
+    "image": ""
+  },
+  {
+    "word": "shampoo",
+    "chinese": "洗发水",
+    "emoji": "🧶",
+    "audio": "words/audio/shampoo.mp3",
+    "image": ""
+  },
+  {
+    "word": "shape",
+    "chinese": "形状",
+    "emoji": "🪐",
+    "audio": "words/audio/shape.mp3",
+    "image": ""
+  },
+  {
+    "word": "share",
+    "chinese": "分享",
+    "emoji": "🤝",
+    "audio": "words/audio/share.mp3",
+    "image": ""
+  },
+  {
+    "word": "shark",
+    "chinese": "鲨鱼",
+    "emoji": "🦈",
+    "audio": "words/audio/shark.mp3",
+    "image": ""
+  },
+  {
+    "word": "sharp",
+    "chinese": "锋利的",
+    "emoji": "🔪",
+    "audio": "words/audio/sharp.mp3",
+    "image": ""
+  },
+  {
+    "word": "shave",
+    "chinese": "刮脸",
+    "emoji": "📌",
+    "audio": "words/audio/shave.mp3",
+    "image": ""
+  },
+  {
+    "word": "she",
+    "chinese": "她",
+    "emoji": "👩",
+    "audio": "words/audio/she.mp3",
+    "image": ""
+  },
+  {
+    "word": "sheep",
+    "chinese": "羊",
+    "emoji": "🐑",
+    "audio": "words/audio/sheep.mp3",
+    "image": ""
+  },
+  {
+    "word": "sheet",
+    "chinese": "床单",
+    "emoji": "🛏️",
+    "audio": "words/audio/sheet.mp3",
+    "image": ""
+  },
+  {
+    "word": "shelf",
+    "chinese": "架子",
+    "emoji": "📚",
+    "audio": "words/audio/shelf.mp3",
+    "image": ""
+  },
+  {
+    "word": "shell",
+    "chinese": "壳",
+    "emoji": "🟥",
+    "audio": "words/audio/shell.mp3",
+    "image": ""
+  },
+  {
+    "word": "shelter",
+    "chinese": "庇护",
+    "emoji": "🏠",
+    "audio": "words/audio/shelter.mp3",
+    "image": ""
+  },
+  {
+    "word": "shine",
+    "chinese": "发光",
+    "emoji": "💡",
+    "audio": "words/audio/shine.mp3",
+    "image": ""
+  },
+  {
+    "word": "ship",
+    "chinese": "船",
+    "emoji": "🚢",
+    "audio": "words/audio/ship.mp3",
+    "image": ""
+  },
+  {
+    "word": "shirt",
+    "chinese": "衬衫",
+    "emoji": "👕",
+    "audio": "words/audio/shirt.mp3",
+    "image": ""
+  },
+  {
+    "word": "shock",
+    "chinese": "震惊",
+    "emoji": "🤯",
+    "audio": "words/audio/shock.mp3",
+    "image": ""
+  },
+  {
+    "word": "shoe",
+    "chinese": "鞋",
+    "emoji": "👟",
+    "audio": "words/audio/shoe.mp3",
+    "image": ""
+  },
+  {
+    "word": "shoot",
+    "chinese": "射击",
+    "emoji": "🔫",
+    "audio": "words/audio/shoot.mp3",
+    "image": ""
+  },
+  {
+    "word": "shop",
+    "chinese": "商店",
+    "emoji": "🏪",
+    "audio": "words/audio/shop.mp3",
+    "image": ""
+  },
+  {
+    "word": "shore",
+    "chinese": "岸",
+    "emoji": "🌊",
+    "audio": "words/audio/shore.mp3",
+    "image": ""
+  },
+  {
+    "word": "short",
+    "chinese": "短的",
+    "emoji": "🧍",
+    "audio": "words/audio/short.mp3",
+    "image": ""
+  },
+  {
+    "word": "shortcoming",
+    "chinese": "缺点",
+    "emoji": "🌟",
+    "audio": "words/audio/shortcoming.mp3",
+    "image": ""
+  },
+  {
+    "word": "shortly",
+    "chinese": "不久",
+    "emoji": "🌟",
+    "audio": "words/audio/shortly.mp3",
+    "image": ""
+  },
+  {
+    "word": "shot",
+    "chinese": "射击",
+    "emoji": "🔫",
+    "audio": "words/audio/shot.mp3",
+    "image": ""
+  },
+  {
+    "word": "should",
+    "chinese": "应该",
+    "emoji": "✅",
+    "audio": "words/audio/should.mp3",
+    "image": ""
+  },
+  {
+    "word": "shoulder",
+    "chinese": "肩膀",
+    "emoji": "💪",
+    "audio": "words/audio/shoulder.mp3",
+    "image": ""
+  },
+  {
+    "word": "shout",
+    "chinese": "喊叫",
+    "emoji": "🚨",
+    "audio": "words/audio/shout.mp3",
+    "image": ""
+  },
+  {
+    "word": "show",
+    "chinese": "展示",
+    "emoji": "🎬",
+    "audio": "words/audio/show.mp3",
+    "image": ""
+  },
+  {
+    "word": "shower",
+    "chinese": "淋浴",
+    "emoji": "🚿",
+    "audio": "words/audio/shower.mp3",
+    "image": ""
+  },
+  {
+    "word": "shrink",
+    "chinese": "收缩",
+    "emoji": "📉",
+    "audio": "words/audio/shrink.mp3",
+    "image": ""
+  },
+  {
+    "word": "shut",
+    "chinese": "关",
+    "emoji": "🔒",
+    "audio": "words/audio/shut.mp3",
+    "image": ""
+  },
+  {
+    "word": "shuttle",
+    "chinese": "航天飞机",
+    "emoji": "🚀",
+    "audio": "words/audio/shuttle.mp3",
+    "image": ""
+  },
+  {
+    "word": "shy",
+    "chinese": "害羞的",
+    "emoji": "😳",
+    "audio": "words/audio/shy.mp3",
+    "image": ""
+  },
+  {
+    "word": "sick",
+    "chinese": "生病的",
+    "emoji": "🤒",
+    "audio": "words/audio/sick.mp3",
+    "image": ""
+  },
+  {
+    "word": "side",
+    "chinese": "边",
+    "emoji": "🡺",
+    "audio": "words/audio/side.mp3",
+    "image": ""
+  },
+  {
+    "word": "sideways",
+    "chinese": "侧面地",
+    "emoji": "➡",
+    "audio": "words/audio/sideways.mp3",
+    "image": ""
+  },
+  {
+    "word": "sigh",
+    "chinese": "叹气",
+    "emoji": "😭",
+    "audio": "words/audio/sigh.mp3",
+    "image": ""
+  },
+  {
+    "word": "sight",
+    "chinese": "视力",
+    "emoji": "👀",
+    "audio": "words/audio/sight.mp3",
+    "image": ""
+  },
+  {
+    "word": "sightseeing",
+    "chinese": "观光",
+    "emoji": "🏛️",
+    "audio": "words/audio/sightseeing.mp3",
+    "image": ""
+  },
+  {
+    "word": "sign",
+    "chinese": "标志",
+    "emoji": "⚠",
+    "audio": "words/audio/sign.mp3",
+    "image": ""
+  },
+  {
+    "word": "signal",
+    "chinese": "信号",
+    "emoji": "🔔",
+    "audio": "words/audio/signal.mp3",
+    "image": ""
+  },
+  {
+    "word": "signature",
+    "chinese": "签名",
+    "emoji": "✍",
+    "audio": "words/audio/signature.mp3",
+    "image": ""
+  },
+  {
+    "word": "significance",
+    "chinese": "意义",
+    "emoji": "💡",
+    "audio": "words/audio/significance.mp3",
+    "image": ""
+  },
+  {
+    "word": "significant",
+    "chinese": "重要的",
+    "emoji": "🌟",
+    "audio": "words/audio/significant.mp3",
+    "image": ""
+  },
+  {
+    "word": "silence",
+    "chinese": "沉默",
+    "emoji": "🔇",
+    "audio": "words/audio/silence.mp3",
+    "image": ""
+  },
+  {
+    "word": "silent",
+    "chinese": "沉默的",
+    "emoji": "🔇",
+    "audio": "words/audio/silent.mp3",
+    "image": ""
+  },
+  {
+    "word": "silk",
+    "chinese": "丝绸",
+    "emoji": "🌸",
+    "audio": "words/audio/silk.mp3",
+    "image": ""
+  },
+  {
+    "word": "silly",
+    "chinese": "傻的",
+    "emoji": "😂",
+    "audio": "words/audio/silly.mp3",
+    "image": ""
+  },
+  {
+    "word": "silver",
+    "chinese": "银",
+    "emoji": "🥈",
+    "audio": "words/audio/silver.mp3",
+    "image": ""
+  },
+  {
+    "word": "similar",
+    "chinese": "相似的",
+    "emoji": "👫",
+    "audio": "words/audio/similar.mp3",
+    "image": ""
+  },
+  {
+    "word": "simply",
+    "chinese": "简直",
+    "emoji": "👌",
+    "audio": "words/audio/simply.mp3",
+    "image": ""
+  },
+  {
+    "word": "since",
+    "chinese": "自从",
+    "emoji": "📅",
+    "audio": "words/audio/since.mp3",
+    "image": ""
+  },
+  {
+    "word": "sincere",
+    "chinese": "真诚的",
+    "emoji": "🤗",
+    "audio": "words/audio/sincere.mp3",
+    "image": ""
+  },
+  {
+    "word": "sing",
+    "chinese": "唱歌",
+    "emoji": "🎤",
+    "audio": "words/audio/sing.mp3",
+    "image": ""
+  },
+  {
+    "word": "single",
+    "chinese": "单一的",
+    "emoji": "🌱",
+    "audio": "words/audio/single.mp3",
+    "image": ""
+  },
+  {
+    "word": "sink",
+    "chinese": "沉",
+    "emoji": "📉",
+    "audio": "words/audio/sink.mp3",
+    "image": ""
+  },
+  {
+    "word": "sir",
+    "chinese": "先生",
+    "emoji": "👨",
+    "audio": "words/audio/sir.mp3",
+    "image": ""
+  },
+  {
+    "word": "sister",
+    "chinese": "姐妹",
+    "emoji": "👩",
+    "audio": "words/audio/sister.mp3",
+    "image": ""
+  },
+  {
+    "word": "sit",
+    "chinese": "坐",
+    "emoji": "🧟",
+    "audio": "words/audio/sit.mp3",
+    "image": ""
+  },
+  {
+    "word": "site",
+    "chinese": "地点",
+    "emoji": "📍",
+    "audio": "words/audio/site.mp3",
+    "image": ""
+  },
+  {
+    "word": "situation",
+    "chinese": "情况",
+    "emoji": "📍",
+    "audio": "words/audio/situation.mp3",
+    "image": ""
+  },
+  {
+    "word": "six",
+    "chinese": "六",
+    "emoji": "6️⃣",
+    "audio": "words/audio/six.mp3",
+    "image": ""
+  },
+  {
+    "word": "size",
+    "chinese": "尺寸",
+    "emoji": "💬",
+    "audio": "words/audio/size.mp3",
+    "image": ""
+  },
+  {
+    "word": "skate",
+    "chinese": "滑冰",
+    "emoji": "⛸️",
+    "audio": "words/audio/skate.mp3",
+    "image": ""
+  },
+  {
+    "word": "ski",
+    "chinese": "滑雪",
+    "emoji": "🎿",
+    "audio": "words/audio/ski.mp3",
+    "image": ""
+  },
+  {
+    "word": "skill",
+    "chinese": "技能",
+    "emoji": "💪",
+    "audio": "words/audio/skill.mp3",
+    "image": ""
+  },
+  {
+    "word": "skilled",
+    "chinese": "熟练的",
+    "emoji": "🛠",
+    "audio": "words/audio/skilled.mp3",
+    "image": ""
+  },
+  {
+    "word": "skin",
+    "chinese": "皮肤",
+    "emoji": "👂",
+    "audio": "words/audio/skin.mp3",
+    "image": ""
+  },
+  {
+    "word": "skirt",
+    "chinese": "裙子",
+    "emoji": "👗",
+    "audio": "words/audio/skirt.mp3",
+    "image": ""
+  },
+  {
+    "word": "sky",
+    "chinese": "天空",
+    "emoji": "☁️",
+    "audio": "words/audio/sky.mp3",
+    "image": ""
+  },
+  {
+    "word": "skyscraper",
+    "chinese": "摩天大楼",
+    "emoji": "🏠",
+    "audio": "words/audio/skyscraper.mp3",
+    "image": ""
+  },
+  {
+    "word": "slave",
+    "chinese": "奴隶",
+    "emoji": "🎓",
+    "audio": "words/audio/slave.mp3",
+    "image": ""
+  },
+  {
+    "word": "sleep",
+    "chinese": "睡觉",
+    "emoji": "😴",
+    "audio": "words/audio/sleep.mp3",
+    "image": ""
+  },
+  {
+    "word": "slice",
+    "chinese": "片",
+    "emoji": "🔪",
+    "audio": "words/audio/slice.mp3",
+    "image": ""
+  },
+  {
+    "word": "slide",
+    "chinese": "滑动",
+    "emoji": "➡",
+    "audio": "words/audio/slide.mp3",
+    "image": ""
+  },
+  {
+    "word": "slight",
+    "chinese": "轻微的",
+    "emoji": "🌱",
+    "audio": "words/audio/slight.mp3",
+    "image": ""
+  },
+  {
+    "word": "slim",
+    "chinese": "苗条的",
+    "emoji": "🔗",
+    "audio": "words/audio/slim.mp3",
+    "image": ""
+  },
+  {
+    "word": "slip",
+    "chinese": "滑倒",
+    "emoji": "♨",
+    "audio": "words/audio/slip.mp3",
+    "image": ""
+  },
+  {
+    "word": "slope",
+    "chinese": "斜坡",
+    "emoji": "🞂",
+    "audio": "words/audio/slope.mp3",
+    "image": ""
+  },
+  {
+    "word": "slow",
+    "chinese": "慢的",
+    "emoji": "🐌",
+    "audio": "words/audio/slow.mp3",
+    "image": ""
+  },
+  {
+    "word": "small",
+    "chinese": "小的",
+    "emoji": "🗜️",
+    "audio": "words/audio/small.mp3",
+    "image": ""
+  },
+  {
+    "word": "smart",
+    "chinese": "聪明的",
+    "emoji": "🧠",
+    "audio": "words/audio/smart.mp3",
+    "image": ""
+  },
+  {
+    "word": "smell",
+    "chinese": "闻",
+    "emoji": "👃",
+    "audio": "words/audio/smell.mp3",
+    "image": ""
+  },
+  {
+    "word": "smile",
+    "chinese": "微笑",
+    "emoji": "😊",
+    "audio": "words/audio/smile.mp3",
+    "image": ""
+  },
+  {
+    "word": "smoke",
+    "chinese": "烟",
+    "emoji": "🔥",
+    "audio": "words/audio/smoke.mp3",
+    "image": ""
+  },
+  {
+    "word": "smooth",
+    "chinese": "平滑的",
+    "emoji": "✨",
+    "audio": "words/audio/smooth.mp3",
+    "image": ""
+  },
+  {
+    "word": "snack",
+    "chinese": "小吃",
+    "emoji": "🍪",
+    "audio": "words/audio/snack.mp3",
+    "image": ""
+  },
+  {
+    "word": "snake",
+    "chinese": "蛇",
+    "emoji": "🐍",
+    "audio": "words/audio/snake.mp3",
+    "image": ""
+  },
+  {
+    "word": "snow",
+    "chinese": "雪",
+    "emoji": "❄️",
+    "audio": "words/audio/snow.mp3",
+    "image": ""
+  },
+  {
+    "word": "so",
+    "chinese": "所以；如此",
+    "emoji": "➡️",
+    "audio": "words/audio/so.mp3",
+    "image": ""
+  },
+  {
+    "word": "soak",
+    "chinese": "浸泡",
+    "emoji": "💧",
+    "audio": "words/audio/soak.mp3",
+    "image": ""
+  },
+  {
+    "word": "soap",
+    "chinese": "肥皂",
+    "emoji": "🧼",
+    "audio": "words/audio/soap.mp3",
+    "image": ""
+  },
+  {
+    "word": "soccer",
+    "chinese": "足球",
+    "emoji": "⚽",
+    "audio": "words/audio/soccer.mp3",
+    "image": ""
+  },
+  {
+    "word": "social",
+    "chinese": "社会的",
+    "emoji": "🤝",
+    "audio": "words/audio/social.mp3",
+    "image": ""
+  },
+  {
+    "word": "society",
+    "chinese": "社会",
+    "emoji": "👥",
+    "audio": "words/audio/society.mp3",
+    "image": ""
+  },
+  {
+    "word": "sock",
+    "chinese": "短袜",
+    "emoji": "🧦",
+    "audio": "words/audio/sock.mp3",
+    "image": ""
+  },
+  {
+    "word": "soda",
+    "chinese": "苏打水",
+    "emoji": "🥤",
+    "audio": "words/audio/soda.mp3",
+    "image": ""
+  },
+  {
+    "word": "sofa",
+    "chinese": "沙发",
+    "emoji": "🛋️",
+    "audio": "words/audio/sofa.mp3",
+    "image": ""
+  },
+  {
+    "word": "soft",
+    "chinese": "软的",
+    "emoji": "🐑",
+    "audio": "words/audio/soft.mp3",
+    "image": ""
+  },
+  {
+    "word": "software",
+    "chinese": "软件",
+    "emoji": "💻",
+    "audio": "words/audio/software.mp3",
+    "image": ""
+  },
+  {
+    "word": "soil",
+    "chinese": "土壤",
+    "emoji": "🌱",
+    "audio": "words/audio/soil.mp3",
+    "image": ""
+  },
+  {
+    "word": "soldier",
+    "chinese": "士兵",
+    "emoji": "🪖",
+    "audio": "words/audio/soldier.mp3",
+    "image": ""
+  },
+  {
+    "word": "solid",
+    "chinese": "固体",
+    "emoji": "💎",
+    "audio": "words/audio/solid.mp3",
+    "image": ""
+  },
+  {
+    "word": "solution",
+    "chinese": "解决办法",
+    "emoji": "✅",
+    "audio": "words/audio/solution.mp3",
+    "image": ""
+  },
+  {
+    "word": "solve",
+    "chinese": "解决",
+    "emoji": "🧩",
+    "audio": "words/audio/solve.mp3",
+    "image": ""
+  },
+  {
+    "word": "some",
+    "chinese": "一些",
+    "emoji": "📍",
+    "audio": "words/audio/some.mp3",
+    "image": ""
+  },
+  {
+    "word": "somebody",
+    "chinese": "某人",
+    "emoji": "🌟",
+    "audio": "words/audio/somebody.mp3",
+    "image": ""
+  },
+  {
+    "word": "somehow",
+    "chinese": "不知怎么地",
+    "emoji": "🤔",
+    "audio": "words/audio/somehow.mp3",
+    "image": ""
+  },
+  {
+    "word": "someone",
+    "chinese": "某人",
+    "emoji": "🌟",
+    "audio": "words/audio/someone.mp3",
+    "image": ""
+  },
+  {
+    "word": "something",
+    "chinese": "某事",
+    "emoji": "📚",
+    "audio": "words/audio/something.mp3",
+    "image": ""
+  },
+  {
+    "word": "sometimes",
+    "chinese": "有时",
+    "emoji": "🔄",
+    "audio": "words/audio/sometimes.mp3",
+    "image": ""
+  },
+  {
+    "word": "somewhere",
+    "chinese": "某处",
+    "emoji": "📍",
+    "audio": "words/audio/somewhere.mp3",
+    "image": ""
+  },
+  {
+    "word": "son",
+    "chinese": "儿子",
+    "emoji": "👦",
+    "audio": "words/audio/son.mp3",
+    "image": ""
+  },
+  {
+    "word": "song",
+    "chinese": "歌曲",
+    "emoji": "🎵",
+    "audio": "words/audio/song.mp3",
+    "image": ""
+  },
+  {
+    "word": "soon",
+    "chinese": "很快",
+    "emoji": "⏰",
+    "audio": "words/audio/soon.mp3",
+    "image": ""
+  },
+  {
+    "word": "sore",
+    "chinese": "疼痛的",
+    "emoji": "😭",
+    "audio": "words/audio/sore.mp3",
+    "image": ""
+  },
+  {
+    "word": "sorry",
+    "chinese": "抱歉的",
+    "emoji": "😔",
+    "audio": "words/audio/sorry.mp3",
+    "image": ""
+  },
+  {
+    "word": "sort",
+    "chinese": "种类",
+    "emoji": "🔢",
+    "audio": "words/audio/sort.mp3",
+    "image": ""
+  },
+  {
+    "word": "soul",
+    "chinese": "灵魂",
+    "emoji": "💫",
+    "audio": "words/audio/soul.mp3",
+    "image": ""
+  },
+  {
+    "word": "sound",
+    "chinese": "声音",
+    "emoji": "🔊",
+    "audio": "words/audio/sound.mp3",
+    "image": ""
+  },
+  {
+    "word": "soup",
+    "chinese": "汤",
+    "emoji": "🥣",
+    "audio": "words/audio/soup.mp3",
+    "image": ""
+  },
+  {
+    "word": "sour",
+    "chinese": "酸的",
+    "emoji": "🍋",
+    "audio": "words/audio/sour.mp3",
+    "image": ""
+  },
+  {
+    "word": "source",
+    "chinese": "来源",
+    "emoji": "💧",
+    "audio": "words/audio/source.mp3",
+    "image": ""
+  },
+  {
+    "word": "south",
+    "chinese": "南方",
+    "emoji": "☀",
+    "audio": "words/audio/south.mp3",
+    "image": ""
+  },
+  {
+    "word": "southern",
+    "chinese": "南方的",
+    "emoji": "☀",
+    "audio": "words/audio/southern.mp3",
+    "image": ""
+  },
+  {
+    "word": "space",
+    "chinese": "空间",
+    "emoji": "🌌",
+    "audio": "words/audio/space.mp3",
+    "image": ""
+  },
+  {
+    "word": "spade",
+    "chinese": "铲子",
+    "emoji": "🪚",
+    "audio": "words/audio/spade.mp3",
+    "image": ""
+  },
+  {
+    "word": "span",
+    "chinese": "跨度",
+    "emoji": "🪟",
+    "audio": "words/audio/span.mp3",
+    "image": ""
+  },
+  {
+    "word": "spare",
+    "chinese": "抽出",
+    "emoji": "⏰",
+    "audio": "words/audio/spare.mp3",
+    "image": ""
+  },
+  {
+    "word": "spark",
+    "chinese": "火花",
+    "emoji": "🔥",
+    "audio": "words/audio/spark.mp3",
+    "image": ""
+  },
+  {
+    "word": "speak",
+    "chinese": "说",
+    "emoji": "🗣️",
+    "audio": "words/audio/speak.mp3",
+    "image": ""
+  },
+  {
+    "word": "special",
+    "chinese": "特殊的",
+    "emoji": "⭐",
+    "audio": "words/audio/special.mp3",
+    "image": ""
+  },
+  {
+    "word": "specialist",
+    "chinese": "专家",
+    "emoji": "👨‍🔬",
+    "audio": "words/audio/specialist.mp3",
+    "image": ""
+  },
+  {
+    "word": "species",
+    "chinese": "物种",
+    "emoji": "🌱",
+    "audio": "words/audio/species.mp3",
+    "image": ""
+  },
+  {
+    "word": "specific",
+    "chinese": "特定的",
+    "emoji": "🔍",
+    "audio": "words/audio/specific.mp3",
+    "image": ""
+  },
+  {
+    "word": "speech",
+    "chinese": "演讲",
+    "emoji": "🗣️",
+    "audio": "words/audio/speech.mp3",
+    "image": ""
+  },
+  {
+    "word": "speed",
+    "chinese": "速度",
+    "emoji": "🚀",
+    "audio": "words/audio/speed.mp3",
+    "image": ""
+  },
+  {
+    "word": "spell",
+    "chinese": "拼写",
+    "emoji": "📝",
+    "audio": "words/audio/spell.mp3",
+    "image": ""
+  },
+  {
+    "word": "spend",
+    "chinese": "花费",
+    "emoji": "💰",
+    "audio": "words/audio/spend.mp3",
+    "image": ""
+  },
+  {
+    "word": "spider",
+    "chinese": "蜘蛛",
+    "emoji": "🕷️",
+    "audio": "words/audio/spider.mp3",
+    "image": ""
+  },
+  {
+    "word": "spirit",
+    "chinese": "精神",
+    "emoji": "💫",
+    "audio": "words/audio/spirit.mp3",
+    "image": ""
+  },
+  {
+    "word": "spiritual",
+    "chinese": "精神的",
+    "emoji": "🙏",
+    "audio": "words/audio/spiritual.mp3",
+    "image": ""
+  },
+  {
+    "word": "spit",
+    "chinese": "吐",
+    "emoji": "🤢",
+    "audio": "words/audio/spit.mp3",
+    "image": ""
+  },
+  {
+    "word": "split",
+    "chinese": "分裂",
+    "emoji": "🪓",
+    "audio": "words/audio/split.mp3",
+    "image": ""
+  },
+  {
+    "word": "spoil",
+    "chinese": "损坏",
+    "emoji": "💥",
+    "audio": "words/audio/spoil.mp3",
+    "image": ""
+  },
+  {
+    "word": "sponsor",
+    "chinese": "赞助",
+    "emoji": "🎁",
+    "audio": "words/audio/sponsor.mp3",
+    "image": ""
+  },
+  {
+    "word": "spoon",
+    "chinese": "勺子",
+    "emoji": "🥄",
+    "audio": "words/audio/spoon.mp3",
+    "image": ""
+  },
+  {
+    "word": "sport",
+    "chinese": "运动",
+    "emoji": "⚽",
+    "audio": "words/audio/sport.mp3",
+    "image": ""
+  },
+  {
+    "word": "spot",
+    "chinese": "斑点",
+    "emoji": "🔍",
+    "audio": "words/audio/spot.mp3",
+    "image": ""
+  },
+  {
+    "word": "spread",
+    "chinese": "传播",
+    "emoji": "🌱",
+    "audio": "words/audio/spread.mp3",
+    "image": ""
+  },
+  {
+    "word": "spring",
+    "chinese": "春天",
+    "emoji": "🌸",
+    "audio": "words/audio/spring.mp3",
+    "image": ""
+  },
+  {
+    "word": "square",
+    "chinese": "广场",
+    "emoji": "🏙",
+    "audio": "words/audio/square.mp3",
+    "image": ""
+  },
+  {
+    "word": "stable",
+    "chinese": "稳定的",
+    "emoji": "✅",
+    "audio": "words/audio/stable.mp3",
+    "image": ""
+  },
+  {
+    "word": "staff",
+    "chinese": "工作人员",
+    "emoji": "👩",
+    "audio": "words/audio/staff.mp3",
+    "image": ""
+  },
+  {
+    "word": "stage",
+    "chinese": "阶段",
+    "emoji": "🎭",
+    "audio": "words/audio/stage.mp3",
+    "image": ""
+  },
+  {
+    "word": "stair",
+    "chinese": "楼梯",
+    "emoji": "🪶",
+    "audio": "words/audio/stair.mp3",
+    "image": ""
+  },
+  {
+    "word": "stall",
+    "chinese": "摊位",
+    "emoji": "🏡",
+    "audio": "words/audio/stall.mp3",
+    "image": ""
+  },
+  {
+    "word": "stamp",
+    "chinese": "邮票",
+    "emoji": "📮",
+    "audio": "words/audio/stamp.mp3",
+    "image": ""
+  },
+  {
+    "word": "stand",
+    "chinese": "站立",
+    "emoji": "👩",
+    "audio": "words/audio/stand.mp3",
+    "image": ""
+  },
+  {
+    "word": "standard",
+    "chinese": "标准",
+    "emoji": "✅",
+    "audio": "words/audio/standard.mp3",
+    "image": ""
+  },
+  {
+    "word": "star",
+    "chinese": "星星",
+    "emoji": "⭐",
+    "audio": "words/audio/star.mp3",
+    "image": ""
+  },
+  {
+    "word": "stare",
+    "chinese": "凝视",
+    "emoji": "👀",
+    "audio": "words/audio/stare.mp3",
+    "image": ""
+  },
+  {
+    "word": "start",
+    "chinese": "开始",
+    "emoji": "▶️",
+    "audio": "words/audio/start.mp3",
+    "image": ""
+  },
+  {
+    "word": "starve",
+    "chinese": "挨饿",
+    "emoji": "🥲",
+    "audio": "words/audio/starve.mp3",
+    "image": ""
+  },
+  {
+    "word": "state",
+    "chinese": "状态",
+    "emoji": "📍",
+    "audio": "words/audio/state.mp3",
+    "image": ""
+  },
+  {
+    "word": "statement",
+    "chinese": "声明",
+    "emoji": "📝",
+    "audio": "words/audio/statement.mp3",
+    "image": ""
+  },
+  {
+    "word": "station",
+    "chinese": "站",
+    "emoji": "🚂",
+    "audio": "words/audio/station.mp3",
+    "image": ""
+  },
+  {
+    "word": "statue",
+    "chinese": "雕像",
+    "emoji": "📖",
+    "audio": "words/audio/statue.mp3",
+    "image": ""
+  },
+  {
+    "word": "status",
+    "chinese": "地位",
+    "emoji": "🌟",
+    "audio": "words/audio/status.mp3",
+    "image": ""
+  },
+  {
+    "word": "stay",
+    "chinese": "停留",
+    "emoji": "📍",
+    "audio": "words/audio/stay.mp3",
+    "image": ""
+  },
+  {
+    "word": "steady",
+    "chinese": "稳定的",
+    "emoji": "🌱",
+    "audio": "words/audio/steady.mp3",
+    "image": ""
+  },
+  {
+    "word": "steak",
+    "chinese": "牛排",
+    "emoji": "🥩",
+    "audio": "words/audio/steak.mp3",
+    "image": ""
+  },
+  {
+    "word": "steal",
+    "chinese": "偷",
+    "emoji": "🛄",
+    "audio": "words/audio/steal.mp3",
+    "image": ""
+  },
+  {
+    "word": "steam",
+    "chinese": "蒸汽",
+    "emoji": "☁",
+    "audio": "words/audio/steam.mp3",
+    "image": ""
+  },
+  {
+    "word": "steamer",
+    "chinese": "汽船",
+    "emoji": "🚢",
+    "audio": "words/audio/steamer.mp3",
+    "image": ""
+  },
+  {
+    "word": "steel",
+    "chinese": "钢",
+    "emoji": "⚙",
+    "audio": "words/audio/steel.mp3",
+    "image": ""
+  },
+  {
+    "word": "steep",
+    "chinese": "陡峭的",
+    "emoji": "⛰",
+    "audio": "words/audio/steep.mp3",
+    "image": ""
+  },
+  {
+    "word": "step",
+    "chinese": "步骤",
+    "emoji": "➡",
+    "audio": "words/audio/step.mp3",
+    "image": ""
+  },
+  {
+    "word": "stick",
+    "chinese": "棍子",
+    "emoji": "🪵",
+    "audio": "words/audio/stick.mp3",
+    "image": ""
+  },
+  {
+    "word": "sticky",
+    "chinese": "粘的",
+    "emoji": "🧶",
+    "audio": "words/audio/sticky.mp3",
+    "image": ""
+  },
+  {
+    "word": "stiff",
+    "chinese": "僵硬的",
+    "emoji": "🧱",
+    "audio": "words/audio/stiff.mp3",
+    "image": ""
+  },
+  {
+    "word": "still",
+    "chinese": "仍然",
+    "emoji": "⏰",
+    "audio": "words/audio/still.mp3",
+    "image": ""
+  },
+  {
+    "word": "sting",
+    "chinese": "刺",
+    "emoji": "🐞",
+    "audio": "words/audio/sting.mp3",
+    "image": ""
+  },
+  {
+    "word": "stir",
+    "chinese": "搅拌",
+    "emoji": "🥣",
+    "audio": "words/audio/stir.mp3",
+    "image": ""
+  },
+  {
+    "word": "stock",
+    "chinese": "库存",
+    "emoji": "📦",
+    "audio": "words/audio/stock.mp3",
+    "image": ""
+  },
+  {
+    "word": "stocking",
+    "chinese": "长袜",
+    "emoji": "🧶",
+    "audio": "words/audio/stocking.mp3",
+    "image": ""
+  },
+  {
+    "word": "stomach",
+    "chinese": "胃",
+    "emoji": "👤",
+    "audio": "words/audio/stomach.mp3",
+    "image": ""
+  },
+  {
+    "word": "stone",
+    "chinese": "石头",
+    "emoji": "🪨",
+    "audio": "words/audio/stone.mp3",
+    "image": ""
+  },
+  {
+    "word": "stop",
+    "chinese": "停止",
+    "emoji": "⏹️",
+    "audio": "words/audio/stop.mp3",
+    "image": ""
+  },
+  {
+    "word": "store",
+    "chinese": "商店",
+    "emoji": "🏪",
+    "audio": "words/audio/store.mp3",
+    "image": ""
+  },
+  {
+    "word": "storm",
+    "chinese": "风暴",
+    "emoji": "⛈️",
+    "audio": "words/audio/storm.mp3",
+    "image": ""
+  },
+  {
+    "word": "story",
+    "chinese": "故事",
+    "emoji": "📖",
+    "audio": "words/audio/story.mp3",
+    "image": ""
+  },
+  {
+    "word": "stove",
+    "chinese": "炉子",
+    "emoji": "🔥",
+    "audio": "words/audio/stove.mp3",
+    "image": ""
+  },
+  {
+    "word": "straight",
+    "chinese": "直的",
+    "emoji": "➡",
+    "audio": "words/audio/straight.mp3",
+    "image": ""
+  },
+  {
+    "word": "strait",
+    "chinese": "海峡",
+    "emoji": "🌊",
+    "audio": "words/audio/strait.mp3",
+    "image": ""
+  },
+  {
+    "word": "strange",
+    "chinese": "奇怪的",
+    "emoji": "👽",
+    "audio": "words/audio/strange.mp3",
+    "image": ""
+  },
+  {
+    "word": "stranger",
+    "chinese": "陌生人",
+    "emoji": "🤔",
+    "audio": "words/audio/stranger.mp3",
+    "image": ""
+  },
+  {
+    "word": "strategy",
+    "chinese": "策略",
+    "emoji": "📋",
+    "audio": "words/audio/strategy.mp3",
+    "image": ""
+  },
+  {
+    "word": "straw",
+    "chinese": "稻草",
+    "emoji": "🦂",
+    "audio": "words/audio/straw.mp3",
+    "image": ""
+  },
+  {
+    "word": "stream",
+    "chinese": "溪流",
+    "emoji": "📺",
+    "audio": "words/audio/stream.mp3",
+    "image": ""
+  },
+  {
+    "word": "street",
+    "chinese": "街道",
+    "emoji": "🛣️",
+    "audio": "words/audio/street.mp3",
+    "image": ""
+  },
+  {
+    "word": "strength",
+    "chinese": "力量",
+    "emoji": "💪",
+    "audio": "words/audio/strength.mp3",
+    "image": ""
+  },
+  {
+    "word": "strengthen",
+    "chinese": "加强",
+    "emoji": "💪",
+    "audio": "words/audio/strengthen.mp3",
+    "image": ""
+  },
+  {
+    "word": "stress",
+    "chinese": "压力",
+    "emoji": "😰",
+    "audio": "words/audio/stress.mp3",
+    "image": ""
+  },
+  {
+    "word": "stretch",
+    "chinese": "伸展",
+    "emoji": "🧘",
+    "audio": "words/audio/stretch.mp3",
+    "image": ""
+  },
+  {
+    "word": "strict",
+    "chinese": "严格的",
+    "emoji": "📌",
+    "audio": "words/audio/strict.mp3",
+    "image": ""
+  },
+  {
+    "word": "strike",
+    "chinese": "罢工",
+    "emoji": "📌",
+    "audio": "words/audio/strike.mp3",
+    "image": ""
+  },
+  {
+    "word": "string",
+    "chinese": "细绳",
+    "emoji": "🧶",
+    "audio": "words/audio/string.mp3",
+    "image": ""
+  },
+  {
+    "word": "stripe",
+    "chinese": "条纹",
+    "emoji": "🌟",
+    "audio": "words/audio/stripe.mp3",
+    "image": ""
+  },
+  {
+    "word": "stroke",
+    "chinese": "中风",
+    "emoji": "🩸",
+    "audio": "words/audio/stroke.mp3",
+    "image": ""
+  },
+  {
+    "word": "strong",
+    "chinese": "强壮的",
+    "emoji": "💪",
+    "audio": "words/audio/strong.mp3",
+    "image": ""
+  },
+  {
+    "word": "structure",
+    "chinese": "结构",
+    "emoji": "🏗️",
+    "audio": "words/audio/structure.mp3",
+    "image": ""
+  },
+  {
+    "word": "struggle",
+    "chinese": "斗争",
+    "emoji": "💪",
+    "audio": "words/audio/struggle.mp3",
+    "image": ""
+  },
+  {
+    "word": "student",
+    "chinese": "学生",
+    "emoji": "🎓",
+    "audio": "words/audio/student.mp3",
+    "image": ""
+  },
+  {
+    "word": "studio",
+    "chinese": "工作室",
+    "emoji": "🎨",
+    "audio": "words/audio/studio.mp3",
+    "image": ""
+  },
+  {
+    "word": "study",
+    "chinese": "学习",
+    "emoji": "📚",
+    "audio": "words/audio/study.mp3",
+    "image": ""
+  },
+  {
+    "word": "stuff",
+    "chinese": "东西",
+    "emoji": "📦",
+    "audio": "words/audio/stuff.mp3",
+    "image": ""
+  },
+  {
+    "word": "stupid",
+    "chinese": "愚蠢的",
+    "emoji": "🤪",
+    "audio": "words/audio/stupid.mp3",
+    "image": ""
+  },
+  {
+    "word": "style",
+    "chinese": "风格",
+    "emoji": "🎨",
+    "audio": "words/audio/style.mp3",
+    "image": ""
+  },
+  {
+    "word": "subject",
+    "chinese": "主题；科目",
+    "emoji": "📚",
+    "audio": "words/audio/subject.mp3",
+    "image": ""
+  },
+  {
+    "word": "submit",
+    "chinese": "提交",
+    "emoji": "📝",
+    "audio": "words/audio/submit.mp3",
+    "image": ""
+  },
+  {
+    "word": "substance",
+    "chinese": "物质",
+    "emoji": "🧪",
+    "audio": "words/audio/substance.mp3",
+    "image": ""
+  },
+  {
+    "word": "substitute",
+    "chinese": "替代",
+    "emoji": "🔄",
+    "audio": "words/audio/substitute.mp3",
+    "image": ""
+  },
+  {
+    "word": "subtract",
+    "chinese": "减",
+    "emoji": "➖",
+    "audio": "words/audio/subtract.mp3",
+    "image": ""
+  },
+  {
+    "word": "suburb",
+    "chinese": "郊区",
+    "emoji": "🏠",
+    "audio": "words/audio/suburb.mp3",
+    "image": ""
+  },
+  {
+    "word": "subway",
+    "chinese": "地铁",
+    "emoji": "🚇",
+    "audio": "words/audio/subway.mp3",
+    "image": ""
+  },
+  {
+    "word": "succeed",
+    "chinese": "成功",
+    "emoji": "✅",
+    "audio": "words/audio/succeed.mp3",
+    "image": ""
+  },
+  {
+    "word": "success",
+    "chinese": "成功",
+    "emoji": "🏆",
+    "audio": "words/audio/success.mp3",
+    "image": ""
+  },
+  {
+    "word": "successful",
+    "chinese": "成功的",
+    "emoji": "🏆",
+    "audio": "words/audio/successful.mp3",
+    "image": ""
+  },
+  {
+    "word": "such",
+    "chinese": "这样的",
+    "emoji": "📍",
+    "audio": "words/audio/such.mp3",
+    "image": ""
+  },
+  {
+    "word": "suck",
+    "chinese": "吮吸",
+    "emoji": "🫖",
+    "audio": "words/audio/suck.mp3",
+    "image": ""
+  },
+  {
+    "word": "sudden",
+    "chinese": "突然的",
+    "emoji": "💥",
+    "audio": "words/audio/sudden.mp3",
+    "image": ""
+  },
+  {
+    "word": "suddenly",
+    "chinese": "突然",
+    "emoji": "⚡",
+    "audio": "words/audio/suddenly.mp3",
+    "image": ""
+  },
+  {
+    "word": "suffer",
+    "chinese": "受苦",
+    "emoji": "😢",
+    "audio": "words/audio/suffer.mp3",
+    "image": ""
+  },
+  {
+    "word": "sufficient",
+    "chinese": "足够的",
+    "emoji": "🚫",
+    "audio": "words/audio/sufficient.mp3",
+    "image": ""
+  },
+  {
+    "word": "sugar",
+    "chinese": "糖",
+    "emoji": "🍬",
+    "audio": "words/audio/sugar.mp3",
+    "image": ""
+  },
+  {
+    "word": "suggest",
+    "chinese": "建议",
+    "emoji": "💡",
+    "audio": "words/audio/suggest.mp3",
+    "image": ""
+  },
+  {
+    "word": "suit",
+    "chinese": "套装",
+    "emoji": "👔",
+    "audio": "words/audio/suit.mp3",
+    "image": ""
+  },
+  {
+    "word": "suitable",
+    "chinese": "合适的",
+    "emoji": "✅",
+    "audio": "words/audio/suitable.mp3",
+    "image": ""
+  },
+  {
+    "word": "suitcase",
+    "chinese": "手提箱",
+    "emoji": "🧳",
+    "audio": "words/audio/suitcase.mp3",
+    "image": ""
+  },
+  {
+    "word": "sum",
+    "chinese": "总数",
+    "emoji": "➕",
+    "audio": "words/audio/sum.mp3",
+    "image": ""
+  },
+  {
+    "word": "summarize",
+    "chinese": "总结",
+    "emoji": "📝",
+    "audio": "words/audio/summarize.mp3",
+    "image": ""
+  },
+  {
+    "word": "summary",
+    "chinese": "摘要",
+    "emoji": "📚",
+    "audio": "words/audio/summary.mp3",
+    "image": ""
+  },
+  {
+    "word": "summer",
+    "chinese": "夏天",
+    "emoji": "☀️",
+    "audio": "words/audio/summer.mp3",
+    "image": ""
+  },
+  {
+    "word": "sun",
+    "chinese": "太阳",
+    "emoji": "☀️",
+    "audio": "words/audio/sun.mp3",
+    "image": ""
+  },
+  {
+    "word": "sunday",
+    "chinese": "星期日",
+    "emoji": "🎉",
+    "audio": "words/audio/sunday.mp3",
+    "image": ""
+  },
+  {
+    "word": "sunlight",
+    "chinese": "阳光",
+    "emoji": "☀️",
+    "audio": "words/audio/sunlight.mp3",
+    "image": ""
+  },
+  {
+    "word": "sunny",
+    "chinese": "晴朗的",
+    "emoji": "☀️",
+    "audio": "words/audio/sunny.mp3",
+    "image": ""
+  },
+  {
+    "word": "sunrise",
+    "chinese": "日出",
+    "emoji": "🌅",
+    "audio": "words/audio/sunrise.mp3",
+    "image": ""
+  },
+  {
+    "word": "sunset",
+    "chinese": "日落",
+    "emoji": "🌆",
+    "audio": "words/audio/sunset.mp3",
+    "image": ""
+  },
+  {
+    "word": "super",
+    "chinese": "极好的",
+    "emoji": "🌟",
+    "audio": "words/audio/super.mp3",
+    "image": ""
+  },
+  {
+    "word": "superior",
+    "chinese": "优越的",
+    "emoji": "👑",
+    "audio": "words/audio/superior.mp3",
+    "image": ""
+  },
+  {
+    "word": "supermarket",
+    "chinese": "超市",
+    "emoji": "🛒",
+    "audio": "words/audio/supermarket.mp3",
+    "image": ""
+  },
+  {
+    "word": "supper",
+    "chinese": "晚餐",
+    "emoji": "🍽️",
+    "audio": "words/audio/supper.mp3",
+    "image": ""
+  },
+  {
+    "word": "supply",
+    "chinese": "供应",
+    "emoji": "📦",
+    "audio": "words/audio/supply.mp3",
+    "image": ""
+  },
+  {
+    "word": "support",
+    "chinese": "支持",
+    "emoji": "🤝",
+    "audio": "words/audio/support.mp3",
+    "image": ""
+  },
+  {
+    "word": "suppose",
+    "chinese": "假设",
+    "emoji": "💭",
+    "audio": "words/audio/suppose.mp3",
+    "image": ""
+  },
+  {
+    "word": "supreme",
+    "chinese": "最高的",
+    "emoji": "👑",
+    "audio": "words/audio/supreme.mp3",
+    "image": ""
+  },
+  {
+    "word": "sure",
+    "chinese": "确信的",
+    "emoji": "✅",
+    "audio": "words/audio/sure.mp3",
+    "image": ""
+  },
+  {
+    "word": "surf",
+    "chinese": "冲浪",
+    "emoji": "🏄",
+    "audio": "words/audio/surf.mp3",
+    "image": ""
+  },
+  {
+    "word": "surface",
+    "chinese": "表面",
+    "emoji": "📍",
+    "audio": "words/audio/surface.mp3",
+    "image": ""
+  },
+  {
+    "word": "surgeon",
+    "chinese": "外科医生",
+    "emoji": "👨‍⚕️",
+    "audio": "words/audio/surgeon.mp3",
+    "image": ""
+  },
+  {
+    "word": "surgery",
+    "chinese": "外科手术",
+    "emoji": "🎯",
+    "audio": "words/audio/surgery.mp3",
+    "image": ""
+  },
+  {
+    "word": "surprise",
+    "chinese": "惊奇",
+    "emoji": "🎁",
+    "audio": "words/audio/surprise.mp3",
+    "image": ""
+  },
+  {
+    "word": "surround",
+    "chinese": "围绕",
+    "emoji": "💡",
+    "audio": "words/audio/surround.mp3",
+    "image": ""
+  },
+  {
+    "word": "survey",
+    "chinese": "调查",
+    "emoji": "📊",
+    "audio": "words/audio/survey.mp3",
+    "image": ""
+  },
+  {
+    "word": "survive",
+    "chinese": "幸存",
+    "emoji": "🌱",
+    "audio": "words/audio/survive.mp3",
+    "image": ""
+  },
+  {
+    "word": "suspect",
+    "chinese": "怀疑",
+    "emoji": "🤔",
+    "audio": "words/audio/suspect.mp3",
+    "image": ""
+  },
+  {
+    "word": "suspend",
+    "chinese": "暂停",
+    "emoji": "⏰",
+    "audio": "words/audio/suspend.mp3",
+    "image": ""
+  },
+  {
+    "word": "swallow",
+    "chinese": "吞",
+    "emoji": "🦬",
+    "audio": "words/audio/swallow.mp3",
+    "image": ""
+  },
+  {
+    "word": "swan",
+    "chinese": "天鹅",
+    "emoji": "🦢",
+    "audio": "words/audio/swan.mp3",
+    "image": ""
+  },
+  {
+    "word": "swap",
+    "chinese": "交换",
+    "emoji": "🔄",
+    "audio": "words/audio/swap.mp3",
+    "image": ""
+  },
+  {
+    "word": "swear",
+    "chinese": "发誓",
+    "emoji": "✍",
+    "audio": "words/audio/swear.mp3",
+    "image": ""
+  },
+  {
+    "word": "sweat",
+    "chinese": "汗水",
+    "emoji": "💦",
+    "audio": "words/audio/sweat.mp3",
+    "image": ""
+  },
+  {
+    "word": "sweater",
+    "chinese": "毛衣",
+    "emoji": "🧶",
+    "audio": "words/audio/sweater.mp3",
+    "image": ""
+  },
+  {
+    "word": "sweep",
+    "chinese": "扫",
+    "emoji": "🧹",
+    "audio": "words/audio/sweep.mp3",
+    "image": ""
+  },
+  {
+    "word": "sweet",
+    "chinese": "甜的",
+    "emoji": "🍬",
+    "audio": "words/audio/sweet.mp3",
+    "image": ""
+  },
+  {
+    "word": "swell",
+    "chinese": "肿胀",
+    "emoji": "🩺",
+    "audio": "words/audio/swell.mp3",
+    "image": ""
+  },
+  {
+    "word": "swift",
+    "chinese": "迅速的",
+    "emoji": "🚀",
+    "audio": "words/audio/swift.mp3",
+    "image": ""
+  },
+  {
+    "word": "swim",
+    "chinese": "游泳",
+    "emoji": "🏊",
+    "audio": "words/audio/swim.mp3",
+    "image": ""
+  },
+  {
+    "word": "swing",
+    "chinese": "摇摆",
+    "emoji": "🎡",
+    "audio": "words/audio/swing.mp3",
+    "image": ""
+  },
+  {
+    "word": "switch",
+    "chinese": "开关",
+    "emoji": "💡",
+    "audio": "words/audio/switch.mp3",
+    "image": ""
+  },
+  {
+    "word": "sword",
+    "chinese": "剑",
+    "emoji": "⚔",
+    "audio": "words/audio/sword.mp3",
+    "image": ""
+  },
+  {
+    "word": "symbol",
+    "chinese": "象征",
+    "emoji": "💎",
+    "audio": "words/audio/symbol.mp3",
+    "image": ""
+  },
+  {
+    "word": "sympathy",
+    "chinese": "同情",
+    "emoji": "😢",
+    "audio": "words/audio/sympathy.mp3",
+    "image": ""
+  },
+  {
+    "word": "symptom",
+    "chinese": "症状",
+    "emoji": "🩺",
+    "audio": "words/audio/symptom.mp3",
+    "image": ""
+  },
+  {
+    "word": "system",
+    "chinese": "系统",
+    "emoji": "💻",
+    "audio": "words/audio/system.mp3",
+    "image": ""
+  },
+  {
+    "word": "table",
+    "chinese": "桌子",
+    "emoji": "🪑",
+    "audio": "words/audio/table.mp3",
+    "image": ""
+  },
+  {
+    "word": "tablet",
+    "chinese": "药片",
+    "emoji": "📱",
+    "audio": "words/audio/tablet.mp3",
+    "image": ""
+  },
+  {
+    "word": "tag",
+    "chinese": "标签",
+    "emoji": "🏷",
+    "audio": "words/audio/tag.mp3",
+    "image": ""
+  },
+  {
+    "word": "tail",
+    "chinese": "尾巴",
+    "emoji": "🦜",
+    "audio": "words/audio/tail.mp3",
+    "image": ""
+  },
+  {
+    "word": "tailor",
+    "chinese": "裁缝",
+    "emoji": "🧵",
+    "audio": "words/audio/tailor.mp3",
+    "image": ""
+  },
+  {
+    "word": "take",
+    "chinese": "拿",
+    "emoji": "✋",
+    "audio": "words/audio/take.mp3",
+    "image": ""
+  },
+  {
+    "word": "tale",
+    "chinese": "故事",
+    "emoji": "📖",
+    "audio": "words/audio/tale.mp3",
+    "image": ""
+  },
+  {
+    "word": "talent",
+    "chinese": "天赋",
+    "emoji": "🌟",
+    "audio": "words/audio/talent.mp3",
+    "image": ""
+  },
+  {
+    "word": "talk",
+    "chinese": "谈话",
+    "emoji": "🗣️",
+    "audio": "words/audio/talk.mp3",
+    "image": ""
+  },
+  {
+    "word": "tall",
+    "chinese": "高的",
+    "emoji": "🏀",
+    "audio": "words/audio/tall.mp3",
+    "image": ""
+  },
+  {
+    "word": "tank",
+    "chinese": "水箱",
+    "emoji": "🌟",
+    "audio": "words/audio/tank.mp3",
+    "image": ""
+  },
+  {
+    "word": "tap",
+    "chinese": "水龙头",
+    "emoji": "💧",
+    "audio": "words/audio/tap.mp3",
+    "image": ""
+  },
+  {
+    "word": "tape",
+    "chinese": "胶带",
+    "emoji": "📏",
+    "audio": "words/audio/tape.mp3",
+    "image": ""
+  },
+  {
+    "word": "target",
+    "chinese": "目标",
+    "emoji": "🎯",
+    "audio": "words/audio/target.mp3",
+    "image": ""
+  },
+  {
+    "word": "task",
+    "chinese": "任务",
+    "emoji": "📋",
+    "audio": "words/audio/task.mp3",
+    "image": ""
+  },
+  {
+    "word": "taste",
+    "chinese": "品尝",
+    "emoji": "👅",
+    "audio": "words/audio/taste.mp3",
+    "image": ""
+  },
+  {
+    "word": "tax",
+    "chinese": "税",
+    "emoji": "💰",
+    "audio": "words/audio/tax.mp3",
+    "image": ""
+  },
+  {
+    "word": "taxi",
+    "chinese": "出租车",
+    "emoji": "🚕",
+    "audio": "words/audio/taxi.mp3",
+    "image": ""
+  },
+  {
+    "word": "tea",
+    "chinese": "茶",
+    "emoji": "🍵",
+    "audio": "words/audio/tea.mp3",
+    "image": ""
+  },
+  {
+    "word": "teach",
+    "chinese": "教",
+    "emoji": "👨‍🏫",
+    "audio": "words/audio/teach.mp3",
+    "image": ""
+  },
+  {
+    "word": "teacher",
+    "chinese": "老师",
+    "emoji": "👨‍🏫",
+    "audio": "words/audio/teacher.mp3",
+    "image": ""
+  },
+  {
+    "word": "team",
+    "chinese": "团队",
+    "emoji": "👥",
+    "audio": "words/audio/team.mp3",
+    "image": ""
+  },
+  {
+    "word": "tear",
+    "chinese": "眼泪；撕裂",
+    "emoji": "😭",
+    "audio": "words/audio/tear.mp3",
+    "image": ""
+  },
+  {
+    "word": "technical",
+    "chinese": "技术的",
+    "emoji": "💻",
+    "audio": "words/audio/technical.mp3",
+    "image": ""
+  },
+  {
+    "word": "technique",
+    "chinese": "技术",
+    "emoji": "🎨",
+    "audio": "words/audio/technique.mp3",
+    "image": ""
+  },
+  {
+    "word": "technology",
+    "chinese": "技术",
+    "emoji": "💡",
+    "audio": "words/audio/technology.mp3",
+    "image": ""
+  },
+  {
+    "word": "teenager",
+    "chinese": "青少年",
+    "emoji": "🚀",
+    "audio": "words/audio/teenager.mp3",
+    "image": ""
+  },
+  {
+    "word": "telegram",
+    "chinese": "电报",
+    "emoji": "🔍",
+    "audio": "words/audio/telegram.mp3",
+    "image": ""
+  },
+  {
+    "word": "telephone",
+    "chinese": "电话",
+    "emoji": "📞",
+    "audio": "words/audio/telephone.mp3",
+    "image": ""
+  },
+  {
+    "word": "telescope",
+    "chinese": "望远镜",
+    "emoji": "🔭",
+    "audio": "words/audio/telescope.mp3",
+    "image": ""
+  },
+  {
+    "word": "television",
+    "chinese": "电视",
+    "emoji": "📺",
+    "audio": "words/audio/television.mp3",
+    "image": ""
+  },
+  {
+    "word": "tell",
+    "chinese": "告诉",
+    "emoji": "🗣️",
+    "audio": "words/audio/tell.mp3",
+    "image": ""
+  },
+  {
+    "word": "temper",
+    "chinese": "脾气",
+    "emoji": "🔥",
+    "audio": "words/audio/temper.mp3",
+    "image": ""
+  },
+  {
+    "word": "temperature",
+    "chinese": "温度",
+    "emoji": "🌡️",
+    "audio": "words/audio/temperature.mp3",
+    "image": ""
+  },
+  {
+    "word": "temple",
+    "chinese": "寺庙",
+    "emoji": "🫖",
+    "audio": "words/audio/temple.mp3",
+    "image": ""
+  },
+  {
+    "word": "temporary",
+    "chinese": "暂时的",
+    "emoji": "📅",
+    "audio": "words/audio/temporary.mp3",
+    "image": ""
+  },
+  {
+    "word": "tempt",
+    "chinese": "诱惑",
+    "emoji": "🔖",
+    "audio": "words/audio/tempt.mp3",
+    "image": ""
+  },
+  {
+    "word": "ten",
+    "chinese": "十",
+    "emoji": "🔟",
+    "audio": "words/audio/ten.mp3",
+    "image": ""
+  },
+  {
+    "word": "tend",
+    "chinese": "倾向",
+    "emoji": "🌱",
+    "audio": "words/audio/tend.mp3",
+    "image": ""
+  },
+  {
+    "word": "tendency",
+    "chinese": "趋势",
+    "emoji": "📈",
+    "audio": "words/audio/tendency.mp3",
+    "image": ""
+  },
+  {
+    "word": "tennis",
+    "chinese": "网球",
+    "emoji": "🎾",
+    "audio": "words/audio/tennis.mp3",
+    "image": ""
+  },
+  {
+    "word": "tense",
+    "chinese": "紧张的",
+    "emoji": "⚡",
+    "audio": "words/audio/tense.mp3",
+    "image": ""
+  },
+  {
+    "word": "tension",
+    "chinese": "紧张",
+    "emoji": "⚡",
+    "audio": "words/audio/tension.mp3",
+    "image": ""
+  },
+  {
+    "word": "tent",
+    "chinese": "帐篷",
+    "emoji": "🏠",
+    "audio": "words/audio/tent.mp3",
+    "image": ""
+  },
+  {
+    "word": "term",
+    "chinese": "学期；术语",
+    "emoji": "📚",
+    "audio": "words/audio/term.mp3",
+    "image": ""
+  },
+  {
+    "word": "terminal",
+    "chinese": "终端",
+    "emoji": "💻",
+    "audio": "words/audio/terminal.mp3",
+    "image": ""
+  },
+  {
+    "word": "terrible",
+    "chinese": "可怕的",
+    "emoji": "😖",
+    "audio": "words/audio/terrible.mp3",
+    "image": ""
+  },
+  {
+    "word": "territory",
+    "chinese": "领土",
+    "emoji": "🌍",
+    "audio": "words/audio/territory.mp3",
+    "image": ""
+  },
+  {
+    "word": "terror",
+    "chinese": "恐怖",
+    "emoji": "😱",
+    "audio": "words/audio/terror.mp3",
+    "image": ""
+  },
+  {
+    "word": "test",
+    "chinese": "测试",
+    "emoji": "🔍",
+    "audio": "words/audio/test.mp3",
+    "image": ""
+  },
+  {
+    "word": "text",
+    "chinese": "文本",
+    "emoji": "📱",
+    "audio": "words/audio/text.mp3",
+    "image": ""
+  },
+  {
+    "word": "textbook",
+    "chinese": "教科书",
+    "emoji": "📚",
+    "audio": "words/audio/textbook.mp3",
+    "image": ""
+  },
+  {
+    "word": "than",
+    "chinese": "比",
+    "emoji": "➡️",
+    "audio": "words/audio/than.mp3",
+    "image": ""
+  },
+  {
+    "word": "thank",
+    "chinese": "感谢",
+    "emoji": "🙏",
+    "audio": "words/audio/thank.mp3",
+    "image": ""
+  },
+  {
+    "word": "thanks",
+    "chinese": "感谢",
+    "emoji": "🙏",
+    "audio": "words/audio/thanks.mp3",
+    "image": ""
+  },
+  {
+    "word": "that",
+    "chinese": "那个",
+    "emoji": "📍",
+    "audio": "words/audio/that.mp3",
+    "image": ""
+  },
+  {
+    "word": "the",
+    "chinese": "这",
+    "emoji": "📍",
+    "audio": "words/audio/the.mp3",
+    "image": ""
+  },
+  {
+    "word": "theater",
+    "chinese": "剧院",
+    "emoji": "🎭",
+    "audio": "words/audio/theater.mp3",
+    "image": ""
+  },
+  {
+    "word": "their",
+    "chinese": "他们的",
+    "emoji": "🎒",
+    "audio": "words/audio/their.mp3",
+    "image": ""
+  },
+  {
+    "word": "theirs",
+    "chinese": "他们的",
+    "emoji": "👥",
+    "audio": "words/audio/theirs.mp3",
+    "image": ""
+  },
+  {
+    "word": "them",
+    "chinese": "他们",
+    "emoji": "👥",
+    "audio": "words/audio/them.mp3",
+    "image": ""
+  },
+  {
+    "word": "theme",
+    "chinese": "主题",
+    "emoji": "📚",
+    "audio": "words/audio/theme.mp3",
+    "image": ""
+  },
+  {
+    "word": "themselves",
+    "chinese": "他们自己",
+    "emoji": "👥",
+    "audio": "words/audio/themselves.mp3",
+    "image": ""
+  },
+  {
+    "word": "then",
+    "chinese": "然后",
+    "emoji": "⏰",
+    "audio": "words/audio/then.mp3",
+    "image": ""
+  },
+  {
+    "word": "theory",
+    "chinese": "理论",
+    "emoji": "📚",
+    "audio": "words/audio/theory.mp3",
+    "image": ""
+  },
+  {
+    "word": "there",
+    "chinese": "那里",
+    "emoji": "📍",
+    "audio": "words/audio/there.mp3",
+    "image": ""
+  },
+  {
+    "word": "therefore",
+    "chinese": "因此",
+    "emoji": "➡️",
+    "audio": "words/audio/therefore.mp3",
+    "image": ""
+  },
+  {
+    "word": "these",
+    "chinese": "这些",
+    "emoji": "📍",
+    "audio": "words/audio/these.mp3",
+    "image": ""
+  },
+  {
+    "word": "they",
+    "chinese": "他们",
+    "emoji": "👥",
+    "audio": "words/audio/they.mp3",
+    "image": ""
+  },
+  {
+    "word": "thick",
+    "chinese": "厚的",
+    "emoji": "📏",
+    "audio": "words/audio/thick.mp3",
+    "image": ""
+  },
+  {
+    "word": "thief",
+    "chinese": "小偷",
+    "emoji": "🏃",
+    "audio": "words/audio/thief.mp3",
+    "image": ""
+  },
+  {
+    "word": "thin",
+    "chinese": "薄的",
+    "emoji": "🦒",
+    "audio": "words/audio/thin.mp3",
+    "image": ""
+  },
+  {
+    "word": "thing",
+    "chinese": "事情",
+    "emoji": "📦",
+    "audio": "words/audio/thing.mp3",
+    "image": ""
+  },
+  {
+    "word": "think",
+    "chinese": "认为",
+    "emoji": "🧠",
+    "audio": "words/audio/think.mp3",
+    "image": ""
+  },
+  {
+    "word": "third",
+    "chinese": "第三",
+    "emoji": "🥉",
+    "audio": "words/audio/third.mp3",
+    "image": ""
+  },
+  {
+    "word": "thirsty",
+    "chinese": "口渴的",
+    "emoji": "🥤",
+    "audio": "words/audio/thirsty.mp3",
+    "image": ""
+  },
+  {
+    "word": "thirteen",
+    "chinese": "十三",
+    "emoji": "3️⃣",
+    "audio": "words/audio/thirteen.mp3",
+    "image": ""
+  },
+  {
+    "word": "thirty",
+    "chinese": "三十",
+    "emoji": "3️⃣",
+    "audio": "words/audio/thirty.mp3",
+    "image": ""
+  },
+  {
+    "word": "this",
+    "chinese": "这个",
+    "emoji": "📍",
+    "audio": "words/audio/this.mp3",
+    "image": ""
+  },
+  {
+    "word": "thorough",
+    "chinese": "彻底的",
+    "emoji": "🔎",
+    "audio": "words/audio/thorough.mp3",
+    "image": ""
+  },
+  {
+    "word": "those",
+    "chinese": "那些",
+    "emoji": "📍",
+    "audio": "words/audio/those.mp3",
+    "image": ""
+  },
+  {
+    "word": "though",
+    "chinese": "虽然",
+    "emoji": "❌",
+    "audio": "words/audio/though.mp3",
+    "image": ""
+  },
+  {
+    "word": "thought",
+    "chinese": "想法",
+    "emoji": "💭",
+    "audio": "words/audio/thought.mp3",
+    "image": ""
+  },
+  {
+    "word": "thread",
+    "chinese": "线",
+    "emoji": "🧵",
+    "audio": "words/audio/thread.mp3",
+    "image": ""
+  },
+  {
+    "word": "threat",
+    "chinese": "威胁",
+    "emoji": "⚠",
+    "audio": "words/audio/threat.mp3",
+    "image": ""
+  },
+  {
+    "word": "threaten",
+    "chinese": "威胁",
+    "emoji": "🚨",
+    "audio": "words/audio/threaten.mp3",
+    "image": ""
+  },
+  {
+    "word": "three",
+    "chinese": "三",
+    "emoji": "3️⃣",
+    "audio": "words/audio/three.mp3",
+    "image": ""
+  },
+  {
+    "word": "throat",
+    "chinese": "喉咙",
+    "emoji": "🔐",
+    "audio": "words/audio/throat.mp3",
+    "image": ""
+  },
+  {
+    "word": "through",
+    "chinese": "通过",
+    "emoji": "📍",
+    "audio": "words/audio/through.mp3",
+    "image": ""
+  },
+  {
+    "word": "throughout",
+    "chinese": "遍及",
+    "emoji": "📍",
+    "audio": "words/audio/throughout.mp3",
+    "image": ""
+  },
+  {
+    "word": "throw",
+    "chinese": "扔",
+    "emoji": "🎯",
+    "audio": "words/audio/throw.mp3",
+    "image": ""
+  },
+  {
+    "word": "thumb",
+    "chinese": "拇指",
+    "emoji": "👍",
+    "audio": "words/audio/thumb.mp3",
+    "image": ""
+  },
+  {
+    "word": "thunder",
+    "chinese": "雷声",
+    "emoji": "🌩️",
+    "audio": "words/audio/thunder.mp3",
+    "image": ""
+  },
+  {
+    "word": "thursday",
+    "chinese": "星期四",
+    "emoji": "📅",
+    "audio": "words/audio/thursday.mp3",
+    "image": ""
+  },
+  {
+    "word": "thus",
+    "chinese": "因此",
+    "emoji": "➡️",
+    "audio": "words/audio/thus.mp3",
+    "image": ""
+  },
+  {
+    "word": "ticket",
+    "chinese": "票",
+    "emoji": "🎫",
+    "audio": "words/audio/ticket.mp3",
+    "image": ""
+  },
+  {
+    "word": "tide",
+    "chinese": "潮汐",
+    "emoji": "🌊",
+    "audio": "words/audio/tide.mp3",
+    "image": ""
+  },
+  {
+    "word": "tidy",
+    "chinese": "整洁的",
+    "emoji": "🧹",
+    "audio": "words/audio/tidy.mp3",
+    "image": ""
+  },
+  {
+    "word": "tie",
+    "chinese": "系",
+    "emoji": "👔",
+    "audio": "words/audio/tie.mp3",
+    "image": ""
+  },
+  {
+    "word": "tiger",
+    "chinese": "老虎",
+    "emoji": "🐯",
+    "audio": "words/audio/tiger.mp3",
+    "image": ""
+  },
+  {
+    "word": "tight",
+    "chinese": "紧的",
+    "emoji": "🧶",
+    "audio": "words/audio/tight.mp3",
+    "image": ""
+  },
+  {
+    "word": "till",
+    "chinese": "直到",
+    "emoji": "⏰",
+    "audio": "words/audio/till.mp3",
+    "image": ""
+  },
+  {
+    "word": "time",
+    "chinese": "时间",
+    "emoji": "⏰",
+    "audio": "words/audio/time.mp3",
+    "image": ""
+  },
+  {
+    "word": "tiny",
+    "chinese": "微小的",
+    "emoji": "🔳",
+    "audio": "words/audio/tiny.mp3",
+    "image": ""
+  },
+  {
+    "word": "tip",
+    "chinese": "尖端",
+    "emoji": "➡",
+    "audio": "words/audio/tip.mp3",
+    "image": ""
+  },
+  {
+    "word": "tired",
+    "chinese": "疲劳的",
+    "emoji": "😴",
+    "audio": "words/audio/tired.mp3",
+    "image": ""
+  },
+  {
+    "word": "tissue",
+    "chinese": "纸巾",
+    "emoji": "🧼",
+    "audio": "words/audio/tissue.mp3",
+    "image": ""
+  },
+  {
+    "word": "title",
+    "chinese": "标题",
+    "emoji": "📚",
+    "audio": "words/audio/title.mp3",
+    "image": ""
+  },
+  {
+    "word": "to",
+    "chinese": "到",
+    "emoji": "📍",
+    "audio": "words/audio/to.mp3",
+    "image": ""
+  },
+  {
+    "word": "toast",
+    "chinese": "烤面包",
+    "emoji": "🍞",
+    "audio": "words/audio/toast.mp3",
+    "image": ""
+  },
+  {
+    "word": "tobacco",
+    "chinese": "烟草",
+    "emoji": "🌱",
+    "audio": "words/audio/tobacco.mp3",
+    "image": ""
+  },
+  {
+    "word": "today",
+    "chinese": "今天",
+    "emoji": "📅",
+    "audio": "words/audio/today.mp3",
+    "image": ""
+  },
+  {
+    "word": "toe",
+    "chinese": "脚趾",
+    "emoji": "🦶",
+    "audio": "words/audio/toe.mp3",
+    "image": ""
+  },
+  {
+    "word": "together",
+    "chinese": "一起",
+    "emoji": "👥",
+    "audio": "words/audio/together.mp3",
+    "image": ""
+  },
+  {
+    "word": "toilet",
+    "chinese": "厕所",
+    "emoji": "🚻",
+    "audio": "words/audio/toilet.mp3",
+    "image": ""
+  },
+  {
+    "word": "tomato",
+    "chinese": "西红柿",
+    "emoji": "🍅",
+    "audio": "words/audio/tomato.mp3",
+    "image": ""
+  },
+  {
+    "word": "tomb",
+    "chinese": "坟墓",
+    "emoji": "🏞",
+    "audio": "words/audio/tomb.mp3",
+    "image": ""
+  },
+  {
+    "word": "tomorrow",
+    "chinese": "明天",
+    "emoji": "📅",
+    "audio": "words/audio/tomorrow.mp3",
+    "image": ""
+  },
+  {
+    "word": "ton",
+    "chinese": "吨",
+    "emoji": "🧱",
+    "audio": "words/audio/ton.mp3",
+    "image": ""
+  },
+  {
+    "word": "tone",
+    "chinese": "语气",
+    "emoji": "💬",
+    "audio": "words/audio/tone.mp3",
+    "image": ""
+  },
+  {
+    "word": "tongue",
+    "chinese": "舌头",
+    "emoji": "👅",
+    "audio": "words/audio/tongue.mp3",
+    "image": ""
+  },
+  {
+    "word": "tonight",
+    "chinese": "今晚",
+    "emoji": "🌙",
+    "audio": "words/audio/tonight.mp3",
+    "image": ""
+  },
+  {
+    "word": "too",
+    "chinese": "也",
+    "emoji": "✅",
+    "audio": "words/audio/too.mp3",
+    "image": ""
+  },
+  {
+    "word": "tool",
+    "chinese": "工具",
+    "emoji": "🛠",
+    "audio": "words/audio/tool.mp3",
+    "image": ""
+  },
+  {
+    "word": "tooth",
+    "chinese": "牙齿",
+    "emoji": "🦷",
+    "audio": "words/audio/tooth.mp3",
+    "image": ""
+  },
+  {
+    "word": "top",
+    "chinese": "顶部",
+    "emoji": "⬆️",
+    "audio": "words/audio/top.mp3",
+    "image": ""
+  },
+  {
+    "word": "topic",
+    "chinese": "话题",
+    "emoji": "💬",
+    "audio": "words/audio/topic.mp3",
+    "image": ""
+  },
+  {
+    "word": "torch",
+    "chinese": "火把",
+    "emoji": "🔥",
+    "audio": "words/audio/torch.mp3",
+    "image": ""
+  },
+  {
+    "word": "total",
+    "chinese": "总共",
+    "emoji": "📊",
+    "audio": "words/audio/total.mp3",
+    "image": ""
+  },
+  {
+    "word": "touch",
+    "chinese": "触摸",
+    "emoji": "🤚",
+    "audio": "words/audio/touch.mp3",
+    "image": ""
+  },
+  {
+    "word": "tough",
+    "chinese": "坚韧的",
+    "emoji": "💪",
+    "audio": "words/audio/tough.mp3",
+    "image": ""
+  },
+  {
+    "word": "tour",
+    "chinese": "旅游",
+    "emoji": "🚌",
+    "audio": "words/audio/tour.mp3",
+    "image": ""
+  },
+  {
+    "word": "tourist",
+    "chinese": "游客",
+    "emoji": "🚌",
+    "audio": "words/audio/tourist.mp3",
+    "image": ""
+  },
+  {
+    "word": "toward",
+    "chinese": "朝",
+    "emoji": "🔜",
+    "audio": "words/audio/toward.mp3",
+    "image": ""
+  },
+  {
+    "word": "towel",
+    "chinese": "毛巾",
+    "emoji": "🧼",
+    "audio": "words/audio/towel.mp3",
+    "image": ""
+  },
+  {
+    "word": "tower",
+    "chinese": "塔",
+    "emoji": "🔼",
+    "audio": "words/audio/tower.mp3",
+    "image": ""
+  },
+  {
+    "word": "town",
+    "chinese": "城镇",
+    "emoji": "🏘️",
+    "audio": "words/audio/town.mp3",
+    "image": ""
+  },
+  {
+    "word": "toy",
+    "chinese": "玩具",
+    "emoji": "🧸",
+    "audio": "words/audio/toy.mp3",
+    "image": ""
+  },
+  {
+    "word": "trace",
+    "chinese": "痕迹",
+    "emoji": "🔍",
+    "audio": "words/audio/trace.mp3",
+    "image": ""
+  },
+  {
+    "word": "track",
+    "chinese": "轨道",
+    "emoji": "📍",
+    "audio": "words/audio/track.mp3",
+    "image": ""
+  },
+  {
+    "word": "trade",
+    "chinese": "贸易",
+    "emoji": "💰",
+    "audio": "words/audio/trade.mp3",
+    "image": ""
+  },
+  {
+    "word": "tradition",
+    "chinese": "传统",
+    "emoji": "🎭",
+    "audio": "words/audio/tradition.mp3",
+    "image": ""
+  },
+  {
+    "word": "traditional",
+    "chinese": "传统的",
+    "emoji": "📚",
+    "audio": "words/audio/traditional.mp3",
+    "image": ""
+  },
+  {
+    "word": "traffic",
+    "chinese": "交通",
+    "emoji": "🚦",
+    "audio": "words/audio/traffic.mp3",
+    "image": ""
+  },
+  {
+    "word": "tragedy",
+    "chinese": "悲剧",
+    "emoji": "😢",
+    "audio": "words/audio/tragedy.mp3",
+    "image": ""
+  },
+  {
+    "word": "train",
+    "chinese": "火车；训练",
+    "emoji": "💪",
+    "audio": "words/audio/train.mp3",
+    "image": ""
+  },
+  {
+    "word": "training",
+    "chinese": "训练",
+    "emoji": "💪",
+    "audio": "words/audio/training.mp3",
+    "image": ""
+  },
+  {
+    "word": "transfer",
+    "chinese": "转移",
+    "emoji": "➡",
+    "audio": "words/audio/transfer.mp3",
+    "image": ""
+  },
+  {
+    "word": "transform",
+    "chinese": "转变",
+    "emoji": "🔄",
+    "audio": "words/audio/transform.mp3",
+    "image": ""
+  },
+  {
+    "word": "transit",
+    "chinese": "运输",
+    "emoji": "🚀",
+    "audio": "words/audio/transit.mp3",
+    "image": ""
+  },
+  {
+    "word": "translate",
+    "chinese": "翻译",
+    "emoji": "🌍",
+    "audio": "words/audio/translate.mp3",
+    "image": ""
+  },
+  {
+    "word": "translation",
+    "chinese": "翻译",
+    "emoji": "📖",
+    "audio": "words/audio/translation.mp3",
+    "image": ""
+  },
+  {
+    "word": "transport",
+    "chinese": "运输",
+    "emoji": "🚗",
+    "audio": "words/audio/transport.mp3",
+    "image": ""
+  },
+  {
+    "word": "trap",
+    "chinese": "陷阱",
+    "emoji": "📍",
+    "audio": "words/audio/trap.mp3",
+    "image": ""
+  },
+  {
+    "word": "travel",
+    "chinese": "旅行",
+    "emoji": "✈️",
+    "audio": "words/audio/travel.mp3",
+    "image": ""
+  },
+  {
+    "word": "treasure",
+    "chinese": "财宝",
+    "emoji": "💎",
+    "audio": "words/audio/treasure.mp3",
+    "image": ""
+  },
+  {
+    "word": "treat",
+    "chinese": "对待",
+    "emoji": "✨",
+    "audio": "words/audio/treat.mp3",
+    "image": ""
+  },
+  {
+    "word": "treatment",
+    "chinese": "治疗",
+    "emoji": "🏥",
+    "audio": "words/audio/treatment.mp3",
+    "image": ""
+  },
+  {
+    "word": "tree",
+    "chinese": "树",
+    "emoji": "🌲",
+    "audio": "words/audio/tree.mp3",
+    "image": ""
+  },
+  {
+    "word": "tremble",
+    "chinese": "颤抖",
+    "emoji": "✅",
+    "audio": "words/audio/tremble.mp3",
+    "image": ""
+  },
+  {
+    "word": "tremendous",
+    "chinese": "巨大的",
+    "emoji": "💥",
+    "audio": "words/audio/tremendous.mp3",
+    "image": ""
+  },
+  {
+    "word": "trend",
+    "chinese": "趋势",
+    "emoji": "📈",
+    "audio": "words/audio/trend.mp3",
+    "image": ""
+  },
+  {
+    "word": "trial",
+    "chinese": "审判",
+    "emoji": "⚖",
+    "audio": "words/audio/trial.mp3",
+    "image": ""
+  },
+  {
+    "word": "triangle",
+    "chinese": "三角形",
+    "emoji": "🔺",
+    "audio": "words/audio/triangle.mp3",
+    "image": ""
+  },
+  {
+    "word": "trick",
+    "chinese": "诡计",
+    "emoji": "🤔",
+    "audio": "words/audio/trick.mp3",
+    "image": ""
+  },
+  {
+    "word": "trip",
+    "chinese": "旅行",
+    "emoji": "✈️",
+    "audio": "words/audio/trip.mp3",
+    "image": ""
+  },
+  {
+    "word": "triumph",
+    "chinese": "胜利",
+    "emoji": "🏆",
+    "audio": "words/audio/triumph.mp3",
+    "image": ""
+  },
+  {
+    "word": "troop",
+    "chinese": "军队",
+    "emoji": "👨",
+    "audio": "words/audio/troop.mp3",
+    "image": ""
+  },
+  {
+    "word": "trouble",
+    "chinese": "麻烦",
+    "emoji": "🌟",
+    "audio": "words/audio/trouble.mp3",
+    "image": ""
+  },
+  {
+    "word": "trousers",
+    "chinese": "裤子",
+    "emoji": "👖",
+    "audio": "words/audio/trousers.mp3",
+    "image": ""
+  },
+  {
+    "word": "truck",
+    "chinese": "卡车",
+    "emoji": "🚚",
+    "audio": "words/audio/truck.mp3",
+    "image": ""
+  },
+  {
+    "word": "true",
+    "chinese": "真实的",
+    "emoji": "✅",
+    "audio": "words/audio/true.mp3",
+    "image": ""
+  },
+  {
+    "word": "truly",
+    "chinese": "真正地",
+    "emoji": "💖",
+    "audio": "words/audio/truly.mp3",
+    "image": ""
+  },
+  {
+    "word": "trumpet",
+    "chinese": "喇叭",
+    "emoji": "🎺",
+    "audio": "words/audio/trumpet.mp3",
+    "image": ""
+  },
+  {
+    "word": "trust",
+    "chinese": "信任",
+    "emoji": "🤝",
+    "audio": "words/audio/trust.mp3",
+    "image": ""
+  },
+  {
+    "word": "truth",
+    "chinese": "真相",
+    "emoji": "📝",
+    "audio": "words/audio/truth.mp3",
+    "image": ""
+  },
+  {
+    "word": "try",
+    "chinese": "尝试",
+    "emoji": "💪",
+    "audio": "words/audio/try.mp3",
+    "image": ""
+  },
+  {
+    "word": "tube",
+    "chinese": "管子",
+    "emoji": "🧪",
+    "audio": "words/audio/tube.mp3",
+    "image": ""
+  },
+  {
+    "word": "tuesday",
+    "chinese": "星期二",
+    "emoji": "📅",
+    "audio": "words/audio/tuesday.mp3",
+    "image": ""
+  },
+  {
+    "word": "tune",
+    "chinese": "曲调",
+    "emoji": "🎵",
+    "audio": "words/audio/tune.mp3",
+    "image": ""
+  },
+  {
+    "word": "tunnel",
+    "chinese": "隧道",
+    "emoji": "🛤️",
+    "audio": "words/audio/tunnel.mp3",
+    "image": ""
+  },
+  {
+    "word": "turkey",
+    "chinese": "火鸡",
+    "emoji": "🦃",
+    "audio": "words/audio/turkey.mp3",
+    "image": ""
+  },
+  {
+    "word": "turn",
+    "chinese": "转动",
+    "emoji": "🔄",
+    "audio": "words/audio/turn.mp3",
+    "image": ""
+  },
+  {
+    "word": "twelve",
+    "chinese": "十二",
+    "emoji": "2️⃣",
+    "audio": "words/audio/twelve.mp3",
+    "image": ""
+  },
+  {
+    "word": "twenty",
+    "chinese": "二十",
+    "emoji": "2️⃣0️⃣",
+    "audio": "words/audio/twenty.mp3",
+    "image": ""
+  },
+  {
+    "word": "twice",
+    "chinese": "两次",
+    "emoji": "🌟",
+    "audio": "words/audio/twice.mp3",
+    "image": ""
+  },
+  {
+    "word": "twin",
+    "chinese": "双胞胎",
+    "emoji": "👯",
+    "audio": "words/audio/twin.mp3",
+    "image": ""
+  },
+  {
+    "word": "twist",
+    "chinese": "扭",
+    "emoji": "🔄",
+    "audio": "words/audio/twist.mp3",
+    "image": ""
+  },
+  {
+    "word": "two",
+    "chinese": "二",
+    "emoji": "2️⃣",
+    "audio": "words/audio/two.mp3",
+    "image": ""
+  },
+  {
+    "word": "type",
+    "chinese": "类型",
+    "emoji": "⌨️",
+    "audio": "words/audio/type.mp3",
+    "image": ""
+  },
+  {
+    "word": "typewriter",
+    "chinese": "打字机",
+    "emoji": "📍",
+    "audio": "words/audio/typewriter.mp3",
+    "image": ""
+  },
+  {
+    "word": "typhoon",
+    "chinese": "台风",
+    "emoji": "🌀",
+    "audio": "words/audio/typhoon.mp3",
+    "image": ""
+  },
+  {
+    "word": "typical",
+    "chinese": "典型的",
+    "emoji": "🌟",
+    "audio": "words/audio/typical.mp3",
+    "image": ""
+  },
+  {
+    "word": "ugly",
+    "chinese": "丑陋的",
+    "emoji": "😖",
+    "audio": "words/audio/ugly.mp3",
+    "image": ""
+  },
+  {
+    "word": "umbrella",
+    "chinese": "雨伞",
+    "emoji": "☂️",
+    "audio": "words/audio/umbrella.mp3",
+    "image": ""
+  },
+  {
+    "word": "unable",
+    "chinese": "不能的",
+    "emoji": "🚫",
+    "audio": "words/audio/unable.mp3",
+    "image": ""
+  },
+  {
+    "word": "uncle",
+    "chinese": "叔叔",
+    "emoji": "👨",
+    "audio": "words/audio/uncle.mp3",
+    "image": ""
+  },
+  {
+    "word": "under",
+    "chinese": "在……下",
+    "emoji": "📍",
+    "audio": "words/audio/under.mp3",
+    "image": ""
+  },
+  {
+    "word": "undergo",
+    "chinese": "经历",
+    "emoji": "📖",
+    "audio": "words/audio/undergo.mp3",
+    "image": ""
+  },
+  {
+    "word": "underground",
+    "chinese": "地下的",
+    "emoji": "🌱",
+    "audio": "words/audio/underground.mp3",
+    "image": ""
+  },
+  {
+    "word": "underline",
+    "chinese": "划线",
+    "emoji": "🔎",
+    "audio": "words/audio/underline.mp3",
+    "image": ""
+  },
+  {
+    "word": "understand",
+    "chinese": "理解",
+    "emoji": "🧠",
+    "audio": "words/audio/understand.mp3",
+    "image": ""
+  },
+  {
+    "word": "understanding",
+    "chinese": "理解",
+    "emoji": "💡",
+    "audio": "words/audio/understanding.mp3",
+    "image": ""
+  },
+  {
+    "word": "undertake",
+    "chinese": "承担",
+    "emoji": "🤝",
+    "audio": "words/audio/undertake.mp3",
+    "image": ""
+  },
+  {
+    "word": "unemployment",
+    "chinese": "失业",
+    "emoji": "🌟",
+    "audio": "words/audio/unemployment.mp3",
+    "image": ""
+  },
+  {
+    "word": "unexpected",
+    "chinese": "意外的",
+    "emoji": "💥",
+    "audio": "words/audio/unexpected.mp3",
+    "image": ""
+  },
+  {
+    "word": "unfair",
+    "chinese": "不公平的",
+    "emoji": "⚖",
+    "audio": "words/audio/unfair.mp3",
+    "image": ""
+  },
+  {
+    "word": "unfortunate",
+    "chinese": "不幸的",
+    "emoji": "😢",
+    "audio": "words/audio/unfortunate.mp3",
+    "image": ""
+  },
+  {
+    "word": "unfortunately",
+    "chinese": "不幸地",
+    "emoji": "😢",
+    "audio": "words/audio/unfortunately.mp3",
+    "image": ""
+  },
+  {
+    "word": "unhappy",
+    "chinese": "不快乐的",
+    "emoji": "😢",
+    "audio": "words/audio/unhappy.mp3",
+    "image": ""
+  },
+  {
+    "word": "uniform",
+    "chinese": "制服",
+    "emoji": "👕",
+    "audio": "words/audio/uniform.mp3",
+    "image": ""
+  },
+  {
+    "word": "union",
+    "chinese": "联盟",
+    "emoji": "🤝",
+    "audio": "words/audio/union.mp3",
+    "image": ""
+  },
+  {
+    "word": "unique",
+    "chinese": "独特的",
+    "emoji": "🌟",
+    "audio": "words/audio/unique.mp3",
+    "image": ""
+  },
+  {
+    "word": "unit",
+    "chinese": "单位",
+    "emoji": "👷",
+    "audio": "words/audio/unit.mp3",
+    "image": ""
+  },
+  {
+    "word": "unite",
+    "chinese": "联合",
+    "emoji": "🤝",
+    "audio": "words/audio/unite.mp3",
+    "image": ""
+  },
+  {
+    "word": "unity",
+    "chinese": "团结",
+    "emoji": "🤝",
+    "audio": "words/audio/unity.mp3",
+    "image": ""
+  },
+  {
+    "word": "universe",
+    "chinese": "宇宙",
+    "emoji": "🌌",
+    "audio": "words/audio/universe.mp3",
+    "image": ""
+  },
+  {
+    "word": "university",
+    "chinese": "大学",
+    "emoji": "🏛️",
+    "audio": "words/audio/university.mp3",
+    "image": ""
+  },
+  {
+    "word": "unknown",
+    "chinese": "未知的",
+    "emoji": "❓",
+    "audio": "words/audio/unknown.mp3",
+    "image": ""
+  },
+  {
+    "word": "unless",
+    "chinese": "除非",
+    "emoji": "❌",
+    "audio": "words/audio/unless.mp3",
+    "image": ""
+  },
+  {
+    "word": "unlike",
+    "chinese": "不同于",
+    "emoji": "👎",
+    "audio": "words/audio/unlike.mp3",
+    "image": ""
+  },
+  {
+    "word": "unlikely",
+    "chinese": "不太可能",
+    "emoji": "🌟",
+    "audio": "words/audio/unlikely.mp3",
+    "image": ""
+  },
+  {
+    "word": "until",
+    "chinese": "直到",
+    "emoji": "⏰",
+    "audio": "words/audio/until.mp3",
+    "image": ""
+  },
+  {
+    "word": "unusual",
+    "chinese": "不寻常的",
+    "emoji": "🌟",
+    "audio": "words/audio/unusual.mp3",
+    "image": ""
+  },
+  {
+    "word": "up",
+    "chinese": "向上",
+    "emoji": "⬆️",
+    "audio": "words/audio/up.mp3",
+    "image": ""
+  },
+  {
+    "word": "upload",
+    "chinese": "上传",
+    "emoji": "️",
+    "audio": "words/audio/upload.mp3",
+    "image": ""
+  },
+  {
+    "word": "upon",
+    "chinese": "在……上",
+    "emoji": "📍",
+    "audio": "words/audio/upon.mp3",
+    "image": ""
+  },
+  {
+    "word": "upper",
+    "chinese": "上面的",
+    "emoji": "️",
+    "audio": "words/audio/upper.mp3",
+    "image": ""
+  },
+  {
+    "word": "urban",
+    "chinese": "城市的",
+    "emoji": "🏙️",
+    "audio": "words/audio/urban.mp3",
+    "image": ""
+  },
+  {
+    "word": "urge",
+    "chinese": "催促",
+    "emoji": "🏃",
+    "audio": "words/audio/urge.mp3",
+    "image": ""
+  },
+  {
+    "word": "urgent",
+    "chinese": "紧急的",
+    "emoji": "🚨",
+    "audio": "words/audio/urgent.mp3",
+    "image": ""
+  },
+  {
+    "word": "us",
+    "chinese": "我们",
+    "emoji": "👥",
+    "audio": "words/audio/us.mp3",
+    "image": ""
+  },
+  {
+    "word": "use",
+    "chinese": "使用",
+    "emoji": "✅",
+    "audio": "words/audio/use.mp3",
+    "image": ""
+  },
+  {
+    "word": "used",
+    "chinese": "习惯的",
+    "emoji": "🔄",
+    "audio": "words/audio/used.mp3",
+    "image": ""
+  },
+  {
+    "word": "useful",
+    "chinese": "有用的",
+    "emoji": "✅",
+    "audio": "words/audio/useful.mp3",
+    "image": ""
+  },
+  {
+    "word": "useless",
+    "chinese": "无用的",
+    "emoji": "❌",
+    "audio": "words/audio/useless.mp3",
+    "image": ""
+  },
+  {
+    "word": "user",
+    "chinese": "用户",
+    "emoji": "💻",
+    "audio": "words/audio/user.mp3",
+    "image": ""
+  },
+  {
+    "word": "usual",
+    "chinese": "通常的",
+    "emoji": "⏰",
+    "audio": "words/audio/usual.mp3",
+    "image": ""
+  },
+  {
+    "word": "usually",
+    "chinese": "通常",
+    "emoji": "✅",
+    "audio": "words/audio/usually.mp3",
+    "image": ""
+  },
+  {
+    "word": "vacation",
+    "chinese": "假期",
+    "emoji": "🏖️",
+    "audio": "words/audio/vacation.mp3",
+    "image": ""
+  },
+  {
+    "word": "valid",
+    "chinese": "有效的",
+    "emoji": "✅",
+    "audio": "words/audio/valid.mp3",
+    "image": ""
+  },
+  {
+    "word": "valley",
+    "chinese": "山谷",
+    "emoji": "🏞️",
+    "audio": "words/audio/valley.mp3",
+    "image": ""
+  },
+  {
+    "word": "valuable",
+    "chinese": "有价值的",
+    "emoji": "💎",
+    "audio": "words/audio/valuable.mp3",
+    "image": ""
+  },
+  {
+    "word": "value",
+    "chinese": "价值",
+    "emoji": "💰",
+    "audio": "words/audio/value.mp3",
+    "image": ""
+  },
+  {
+    "word": "van",
+    "chinese": "货车",
+    "emoji": "🚐",
+    "audio": "words/audio/van.mp3",
+    "image": ""
+  },
+  {
+    "word": "vanish",
+    "chinese": "消失",
+    "emoji": "💥",
+    "audio": "words/audio/vanish.mp3",
+    "image": ""
+  },
+  {
+    "word": "variety",
+    "chinese": "多样性",
+    "emoji": "🌈",
+    "audio": "words/audio/variety.mp3",
+    "image": ""
+  },
+  {
+    "word": "various",
+    "chinese": "各种各样的",
+    "emoji": "🌈",
+    "audio": "words/audio/various.mp3",
+    "image": ""
+  },
+  {
+    "word": "vary",
+    "chinese": "变化",
+    "emoji": "🔄",
+    "audio": "words/audio/vary.mp3",
+    "image": ""
+  },
+  {
+    "word": "vast",
+    "chinese": "广大的",
+    "emoji": "🌍",
+    "audio": "words/audio/vast.mp3",
+    "image": ""
+  },
+  {
+    "word": "vegetable",
+    "chinese": "蔬菜",
+    "emoji": "🥦",
+    "audio": "words/audio/vegetable.mp3",
+    "image": ""
+  },
+  {
+    "word": "vehicle",
+    "chinese": "车辆",
+    "emoji": "🚗",
+    "audio": "words/audio/vehicle.mp3",
+    "image": ""
+  },
+  {
+    "word": "venture",
+    "chinese": "冒险",
+    "emoji": "🚀",
+    "audio": "words/audio/venture.mp3",
+    "image": ""
+  },
+  {
+    "word": "verb",
+    "chinese": "动词",
+    "emoji": "🏃",
+    "audio": "words/audio/verb.mp3",
+    "image": ""
+  },
+  {
+    "word": "version",
+    "chinese": "版本",
+    "emoji": "📚",
+    "audio": "words/audio/version.mp3",
+    "image": ""
+  },
+  {
+    "word": "very",
+    "chinese": "非常",
+    "emoji": "✅",
+    "audio": "words/audio/very.mp3",
+    "image": ""
+  },
+  {
+    "word": "vest",
+    "chinese": "背心",
+    "emoji": "🩹",
+    "audio": "words/audio/vest.mp3",
+    "image": ""
+  },
+  {
+    "word": "via",
+    "chinese": "通过",
+    "emoji": "📍",
+    "audio": "words/audio/via.mp3",
+    "image": ""
+  },
+  {
+    "word": "victim",
+    "chinese": "受害者",
+    "emoji": "😢",
+    "audio": "words/audio/victim.mp3",
+    "image": ""
+  },
+  {
+    "word": "victory",
+    "chinese": "胜利",
+    "emoji": "🏆",
+    "audio": "words/audio/victory.mp3",
+    "image": ""
+  },
+  {
+    "word": "video",
+    "chinese": "视频",
+    "emoji": "📹",
+    "audio": "words/audio/video.mp3",
+    "image": ""
+  },
+  {
+    "word": "view",
+    "chinese": "观点",
+    "emoji": "👀",
+    "audio": "words/audio/view.mp3",
+    "image": ""
+  },
+  {
+    "word": "village",
+    "chinese": "村庄",
+    "emoji": "🏡",
+    "audio": "words/audio/village.mp3",
+    "image": ""
+  },
+  {
+    "word": "violence",
+    "chinese": "暴力",
+    "emoji": "💥",
+    "audio": "words/audio/violence.mp3",
+    "image": ""
+  },
+  {
+    "word": "violent",
+    "chinese": "暴力的",
+    "emoji": "💥",
+    "audio": "words/audio/violent.mp3",
+    "image": ""
+  },
+  {
+    "word": "violin",
+    "chinese": "小提琴",
+    "emoji": "🎻",
+    "audio": "words/audio/violin.mp3",
+    "image": ""
+  },
+  {
+    "word": "virtual",
+    "chinese": "虚拟的",
+    "emoji": "💻",
+    "audio": "words/audio/virtual.mp3",
+    "image": ""
+  },
+  {
+    "word": "virtue",
+    "chinese": "美德",
+    "emoji": "🌟",
+    "audio": "words/audio/virtue.mp3",
+    "image": ""
+  },
+  {
+    "word": "virus",
+    "chinese": "病毒",
+    "emoji": "🦠",
+    "audio": "words/audio/virus.mp3",
+    "image": ""
+  },
+  {
+    "word": "visa",
+    "chinese": "签证",
+    "emoji": "🗂",
+    "audio": "words/audio/visa.mp3",
+    "image": ""
+  },
+  {
+    "word": "visible",
+    "chinese": "可见的",
+    "emoji": "👀",
+    "audio": "words/audio/visible.mp3",
+    "image": ""
+  },
+  {
+    "word": "vision",
+    "chinese": "视力",
+    "emoji": "👀",
+    "audio": "words/audio/vision.mp3",
+    "image": ""
+  },
+  {
+    "word": "visit",
+    "chinese": "访问",
+    "emoji": "👋",
+    "audio": "words/audio/visit.mp3",
+    "image": ""
+  },
+  {
+    "word": "visitor",
+    "chinese": "访客",
+    "emoji": "👤",
+    "audio": "words/audio/visitor.mp3",
+    "image": ""
+  },
+  {
+    "word": "vital",
+    "chinese": "重要的",
+    "emoji": "❤",
+    "audio": "words/audio/vital.mp3",
+    "image": ""
+  },
+  {
+    "word": "vitamin",
+    "chinese": "维生素",
+    "emoji": "💊",
+    "audio": "words/audio/vitamin.mp3",
+    "image": ""
+  },
+  {
+    "word": "vivid",
+    "chinese": "生动的",
+    "emoji": "🌈",
+    "audio": "words/audio/vivid.mp3",
+    "image": ""
+  },
+  {
+    "word": "vocabulary",
+    "chinese": "词汇",
+    "emoji": "📚",
+    "audio": "words/audio/vocabulary.mp3",
+    "image": ""
+  },
+  {
+    "word": "voice",
+    "chinese": "声音",
+    "emoji": "🎤",
+    "audio": "words/audio/voice.mp3",
+    "image": ""
+  },
+  {
+    "word": "volcano",
+    "chinese": "火山",
+    "emoji": "🌋",
+    "audio": "words/audio/volcano.mp3",
+    "image": ""
+  },
+  {
+    "word": "volleyball",
+    "chinese": "排球",
+    "emoji": "🏐",
+    "audio": "words/audio/volleyball.mp3",
+    "image": ""
+  },
+  {
+    "word": "volume",
+    "chinese": "卷；体积",
+    "emoji": "📚",
+    "audio": "words/audio/volume.mp3",
+    "image": ""
+  },
+  {
+    "word": "volunteer",
+    "chinese": "志愿者",
+    "emoji": "📌",
+    "audio": "words/audio/volunteer.mp3",
+    "image": ""
+  },
+  {
+    "word": "vote",
+    "chinese": "投票",
+    "emoji": "📊",
+    "audio": "words/audio/vote.mp3",
+    "image": ""
+  },
+  {
+    "word": "voyage",
+    "chinese": "航行",
+    "emoji": "🚀",
+    "audio": "words/audio/voyage.mp3",
+    "image": ""
+  },
+  {
+    "word": "wage",
+    "chinese": "工资",
+    "emoji": "💰",
+    "audio": "words/audio/wage.mp3",
+    "image": ""
+  },
+  {
+    "word": "waist",
+    "chinese": "腰",
+    "emoji": "👤",
+    "audio": "words/audio/waist.mp3",
+    "image": ""
+  },
+  {
+    "word": "wait",
+    "chinese": "等待",
+    "emoji": "⏰",
+    "audio": "words/audio/wait.mp3",
+    "image": ""
+  },
+  {
+    "word": "waiter",
+    "chinese": "服务员",
+    "emoji": "🍽️",
+    "audio": "words/audio/waiter.mp3",
+    "image": ""
+  },
+  {
+    "word": "wake",
+    "chinese": "醒来",
+    "emoji": "🌅",
+    "audio": "words/audio/wake.mp3",
+    "image": ""
+  },
+  {
+    "word": "walk",
+    "chinese": "走",
+    "emoji": "🚶",
+    "audio": "words/audio/walk.mp3",
+    "image": ""
+  },
+  {
+    "word": "wall",
+    "chinese": "墙",
+    "emoji": "🧱",
+    "audio": "words/audio/wall.mp3",
+    "image": ""
+  },
+  {
+    "word": "wallet",
+    "chinese": "钱包",
+    "emoji": "👛",
+    "audio": "words/audio/wallet.mp3",
+    "image": ""
+  },
+  {
+    "word": "wander",
+    "chinese": "漫步",
+    "emoji": "🚶",
+    "audio": "words/audio/wander.mp3",
+    "image": ""
+  },
+  {
+    "word": "want",
+    "chinese": "想要",
+    "emoji": "🤔",
+    "audio": "words/audio/want.mp3",
+    "image": ""
+  },
+  {
+    "word": "war",
+    "chinese": "战争",
+    "emoji": "⚔️",
+    "audio": "words/audio/war.mp3",
+    "image": ""
+  },
+  {
+    "word": "warm",
+    "chinese": "温暖的",
+    "emoji": "🌞",
+    "audio": "words/audio/warm.mp3",
+    "image": ""
+  },
+  {
+    "word": "warn",
+    "chinese": "警告",
+    "emoji": "⚠",
+    "audio": "words/audio/warn.mp3",
+    "image": ""
+  },
+  {
+    "word": "wash",
+    "chinese": "洗",
+    "emoji": "🧼",
+    "audio": "words/audio/wash.mp3",
+    "image": ""
+  },
+  {
+    "word": "waste",
+    "chinese": "浪费",
+    "emoji": "🗑",
+    "audio": "words/audio/waste.mp3",
+    "image": ""
+  },
+  {
+    "word": "watch",
+    "chinese": "观看",
+    "emoji": "👀",
+    "audio": "words/audio/watch.mp3",
+    "image": ""
+  },
+  {
+    "word": "water",
+    "chinese": "水",
+    "emoji": "💧",
+    "audio": "words/audio/water.mp3",
+    "image": ""
+  },
+  {
+    "word": "waterfall",
+    "chinese": "瀑布",
+    "emoji": "💧",
+    "audio": "words/audio/waterfall.mp3",
+    "image": ""
+  },
+  {
+    "word": "watermelon",
+    "chinese": "西瓜",
+    "emoji": "🍉",
+    "audio": "words/audio/watermelon.mp3",
+    "image": ""
+  },
+  {
+    "word": "wave",
+    "chinese": "波浪",
+    "emoji": "🌊",
+    "audio": "words/audio/wave.mp3",
+    "image": ""
+  },
+  {
+    "word": "way",
+    "chinese": "路",
+    "emoji": "📍",
+    "audio": "words/audio/way.mp3",
+    "image": ""
+  },
+  {
+    "word": "we",
+    "chinese": "我们",
+    "emoji": "👥",
+    "audio": "words/audio/we.mp3",
+    "image": ""
+  },
+  {
+    "word": "weak",
+    "chinese": "弱的",
+    "emoji": "😢",
+    "audio": "words/audio/weak.mp3",
+    "image": ""
+  },
+  {
+    "word": "weakness",
+    "chinese": "弱点",
+    "emoji": "😢",
+    "audio": "words/audio/weakness.mp3",
+    "image": ""
+  },
+  {
+    "word": "wealth",
+    "chinese": "财富",
+    "emoji": "💰",
+    "audio": "words/audio/wealth.mp3",
+    "image": ""
+  },
+  {
+    "word": "wealthy",
+    "chinese": "富有的",
+    "emoji": "💰",
+    "audio": "words/audio/wealthy.mp3",
+    "image": ""
+  },
+  {
+    "word": "weapon",
+    "chinese": "武器",
+    "emoji": "🔫",
+    "audio": "words/audio/weapon.mp3",
+    "image": ""
+  },
+  {
+    "word": "wear",
+    "chinese": "穿",
+    "emoji": "🧦",
+    "audio": "words/audio/wear.mp3",
+    "image": ""
+  },
+  {
+    "word": "weather",
+    "chinese": "天气",
+    "emoji": "🌤️",
+    "audio": "words/audio/weather.mp3",
+    "image": ""
+  },
+  {
+    "word": "weave",
+    "chinese": "编织",
+    "emoji": "💫",
+    "audio": "words/audio/weave.mp3",
+    "image": ""
+  },
+  {
+    "word": "web",
+    "chinese": "网络",
+    "emoji": "🌐",
+    "audio": "words/audio/web.mp3",
+    "image": ""
+  },
+  {
+    "word": "website",
+    "chinese": "网站",
+    "emoji": "🌐",
+    "audio": "words/audio/website.mp3",
+    "image": ""
+  },
+  {
+    "word": "wedding",
+    "chinese": "婚礼",
+    "emoji": "💒",
+    "audio": "words/audio/wedding.mp3",
+    "image": ""
+  },
+  {
+    "word": "wednesday",
+    "chinese": "星期三",
+    "emoji": "📅",
+    "audio": "words/audio/wednesday.mp3",
+    "image": ""
+  },
+  {
+    "word": "weed",
+    "chinese": "杂草",
+    "emoji": "🌱",
+    "audio": "words/audio/weed.mp3",
+    "image": ""
+  },
+  {
+    "word": "week",
+    "chinese": "周",
+    "emoji": "📅",
+    "audio": "words/audio/week.mp3",
+    "image": ""
+  },
+  {
+    "word": "weekday",
+    "chinese": "工作日",
+    "emoji": "💼",
+    "audio": "words/audio/weekday.mp3",
+    "image": ""
+  },
+  {
+    "word": "weekend",
+    "chinese": "周末",
+    "emoji": "🎉",
+    "audio": "words/audio/weekend.mp3",
+    "image": ""
+  },
+  {
+    "word": "weekly",
+    "chinese": "每周的",
+    "emoji": "📅",
+    "audio": "words/audio/weekly.mp3",
+    "image": ""
+  },
+  {
+    "word": "weep",
+    "chinese": "哭泣",
+    "emoji": "😭",
+    "audio": "words/audio/weep.mp3",
+    "image": ""
+  },
+  {
+    "word": "weigh",
+    "chinese": "称重",
+    "emoji": "⚖️",
+    "audio": "words/audio/weigh.mp3",
+    "image": ""
+  },
+  {
+    "word": "weight",
+    "chinese": "重量",
+    "emoji": "✅",
+    "audio": "words/audio/weight.mp3",
+    "image": ""
+  },
+  {
+    "word": "welcome",
+    "chinese": "欢迎",
+    "emoji": "🤝",
+    "audio": "words/audio/welcome.mp3",
+    "image": ""
+  },
+  {
+    "word": "welfare",
+    "chinese": "福利",
+    "emoji": "🏠",
+    "audio": "words/audio/welfare.mp3",
+    "image": ""
+  },
+  {
+    "word": "well",
+    "chinese": "好；井",
+    "emoji": "👍",
+    "audio": "words/audio/well.mp3",
+    "image": ""
+  },
+  {
+    "word": "west",
+    "chinese": "西方",
+    "emoji": "🌍",
+    "audio": "words/audio/west.mp3",
+    "image": ""
+  },
+  {
+    "word": "western",
+    "chinese": "西方的",
+    "emoji": "🌍",
+    "audio": "words/audio/western.mp3",
+    "image": ""
+  },
+  {
+    "word": "wet",
+    "chinese": "湿的",
+    "emoji": "💧",
+    "audio": "words/audio/wet.mp3",
+    "image": ""
+  },
+  {
+    "word": "whale",
+    "chinese": "鲸鱼",
+    "emoji": "🐋",
+    "audio": "words/audio/whale.mp3",
+    "image": ""
+  },
+  {
+    "word": "what",
+    "chinese": "什么",
+    "emoji": "❓",
+    "audio": "words/audio/what.mp3",
+    "image": ""
+  },
+  {
+    "word": "wheat",
+    "chinese": "小麦",
+    "emoji": "🌾",
+    "audio": "words/audio/wheat.mp3",
+    "image": ""
+  },
+  {
+    "word": "wheel",
+    "chinese": "轮子",
+    "emoji": "🚗",
+    "audio": "words/audio/wheel.mp3",
+    "image": ""
+  },
+  {
+    "word": "when",
+    "chinese": "何时",
+    "emoji": "⏰",
+    "audio": "words/audio/when.mp3",
+    "image": ""
+  },
+  {
+    "word": "whenever",
+    "chinese": "每当",
+    "emoji": "⏰",
+    "audio": "words/audio/whenever.mp3",
+    "image": ""
+  },
+  {
+    "word": "where",
+    "chinese": "哪里",
+    "emoji": "📍",
+    "audio": "words/audio/where.mp3",
+    "image": ""
+  },
+  {
+    "word": "wherever",
+    "chinese": "无论哪里",
+    "emoji": "🌍",
+    "audio": "words/audio/wherever.mp3",
+    "image": ""
+  },
+  {
+    "word": "whether",
+    "chinese": "是否",
+    "emoji": "🔘",
+    "audio": "words/audio/whether.mp3",
+    "image": ""
+  },
+  {
+    "word": "which",
+    "chinese": "哪个",
+    "emoji": "✅",
+    "audio": "words/audio/which.mp3",
+    "image": ""
+  },
+  {
+    "word": "while",
+    "chinese": "当……时",
+    "emoji": "⏰",
+    "audio": "words/audio/while.mp3",
+    "image": ""
+  },
+  {
+    "word": "whisper",
+    "chinese": "低语",
+    "emoji": "🔇",
+    "audio": "words/audio/whisper.mp3",
+    "image": ""
+  },
+  {
+    "word": "whistle",
+    "chinese": "吹口哨",
+    "emoji": "💡",
+    "audio": "words/audio/whistle.mp3",
+    "image": ""
+  },
+  {
+    "word": "white",
+    "chinese": "白色的",
+    "emoji": "⬜",
+    "audio": "words/audio/white.mp3",
+    "image": ""
+  },
+  {
+    "word": "who",
+    "chinese": "谁",
+    "emoji": "👤",
+    "audio": "words/audio/who.mp3",
+    "image": ""
+  },
+  {
+    "word": "whoever",
+    "chinese": "无论谁",
+    "emoji": "👤",
+    "audio": "words/audio/whoever.mp3",
+    "image": ""
+  },
+  {
+    "word": "whole",
+    "chinese": "整个的",
+    "emoji": "✨",
+    "audio": "words/audio/whole.mp3",
+    "image": ""
+  },
+  {
+    "word": "whom",
+    "chinese": "谁",
+    "emoji": "👤",
+    "audio": "words/audio/whom.mp3",
+    "image": ""
+  },
+  {
+    "word": "whose",
+    "chinese": "谁的",
+    "emoji": "🎒",
+    "audio": "words/audio/whose.mp3",
+    "image": ""
+  },
+  {
+    "word": "why",
+    "chinese": "为什么",
+    "emoji": "🔍",
+    "audio": "words/audio/why.mp3",
+    "image": ""
+  },
+  {
+    "word": "wide",
+    "chinese": "宽的",
+    "emoji": "📏",
+    "audio": "words/audio/wide.mp3",
+    "image": ""
+  },
+  {
+    "word": "widely",
+    "chinese": "广泛地",
+    "emoji": "🌍",
+    "audio": "words/audio/widely.mp3",
+    "image": ""
+  },
+  {
+    "word": "wife",
+    "chinese": "妻子",
+    "emoji": "👩",
+    "audio": "words/audio/wife.mp3",
+    "image": ""
+  },
+  {
+    "word": "wild",
+    "chinese": "野生的",
+    "emoji": "🌱",
+    "audio": "words/audio/wild.mp3",
+    "image": ""
+  },
+  {
+    "word": "wildlife",
+    "chinese": "野生动物",
+    "emoji": "🐾",
+    "audio": "words/audio/wildlife.mp3",
+    "image": ""
+  },
+  {
+    "word": "will",
+    "chinese": "将",
+    "emoji": "🔮",
+    "audio": "words/audio/will.mp3",
+    "image": ""
+  },
+  {
+    "word": "willing",
+    "chinese": "愿意的",
+    "emoji": "🤔",
+    "audio": "words/audio/willing.mp3",
+    "image": ""
+  },
+  {
+    "word": "win",
+    "chinese": "赢",
+    "emoji": "🏆",
+    "audio": "words/audio/win.mp3",
+    "image": ""
+  },
+  {
+    "word": "wind",
+    "chinese": "风；卷绕",
+    "emoji": "🌬️",
+    "audio": "words/audio/wind.mp3",
+    "image": ""
+  },
+  {
+    "word": "window",
+    "chinese": "窗户",
+    "emoji": "🪟",
+    "audio": "words/audio/window.mp3",
+    "image": ""
+  },
+  {
+    "word": "wine",
+    "chinese": "葡萄酒",
+    "emoji": "🍷",
+    "audio": "words/audio/wine.mp3",
+    "image": ""
+  },
+  {
+    "word": "wing",
+    "chinese": "翅膀",
+    "emoji": "🦉",
+    "audio": "words/audio/wing.mp3",
+    "image": ""
+  },
+  {
+    "word": "winner",
+    "chinese": "获胜者",
+    "emoji": "🏆",
+    "audio": "words/audio/winner.mp3",
+    "image": ""
+  },
+  {
+    "word": "winter",
+    "chinese": "冬天",
+    "emoji": "❄️",
+    "audio": "words/audio/winter.mp3",
+    "image": ""
+  },
+  {
+    "word": "wipe",
+    "chinese": "擦",
+    "emoji": "🧼",
+    "audio": "words/audio/wipe.mp3",
+    "image": ""
+  },
+  {
+    "word": "wire",
+    "chinese": "电线",
+    "emoji": "⚡",
+    "audio": "words/audio/wire.mp3",
+    "image": ""
+  },
+  {
+    "word": "wisdom",
+    "chinese": "智慧",
+    "emoji": "💡",
+    "audio": "words/audio/wisdom.mp3",
+    "image": ""
+  },
+  {
+    "word": "wise",
+    "chinese": "聪明的",
+    "emoji": "📚",
+    "audio": "words/audio/wise.mp3",
+    "image": ""
+  },
+  {
+    "word": "wish",
+    "chinese": "愿望",
+    "emoji": "🌟",
+    "audio": "words/audio/wish.mp3",
+    "image": ""
+  },
+  {
+    "word": "with",
+    "chinese": "和",
+    "emoji": "🤝",
+    "audio": "words/audio/with.mp3",
+    "image": ""
+  },
+  {
+    "word": "withdraw",
+    "chinese": "撤退",
+    "emoji": "🏃",
+    "audio": "words/audio/withdraw.mp3",
+    "image": ""
+  },
+  {
+    "word": "within",
+    "chinese": "在……内",
+    "emoji": "📍",
+    "audio": "words/audio/within.mp3",
+    "image": ""
+  },
+  {
+    "word": "without",
+    "chinese": "没有",
+    "emoji": "❌",
+    "audio": "words/audio/without.mp3",
+    "image": ""
+  },
+  {
+    "word": "witness",
+    "chinese": "目击者",
+    "emoji": "👀",
+    "audio": "words/audio/witness.mp3",
+    "image": ""
+  },
+  {
+    "word": "wolf",
+    "chinese": "狼",
+    "emoji": "🐺",
+    "audio": "words/audio/wolf.mp3",
+    "image": ""
+  },
+  {
+    "word": "woman",
+    "chinese": "女人",
+    "emoji": "👩",
+    "audio": "words/audio/woman.mp3",
+    "image": ""
+  },
+  {
+    "word": "wonder",
+    "chinese": "惊奇",
+    "emoji": "🤔",
+    "audio": "words/audio/wonder.mp3",
+    "image": ""
+  },
+  {
+    "word": "wonderful",
+    "chinese": "极好的",
+    "emoji": "🌟",
+    "audio": "words/audio/wonderful.mp3",
+    "image": ""
+  },
+  {
+    "word": "wood",
+    "chinese": "木头",
+    "emoji": "🪵",
+    "audio": "words/audio/wood.mp3",
+    "image": ""
+  },
+  {
+    "word": "wooden",
+    "chinese": "木制的",
+    "emoji": "🔗",
+    "audio": "words/audio/wooden.mp3",
+    "image": ""
+  },
+  {
+    "word": "woods",
+    "chinese": "森林",
+    "emoji": "🌲",
+    "audio": "words/audio/woods.mp3",
+    "image": ""
+  },
+  {
+    "word": "wool",
+    "chinese": "羊毛",
+    "emoji": "🐑",
+    "audio": "words/audio/wool.mp3",
+    "image": ""
+  },
+  {
+    "word": "word",
+    "chinese": "单词",
+    "emoji": "📚",
+    "audio": "words/audio/word.mp3",
+    "image": ""
+  },
+  {
+    "word": "work",
+    "chinese": "工作",
+    "emoji": "💼",
+    "audio": "words/audio/work.mp3",
+    "image": ""
+  },
+  {
+    "word": "worker",
+    "chinese": "工人",
+    "emoji": "🛠️",
+    "audio": "words/audio/worker.mp3",
+    "image": ""
+  },
+  {
+    "word": "workshop",
+    "chinese": "车间",
+    "emoji": "🛠️",
+    "audio": "words/audio/workshop.mp3",
+    "image": ""
+  },
+  {
+    "word": "world",
+    "chinese": "世界",
+    "emoji": "🌍",
+    "audio": "words/audio/world.mp3",
+    "image": ""
+  },
+  {
+    "word": "worm",
+    "chinese": "虫",
+    "emoji": "🐛",
+    "audio": "words/audio/worm.mp3",
+    "image": ""
+  },
+  {
+    "word": "worried",
+    "chinese": "担心的",
+    "emoji": "😟",
+    "audio": "words/audio/worried.mp3",
+    "image": ""
+  },
+  {
+    "word": "worry",
+    "chinese": "担心",
+    "emoji": "😟",
+    "audio": "words/audio/worry.mp3",
+    "image": ""
+  },
+  {
+    "word": "worse",
+    "chinese": "更坏的",
+    "emoji": "👎",
+    "audio": "words/audio/worse.mp3",
+    "image": ""
+  },
+  {
+    "word": "worst",
+    "chinese": "最坏的",
+    "emoji": "💩",
+    "audio": "words/audio/worst.mp3",
+    "image": ""
+  },
+  {
+    "word": "worth",
+    "chinese": "值得",
+    "emoji": "💰",
+    "audio": "words/audio/worth.mp3",
+    "image": ""
+  },
+  {
+    "word": "worthless",
+    "chinese": "无价值的",
+    "emoji": "🗑",
+    "audio": "words/audio/worthless.mp3",
+    "image": ""
+  },
+  {
+    "word": "worthwhile",
+    "chinese": "值得的",
+    "emoji": "🌟",
+    "audio": "words/audio/worthwhile.mp3",
+    "image": ""
+  },
+  {
+    "word": "worthy",
+    "chinese": "值得的",
+    "emoji": "🌟",
+    "audio": "words/audio/worthy.mp3",
+    "image": ""
+  },
+  {
+    "word": "would",
+    "chinese": "将",
+    "emoji": "🔮",
+    "audio": "words/audio/would.mp3",
+    "image": ""
+  },
+  {
+    "word": "wound",
+    "chinese": "伤口",
+    "emoji": "🩹",
+    "audio": "words/audio/wound.mp3",
+    "image": ""
+  },
+  {
+    "word": "wrap",
+    "chinese": "包",
+    "emoji": "🎁",
+    "audio": "words/audio/wrap.mp3",
+    "image": ""
+  },
+  {
+    "word": "wrist",
+    "chinese": "手腕",
+    "emoji": "✋",
+    "audio": "words/audio/wrist.mp3",
+    "image": ""
+  },
+  {
+    "word": "write",
+    "chinese": "写",
+    "emoji": "✏️",
+    "audio": "words/audio/write.mp3",
+    "image": ""
+  },
+  {
+    "word": "writer",
+    "chinese": "作家",
+    "emoji": "✏️",
+    "audio": "words/audio/writer.mp3",
+    "image": ""
+  },
+  {
+    "word": "writing",
+    "chinese": "写作",
+    "emoji": "✏️",
+    "audio": "words/audio/writing.mp3",
+    "image": ""
+  },
+  {
+    "word": "wrong",
+    "chinese": "错误的",
+    "emoji": "❌",
+    "audio": "words/audio/wrong.mp3",
+    "image": ""
+  },
+  {
+    "word": "xerox",
+    "chinese": "复印",
+    "emoji": "📄",
+    "audio": "words/audio/xerox.mp3",
+    "image": ""
+  },
+  {
+    "word": "xylophone",
+    "chinese": "木琴",
+    "emoji": "🎹",
+    "audio": "words/audio/xylophone.mp3",
+    "image": ""
+  },
+  {
+    "word": "yard",
+    "chinese": "院子",
+    "emoji": "🏡",
+    "audio": "words/audio/yard.mp3",
+    "image": ""
+  },
+  {
+    "word": "year",
+    "chinese": "年",
+    "emoji": "📅",
+    "audio": "words/audio/year.mp3",
+    "image": ""
+  },
+  {
+    "word": "yearly",
+    "chinese": "每年的",
+    "emoji": "📅",
+    "audio": "words/audio/yearly.mp3",
+    "image": ""
+  },
+  {
+    "word": "yellow",
+    "chinese": "黄色的",
+    "emoji": "🟡",
+    "audio": "words/audio/yellow.mp3",
+    "image": ""
+  },
+  {
+    "word": "yes",
+    "chinese": "是的",
+    "emoji": "✅",
+    "audio": "words/audio/yes.mp3",
+    "image": ""
+  },
+  {
+    "word": "yesterday",
+    "chinese": "昨天",
+    "emoji": "📆",
+    "audio": "words/audio/yesterday.mp3",
+    "image": ""
+  },
+  {
+    "word": "yet",
+    "chinese": "还",
+    "emoji": "⏰",
+    "audio": "words/audio/yet.mp3",
+    "image": ""
+  },
+  {
+    "word": "you",
+    "chinese": "你",
+    "emoji": "👤",
+    "audio": "words/audio/you.mp3",
+    "image": ""
+  },
+  {
+    "word": "young",
+    "chinese": "年轻的",
+    "emoji": "👶",
+    "audio": "words/audio/young.mp3",
+    "image": ""
+  },
+  {
+    "word": "youngster",
+    "chinese": "年轻人",
+    "emoji": "🏃",
+    "audio": "words/audio/youngster.mp3",
+    "image": ""
+  },
+  {
+    "word": "your",
+    "chinese": "你的",
+    "emoji": "🎒",
+    "audio": "words/audio/your.mp3",
+    "image": ""
+  },
+  {
+    "word": "yours",
+    "chinese": "你的",
+    "emoji": "🎒",
+    "audio": "words/audio/yours.mp3",
+    "image": ""
+  },
+  {
+    "word": "yourself",
+    "chinese": "你自己",
+    "emoji": "👤",
+    "audio": "words/audio/yourself.mp3",
+    "image": ""
+  },
+  {
+    "word": "youth",
+    "chinese": "青年",
+    "emoji": "🌱",
+    "audio": "words/audio/youth.mp3",
+    "image": ""
+  },
+  {
+    "word": "zebra",
+    "chinese": "斑马",
+    "emoji": "🦓",
+    "audio": "words/audio/zebra.mp3",
+    "image": ""
+  },
+  {
+    "word": "zero",
+    "chinese": "零",
+    "emoji": "0️⃣",
+    "audio": "words/audio/zero.mp3",
+    "image": ""
+  },
+  {
+    "word": "zigzag",
+    "chinese": "之字形",
+    "emoji": "➡",
+    "audio": "words/audio/zigzag.mp3",
+    "image": ""
+  },
+  {
+    "word": "zinc",
+    "chinese": "锌",
+    "emoji": "🔧",
+    "audio": "words/audio/zinc.mp3",
+    "image": ""
+  },
+  {
+    "word": "zone",
+    "chinese": "区域",
+    "emoji": "📍",
+    "audio": "words/audio/zone.mp3",
+    "image": ""
+  },
+  {
+    "word": "zoo",
+    "chinese": "动物园",
+    "emoji": "🦒",
+    "audio": "words/audio/zoo.mp3",
+    "image": ""
+  },
+  {
+    "word": "zoom",
+    "chinese": "缩放",
+    "emoji": "🔍",
+    "audio": "words/audio/zoom.mp3",
+    "image": ""
+  }
+]

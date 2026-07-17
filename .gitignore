@@ -1,0 +1,10 @@
+node_modules/
+npm-debug.log
+.env
+*.log
+server-startup.log
+test-results/
+playwright-report/
+tests/
+.DS_Store
+words/audio/*.mp3
