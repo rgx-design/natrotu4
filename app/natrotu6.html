@@ -930,8 +930,8 @@
                 <img id="userAvatar" class="user-avatar" src="" alt="Avatar">
                 <span id="currentUser">用户</span>
                 <span class="points-badge" id="userPoints">🏆 0</span>
-                <span class="edit-avatar-btn" onclick="showAvatarModal()">📷 换头像</span>
-                <span class="logout-btn" onclick="logout()">退出登录</span>
+                <span class="edit-avatar-btn" onclick="showAvatarModal()">📷 换头�?/span>
+                <span class="logout-btn" onclick="logout()">退出登�?/span>
             </div>
         </div>
 
@@ -939,7 +939,7 @@
             <div class="auth-form">
                 <h2 style="color:#e65100; margin-bottom:20px;">登录</h2>
                 <div class="auth-error" id="authError"></div>
-                <input type="text" class="auth-input" id="loginUsername" placeholder="用户名">
+                <input type="text" class="auth-input" id="loginUsername" placeholder="用户�?>
                 <input type="password" class="auth-input" id="loginPassword" placeholder="密码">
                 <button class="auth-btn" onclick="login()">登录</button>
                 <div class="auth-switch" onclick="showRegister()">还没有账号？点击注册</div>
@@ -947,7 +947,7 @@
             <div class="auth-form" id="registerForm" style="display:none;">
                 <h2 style="color:#e65100; margin-bottom:20px;">注册</h2>
                 <div class="auth-error" id="registerError"></div>
-                <input type="text" class="auth-input" id="regUsername" placeholder="用户名">
+                <input type="text" class="auth-input" id="regUsername" placeholder="用户�?>
                 <input type="password" class="auth-input" id="regPassword" placeholder="密码">
                 <input type="password" class="auth-input" id="regConfirm" placeholder="确认密码">
                 <div class="avatar-section">
@@ -966,16 +966,16 @@
                     </div>
                 </div>
                 <button class="auth-btn" onclick="register()">注册</button>
-                <div class="auth-switch" onclick="showLogin()">已有账号？点击登录</div>
+                <div class="auth-switch" onclick="showLogin()">已有账号？点击登�?/div>
             </div>
         </div>
 
         <div id="mainContent" style="display:none;">
             <div class="main-nav">
-                <div class="nav-item active" onclick="showPanel('settings')">🎮 开始游戏</div>
+                <div class="nav-item active" onclick="showPanel('settings')">🎮 开始游�?/div>
                 <div class="nav-item" onclick="showPanel('stats')">📊 学习统计</div>
-                <div class="nav-item" onclick="showPanel('wrong')">📝 错词本</div>
-                <div class="nav-item" onclick="showPanel('addWordbook')">➕ 添加词库</div>
+                <div class="nav-item" onclick="showPanel('wrong')">📝 错词�?/div>
+                <div class="nav-item" onclick="showPanel('addWordbook')">�?添加词库</div>
             </div>
 
             <div id="settingsPanel" class="settings-panel">
@@ -999,7 +999,7 @@
                         <button class="word-count-btn" data-count="100">100</button>
                     </div>
                 </div>
-                <button class="start-btn" onclick="startGame()">开始游戏</button>
+                <button class="start-btn" onclick="startGame()">开始游�?/button>
                 <button class="test-sound-btn" onclick="testSound()">🔊 测试发音</button>
             </div>
 
@@ -1007,11 +1007,11 @@
                 <div class="stats-grid">
                     <div class="stat-card">
                         <div class="stat-card-value" id="statTotalWords">0</div>
-                        <div class="stat-card-label">已学习单词</div>
+                        <div class="stat-card-label">已学习单�?/div>
                     </div>
                     <div class="stat-card">
                         <div class="stat-card-value" id="statCorrectRate">0%</div>
-                        <div class="stat-card-label">正确率</div>
+                        <div class="stat-card-label">正确�?/div>
                     </div>
                     <div class="stat-card">
                         <div class="stat-card-value" id="statGames">0</div>
@@ -1023,7 +1023,7 @@
                     </div>
                     <div class="stat-card">
                         <div class="stat-card-value" id="statTotalPoints">0</div>
-                        <div class="stat-card-label">总积分</div>
+                        <div class="stat-card-label">总积�?/div>
                     </div>
                     <div class="stat-card">
                         <div class="stat-card-value" id="statDailyPoints">0</div>
@@ -1046,7 +1046,7 @@
 
             <div id="wrongPanel" class="wrong-words-panel">
                 <div class="setting-section">
-                    <label class="setting-label">错词本 <span style="font-size:14px; font-weight:normal;" id="wrongCount">0</span></label>
+                    <label class="setting-label">错词�?<span style="font-size:14px; font-weight:normal;" id="wrongCount">0</span></label>
                     <button class="word-count-btn" onclick="reviewWrongWords()" style="width:auto; margin-bottom:15px;">复习错词</button>
                 </div>
                 <div class="wrong-words-list" id="wrongWordsList">
@@ -1056,15 +1056,15 @@
 
             <div id="addWordbookPanel" class="add-wordbook-panel">
                 <div class="add-wordbook-form">
-                    <h3 style="color:#e65100; margin-bottom:20px;">➕ 添加自定义词库</h3>
+                    <h3 style="color:#e65100; margin-bottom:20px;">�?添加自定义词�?/h3>
                     <div class="form-group">
                         <label>词库名称</label>
-                        <input type="text" id="newWordbookName" placeholder="例如：我的专业词汇">
+                        <input type="text" id="newWordbookName" placeholder="例如：我的专业词�?>
                     </div>
                     <div class="form-group">
                         <label>单词列表</label>
-                        <textarea id="newWordbookWords" placeholder="每行一个单词，格式：英文单词,中文释义,emoji&#10;例如：&#10;apple,苹果,🍎&#10;book,书,📖"></textarea>
-                        <div class="form-hint">支持格式：英文单词,中文释义,emoji 或 英文单词\t中文释义</div>
+                        <textarea id="newWordbookWords" placeholder="每行一个单词，格式：英文单�?中文释义,emoji&#10;例如�?#10;apple,苹果,🍎&#10;book,�?📖"></textarea>
+                        <div class="form-hint">支持格式：英文单�?中文释义,emoji �?英文单词\t中文释义</div>
                     </div>
                     <div class="form-buttons">
                         <button class="form-btn primary" onclick="addCustomWordbook()">添加词库</button>
@@ -1112,7 +1112,7 @@
 
             <div id="resultPanel" class="result-panel">
                 <div class="result-icon" id="resultIcon">🏆</div>
-                <div class="result-title" id="resultTitle">游戏成功！</div>
+                <div class="result-title" id="resultTitle">游戏成功�?/div>
                 <p id="resultMessage">恭喜你完成了所有单词！</p>
                 
                 <div class="result-layout">
@@ -1127,11 +1127,11 @@
                                 </div>
                                 <div class="report-stat-item">
                                     <div class="report-stat-value report-error" id="reportWrong">0</div>
-                                    <div class="report-stat-label">错误数</div>
+                                    <div class="report-stat-label">错误�?/div>
                                 </div>
                                 <div class="report-stat-item">
                                     <div class="report-stat-value report-rate" id="reportRate">0%</div>
-                                    <div class="report-stat-label">正确率</div>
+                                    <div class="report-stat-label">正确�?/div>
                                 </div>
                             </div>
                             
@@ -1141,7 +1141,7 @@
                                     <div class="report-mastered-value report-today" id="reportTodayMastered">0</div>
                                 </div>
                                 <div class="report-mastered-item">
-                                    <div class="report-mastered-label">总掌握</div>
+                                    <div class="report-mastered-label">总掌�?/div>
                                     <div class="report-mastered-value report-total" id="reportTotalMastered">0</div>
                                 </div>
                             </div>
@@ -1152,7 +1152,7 @@
                                 </div>
                                 <div class="report-streak-center">
                                     <div class="report-streak-num" id="reportStreakNum">7</div>
-                                    <div class="report-streak-label">天</div>
+                                    <div class="report-streak-label">�?/div>
                                 </div>
                             </div>
                             
@@ -1166,7 +1166,7 @@
                                     <span class="report-points-value" id="reportDailyPoints">0</span>
                                 </div>
                                 <div class="report-points-row">
-                                    <span class="report-points-label">总积分</span>
+                                    <span class="report-points-label">总积�?/span>
                                     <span class="report-points-value" id="reportTotalPoints">0</span>
                                 </div>
                                 <div class="report-points-row">
@@ -1177,8 +1177,8 @@
                             
                             <div class="report-rule-section">
                                 <div class="report-rule-title">📝 积分规则</div>
-                                <div class="report-rule-text">单局积分 = (正确单词数 / 学习时间秒) × 60 × 连续打卡天数</div>
-                                <div class="report-rule-note">* 单局积分 ≤ 1 不计入</div>
+                                <div class="report-rule-text">单局积分 = (正确单词�?/ 学习时间�? × 60 × 连续打卡天数</div>
+                                <div class="report-rule-note">* 单局积分 �?1 不计�?/div>
                             </div>
 
                             <div class="report-wordbook-stats">
@@ -1194,13 +1194,13 @@
                         </div>
                         <div class="result-buttons">
                             <button class="result-btn retry" onclick="resetGame()">再来一局</button>
-                            <button class="result-btn exit" onclick="exitGame()">退出游戏</button>
+                            <button class="result-btn exit" onclick="exitGame()">退出游�?/button>
                         </div>
                     </div>
                     
                     <div class="result-right">
                         <div class="leaderboard">
-                            <div class="leaderboard-title">🏆 木叶战力榜</div>
+                            <div class="leaderboard-title">🏆 木叶战力�?/div>
                             <div class="leaderboard-list" id="leaderboardList">
                             </div>
                         </div>
@@ -1234,7 +1234,7 @@
 
     <script>
         // ==================== API 配置 ====================
-        const API_BASE = 'http://localhost:3000';
+        const API_BASE = '';
         let authToken = localStorage.getItem('natrotu_token');
         let currentUser = null;
         
@@ -1248,7 +1248,7 @@
                 const json = await res.json();
                 return { ok: res.ok, status: res.status, data: json };
             } catch(e) {
-                return { ok: false, status: 0, data: { message: '服务器连接失败' } };
+                return { ok: false, status: 0, data: { message: '服务器连接失�? } };
             }
         }
     </script>
@@ -1294,7 +1294,7 @@
             todayStudyTime: 0
         };
 
-        // ====== 按词库学习统计 (每个词库分别记录学习词数和掌握词数) ======
+        // ====== 按词库学习统�?(每个词库分别记录学习词数和掌握词�? ======
         const WORDBOOK_STATS_PREFIX = 'naruto_wordbook_stats_';
 
         function getWordbookStatsKey() {
@@ -1393,7 +1393,7 @@
                         <span class="sep">/</span>
                         掌握 <span class="mastered-count">${masteredCount}</span>
                         <span class="sep">/</span>
-                        共 ${totalCount} (${masteryRate}%)
+                        �?${totalCount} (${masteryRate}%)
                     </span>`;
                 const bar = document.createElement('div');
                 bar.className = 'wordbook-stat-bar';
@@ -1476,7 +1476,7 @@
             gameState.streakDays = userData.streakDays || 1;
             gameState.todayStudyWords = userData.todayStudyWords || 0;
             gameState.todayStudyTime = userData.todayStudyTime || 0;
-            // 保存到 localStorage（确保 learnedWords 和 wrongWords 持久化）
+            // 保存�?localStorage（确�?learnedWords �?wrongWords 持久化）
             const progress = {
                 learnedWords: gameState.learnedWords,
                 wrongWords: gameState.wrongWords,
@@ -1521,7 +1521,7 @@
             const errorEl = document.getElementById('registerError');
             
             if (password !== confirm) {
-                errorEl.textContent = '两次密码输入不一致';
+                errorEl.textContent = '两次密码输入不一�?;
                 return;
             }
             
@@ -1678,14 +1678,14 @@
             
             const wordPool = wordManager.getWordbook(gameState.category);
             if (!wordPool) {
-                alert('词库加载失败！');
+                alert('词库加载失败�?);
                 return;
             }
             
             gameState.words = shuffleArray(wordPool).slice(0, gameState.wordCount);
             gameState.queue = [...gameState.words];
 
-            // 记录本局所有词为"已学习"(按当前词库归档)
+            // 记录本局所有词�?已学�?(按当前词库归�?
             gameState.words.forEach(w => recordLearnedForWordbook(gameState.category, w.word));
 
             updateStats();
@@ -1777,7 +1777,7 @@
             
             if (gameState.currentMode < 2) {
                 gameState.currentMode++;
-                document.getElementById('feedback').textContent = '✓ 正确！';
+                document.getElementById('feedback').textContent = '�?正确�?;
                 document.getElementById('feedback').className = 'feedback correct';
                 
                 setTimeout(() => {
@@ -1819,7 +1819,7 @@
                 gameState.queue.shift();
                 gameState.currentMode = 0;
                 
-                document.getElementById('feedback').textContent = '✓ 正确！完成该词！+1分 +1❤️';
+                document.getElementById('feedback').textContent = '�?正确！完成该词！+1�?+1❤️';
                 document.getElementById('feedback').className = 'feedback correct';
                 
                 updateStats();
@@ -1871,7 +1871,7 @@
             gameState.queue.push(wrongWord);
             gameState.currentMode = 0;
             
-            document.getElementById('feedback').textContent = '✗ 错误！正确答案: ' + word.word;
+            document.getElementById('feedback').textContent = '�?错误！正确答�? ' + word.word;
             document.getElementById('feedback').className = 'feedback wrong';
             
             updateStats();
@@ -1918,8 +1918,8 @@
             
             document.getElementById('statTotalPoints').textContent = gameState.totalPoints;
             document.getElementById('statDailyPoints').textContent = gameState.dailyPoints;
-            document.getElementById('statStreakDays').textContent = gameState.streakDays + '天';
-            document.getElementById('statTodayWords').textContent = gameState.todayStudyWords + '词';
+            document.getElementById('statStreakDays').textContent = gameState.streakDays + '�?;
+            document.getElementById('statTodayWords').textContent = gameState.todayStudyWords + '�?;
         }
 
         function saveUserProgress() {
@@ -1938,8 +1938,7 @@
             };
             localStorage.setItem('natrotu_progress', JSON.stringify(progress));
             
-            // 异步提交完整数据到服务器（含错词本、已学单词、hardModeCorrect）
-            apiCall('POST', '/game/complete', {
+            // 异步提交完整数据到服务器（含错词本、已学单词、hardModeCorrect�?            apiCall('POST', '/game/complete', {
                 correct: gameState.totalCorrect,
                 wrong: gameState.totalWrong,
                 streak: 0,
@@ -2003,7 +2002,7 @@
             try {
                 const audio = new Audio(audioUrl);
                 audio.play().catch(err => {
-                    console.warn('音频播放失败，回退到语音合成:', err);
+                    console.warn('音频播放失败，回退到语音合�?', err);
                     const word = gameState.queue[0];
                     if (word && 'speechSynthesis' in window) {
                         speakText(word.word, 'en-US');
@@ -2050,7 +2049,7 @@
             }
             
             utterance.onstart = function() {
-                console.log('语音播放开始:', text);
+                console.log('语音播放开�?', text);
             };
             
             utterance.onend = function() {
@@ -2062,7 +2061,7 @@
                 if (e.error === 'not-allowed') {
                     alert('语音合成被阻止，请检查浏览器权限设置');
                 } else if (e.error === 'language-not-supported') {
-                    alert('当前语言不支持语音合成');
+                    alert('当前语言不支持语音合�?);
                 }
             };
             
@@ -2099,10 +2098,10 @@
             activateUtterance.volume = 0;
             activateUtterance.rate = 0.1;
             activateUtterance.onend = function() {
-                console.log('语音引擎激活完成');
+                console.log('语音引擎激活完�?);
             };
             activateUtterance.onerror = function(e) {
-                console.warn('语音激活失败:', e.error);
+                console.warn('语音激活失�?', e.error);
             };
             
             try {
@@ -2148,15 +2147,14 @@
             gameState.todayStudyTime += studyTime;
             gameState.todayStudyWords += gameState.words.length;
             
-            // 困难模式得分 / 用时 * 60 * 连续天数（naruto3 游戏规则）
-            const roundPoints = Math.round((gameState.hardModeCorrect / studyTime) * 60 * gameState.streakDays);
+            // 困难模式得分 / 用时 * 60 * 连续天数（naruto3 游戏规则�?            const roundPoints = Math.round((gameState.hardModeCorrect / studyTime) * 60 * gameState.streakDays);
             const dailyPoints = roundPoints <= 1 ? 0 : roundPoints;
             gameState.dailyPoints += dailyPoints;
             gameState.totalPoints += dailyPoints;
             
             if (success) {
                 document.getElementById('resultIcon').textContent = '🏆';
-                document.getElementById('resultTitle').textContent = '游戏成功！';
+                document.getElementById('resultTitle').textContent = '游戏成功�?;
                 document.getElementById('resultMessage').textContent = `恭喜你完成了所有单词！获得 ${dailyPoints} 战力！`;
                 document.getElementById('resultPanel').className = 'result-panel result-success';
             } else {
@@ -2197,7 +2195,7 @@
                 { name: '中忍', min: 1000, max: 2999 },
                 { name: '上忍', min: 3000, max: 5999 },
                 { name: '精英上忍', min: 6000, max: 9999 },
-                { name: '影', min: 10000, max: 999999 }
+                { name: '�?, min: 10000, max: 999999 }
             ];
             
             let currentLevel = levels[0];
@@ -2214,8 +2212,7 @@
             
             renderLeaderboard();
 
-            // 渲染词库学习统计并刷新徽章
-            renderWordbookStatsList('reportWordbookStats');
+            // 渲染词库学习统计并刷新徽�?            renderWordbookStatsList('reportWordbookStats');
             updateTabBadges();
 
             saveUserProgress();
@@ -2234,12 +2231,12 @@
 
         async function renderLeaderboard() {
             const leaderboardList = document.getElementById('leaderboardList');
-            leaderboardList.innerHTML = '<div style="text-align:center; color:#999; padding:20px;">加载中...</div>';
+            leaderboardList.innerHTML = '<div style="text-align:center; color:#999; padding:20px;">加载�?..</div>';
             
             const res = await apiCall('GET', '/leaderboard');
             
             if (!res.ok || !res.data.leaderboard) {
-                leaderboardList.innerHTML = '<div style="text-align:center; color:#999; padding:20px;">暂无排行榜数据</div>';
+                leaderboardList.innerHTML = '<div style="text-align:center; color:#999; padding:20px;">暂无排行榜数�?/div>';
                 return;
             }
             
@@ -2261,9 +2258,9 @@
                     </div>
                     <div class="leaderboard-info">
                         <div class="leaderboard-name">${user.username}</div>
-                        <div class="leaderboard-detail">错词 ${user.wrongWords || 0} 词 | 正确率 ${user.accuracy || 0}%</div>
+                        <div class="leaderboard-detail">错词 ${user.wrongWords || 0} �?| 正确�?${user.accuracy || 0}%</div>
                     </div>
-                    <div class="leaderboard-score">${points}分</div>
+                    <div class="leaderboard-score">${points}�?/div>
                 `;
                 
                 leaderboardList.appendChild(item);
@@ -2276,7 +2273,7 @@
 
         function reviewWrongWords() {
             if (gameState.wrongWords.length === 0) {
-                alert('暂无错词！');
+                alert('暂无错词�?);
                 return;
             }
             
@@ -2360,14 +2357,14 @@
             const text = document.getElementById('newWordbookWords').value;
             
             if (!name) {
-                alert('请输入词库名称');
+                alert('请输入词库名�?);
                 return;
             }
             
             const words = wordManager.parseCustomWords(text);
             
             if (words.length === 0) {
-                alert('请至少添加一个单词');
+                alert('请至少添加一个单�?);
                 return;
             }
             
@@ -2383,7 +2380,7 @@
             setupWordbookTabs();
             showPanel('settings');
             
-            alert('词库添加成功！');
+            alert('词库添加成功�?);
         }
 
         window.addEventListener('load', init);

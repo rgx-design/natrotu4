@@ -8,7 +8,16 @@ const crypto = require('crypto');
 const fs = require('fs');
 const path = require('path');
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
+
+// 项目根目录（兼容本地与 Vercel serverless 路径）
+const ROOT_DIR = (() => {
+    const candidates = [process.cwd(), __dirname, path.join(__dirname, '..')];
+    for (const c of candidates) {
+        if (fs.existsSync(path.join(c, 'index.html'))) return c;
+    }
+    return process.cwd();
+})();
 
 // ==================== 内存数据存储 ====================
 const users = new Map();
@@ -43,7 +52,8 @@ function generateToken() {
 }
 
 // ==================== HTTP 服务器 ====================
-const server = http.createServer(async (req, res) => {
+// 导出 requestHandler 供 Vercel serverless 使用
+async function requestHandler(req, res) {
     // CORS
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
@@ -309,10 +319,10 @@ const server = http.createServer(async (req, res) => {
     // 静态文件服务
     if (req.method === 'GET') {
         let filePath = pathname === '/' ? '/index.html' : decodeURIComponent(pathname);
-        filePath = path.join(__dirname, filePath);
+        filePath = path.join(ROOT_DIR, filePath);
 
         // 安全检查
-        if (!filePath.startsWith(__dirname)) {
+        if (!filePath.startsWith(ROOT_DIR)) {
             res.writeHead(403);
             res.end('Forbidden');
             return;
@@ -344,18 +354,25 @@ const server = http.createServer(async (req, res) => {
 
     res.writeHead(404);
     res.end('Not Found');
-});
+}
 
-server.listen(PORT, () => {
-    console.log('\n' + '='.repeat(50));
-    console.log('🔥 火影背单词 - 测试服务器');
-    console.log('='.repeat(50));
-    console.log(`\n服务器运行在: http://localhost:${PORT}`);
-    console.log('\n功能:');
-    console.log('  • POST /register  - 用户注册');
-    console.log('  • POST /login     - 用户登录');
-    console.log('  • GET  /profile   - 获取资料');
-    console.log('  • POST /game/complete - 完成游戏');
-    console.log('  • GET  /leaderboard - 排行榜');
-    console.log('\n内存存储，无需 MongoDB\n');
-});
+// 本地运行时才监听端口（Vercel serverless 不需要）
+if (require.main === module) {
+    const PORT = process.env.PORT || 3000;
+    const server = http.createServer(requestHandler);
+    server.listen(PORT, () => {
+        console.log('\n' + '='.repeat(50));
+        console.log('🔥 火影背单词 - 测试服务器');
+        console.log('='.repeat(50));
+        console.log(`\n服务器运行在: http://localhost:${PORT}`);
+        console.log('\n功能:');
+        console.log('  • POST /register  - 用户注册');
+        console.log('  • POST /login     - 用户登录');
+        console.log('  • GET  /profile   - 获取资料');
+        console.log('  • POST /game/complete - 完成游戏');
+        console.log('  • GET  /leaderboard - 排行榜');
+        console.log('\n内存存储，无需 MongoDB\n');
+    });
+}
+
+module.exports = requestHandler;
