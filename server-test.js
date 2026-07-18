@@ -343,7 +343,14 @@ async function requestHandler(req, res) {
                 '.json': 'application/json',
                 '.svg': 'image/svg+xml'
             };
-            res.writeHead(200, { 'Content-Type': contentTypes[ext] || 'text/plain' });
+            const headers = { 'Content-Type': contentTypes[ext] || 'text/plain' };
+            // 强制 no-cache，确保浏览器总是获取最新版本
+            if (ext === '.html') {
+                headers['Cache-Control'] = 'no-store, must-revalidate';
+                headers['Pragma'] = 'no-cache';
+                headers['Expires'] = '0';
+            }
+            res.writeHead(200, headers);
             res.end(content);
         } catch (e) {
             res.writeHead(404);
