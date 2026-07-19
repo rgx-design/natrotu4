@@ -346,7 +346,7 @@ async function requestHandler(req, res) {
             const headers = { 'Content-Type': contentTypes[ext] || 'text/plain' };
             // 强制 no-cache，确保浏览器总是获取最新版本
             if (ext === '.html') {
-                headers['Cache-Control'] = 'no-store, must-revalidate';
+                headers['Cache-Control'] = 'no-cache, no-store, must-revalidate';
                 headers['Pragma'] = 'no-cache';
                 headers['Expires'] = '0';
             }
